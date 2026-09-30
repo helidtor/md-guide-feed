@@ -1,0 +1,2112 @@
+{
+  "schemaVersion": "1.0.0",
+  "dataVersion": 1,
+  "lists": [
+    {
+      "version": "MD-2026-09-03",
+      "effectiveDate": "2026-09-03T00:00:00+07:00",
+      "effectiveTimeConfirmed": false,
+      "announcedDate": "2026-08-31",
+      "sourceUrls": [
+        "https://ygorganization.com/master-duel-fl-list-update-and-card-decoder"
+      ],
+      "note": "Snapshot YGOPRODeck getBanList.php. Gio hieu luc (00:00 +07:00) chua xac nhan tu nguon chinh thuc.",
+      "fetchedAt": "2026-10-01T00:45:13+07:00",
+      "entries": [
+        {
+          "cardId": 572850,
+          "name": "Tearlaments Scheiren",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 1041278,
+          "name": "Branded Expulsion",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 1475311,
+          "name": "Allure of Darkness",
+          "status": "limited"
+        },
+        {
+          "cardId": 1845204,
+          "name": "Instant Fusion",
+          "status": "limited"
+        },
+        {
+          "cardId": 2295440,
+          "name": "One for One",
+          "status": "limited"
+        },
+        {
+          "cardId": 3040496,
+          "name": "Chaos Ruler, the Chaotic Magical Dragon",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 3280747,
+          "name": "Sixth Sense",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 4280258,
+          "name": "Apollousa, Bow of the Goddess",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 4928565,
+          "name": "Tearlaments Kashtira",
+          "status": "limited"
+        },
+        {
+          "cardId": 5851097,
+          "name": "Vanity's Emptiness",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 6153210,
+          "name": "Ketu Dracotail",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 6602300,
+          "name": "Blaze Fenix, the Burning Bombardment Bird",
+          "status": "limited"
+        },
+        {
+          "cardId": 6798031,
+          "name": "Ryzeal Cross",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 7375867,
+          "name": "Dracotail Mululu",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 7902349,
+          "name": "Left Arm of the Forbidden One",
+          "status": "limited"
+        },
+        {
+          "cardId": 8124921,
+          "name": "Right Leg of the Forbidden One",
+          "status": "limited"
+        },
+        {
+          "cardId": 8628798,
+          "name": "D.D. Dynamite",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 8903700,
+          "name": "Djinn Releaser of Rituals",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 9091064,
+          "name": "Vanquish Soul Jiaolong",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 9674034,
+          "name": "Snake-Eye Ash",
+          "status": "limited"
+        },
+        {
+          "cardId": 9929398,
+          "name": "Blackwing - Gofu the Vague Shadow",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 10158145,
+          "name": "Knightmare Corruptor Iblee",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 10966439,
+          "name": "Marshmao☆Yummy",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 11110587,
+          "name": "That Grass Looks Greener",
+          "status": "limited"
+        },
+        {
+          "cardId": 11384280,
+          "name": "Cannon Soldier",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 13332685,
+          "name": "Ame no Habakiri no Mitsurugi",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 14702066,
+          "name": "Cannon Soldier MK-2",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 15341821,
+          "name": "Dandylion",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 15397015,
+          "name": "Inspector Boarder",
+          "status": "limited"
+        },
+        {
+          "cardId": 16387555,
+          "name": "Kewl Tune Cue",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 16509007,
+          "name": "Kewl Tune Mix",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 16923472,
+          "name": "Wind-Up Hunter",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 17178486,
+          "name": "Life Equalizer",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 17209452,
+          "name": "Kewl Tune Rotary",
+          "status": "limited"
+        },
+        {
+          "cardId": 17266660,
+          "name": "Herald of Orange Light",
+          "status": "limited"
+        },
+        {
+          "cardId": 17375316,
+          "name": "Confiscation",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 17412721,
+          "name": "Elder Entity Norden",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 18144507,
+          "name": "Harpie's Feather Duster",
+          "status": "limited"
+        },
+        {
+          "cardId": 19613556,
+          "name": "Heavy Storm",
+          "status": "limited"
+        },
+        {
+          "cardId": 19619755,
+          "name": "Performapal Five-Rainbow Magician",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 19740112,
+          "name": "Barrier Statue of the Drought",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 20292186,
+          "name": "Artifact Scythe",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 20508881,
+          "name": "Radiant Typhoon Vision",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 20663556,
+          "name": "Substitoad",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 21044178,
+          "name": "Abyss Dweller",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 22593417,
+          "name": "Topologic Gumblar Dragon",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 23002292,
+          "name": "Red Reboot",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 23434538,
+          "name": "Maxx \"C\"",
+          "status": "limited"
+        },
+        {
+          "cardId": 23516703,
+          "name": "Summon Limit",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 23557835,
+          "name": "Dimension Fusion",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 23558733,
+          "name": "Phoenixian Cluster Amaryllis",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 24207889,
+          "name": "There Can Be Only One",
+          "status": "limited"
+        },
+        {
+          "cardId": 24224830,
+          "name": "Called by the Grave",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 25926710,
+          "name": "Kelbek the Ancient Vanguard",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 27174286,
+          "name": "Return from the Different Dimension",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 27552504,
+          "name": "Beatrice, Lady of the Eternal",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 28126717,
+          "name": "Floowandereeze and the Magnificent Map",
+          "status": "limited"
+        },
+        {
+          "cardId": 28297833,
+          "name": "Necroface",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 28566710,
+          "name": "Last Turn",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 28642461,
+          "name": "K9-66a Jokul",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 29302858,
+          "name": "Vanquish Soul Razen",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 30336082,
+          "name": "Sangen Summoning",
+          "status": "limited"
+        },
+        {
+          "cardId": 30430448,
+          "name": "Runick Freezing Curses",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 31423101,
+          "name": "Divine Sword - Phoenix Blade",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 31425736,
+          "name": "Cupsy☆Yummy",
+          "status": "limited"
+        },
+        {
+          "cardId": 31562086,
+          "name": "Runick Tip",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 32061192,
+          "name": "Maliss <P> Dormouse",
+          "status": "limited"
+        },
+        {
+          "cardId": 32181268,
+          "name": "Amano-Iwato",
+          "status": "limited"
+        },
+        {
+          "cardId": 32548318,
+          "name": "Rahu Dracotail",
+          "status": "limited"
+        },
+        {
+          "cardId": 32723153,
+          "name": "Magical Explosion",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 32807846,
+          "name": "Reinforcement of the Army",
+          "status": "limited"
+        },
+        {
+          "cardId": 33396948,
+          "name": "Exodia the Forbidden One",
+          "status": "limited"
+        },
+        {
+          "cardId": 33782437,
+          "name": "One Day of Peace",
+          "status": "limited"
+        },
+        {
+          "cardId": 33854624,
+          "name": "Bystial Magnamhut",
+          "status": "limited"
+        },
+        {
+          "cardId": 34022970,
+          "name": "Ext Ryzeal",
+          "status": "limited"
+        },
+        {
+          "cardId": 34086406,
+          "name": "Lavalval Chain",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 34206604,
+          "name": "Magical Scientist",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 34906152,
+          "name": "Mass Driver",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 34945480,
+          "name": "Outer Entity Azathot",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 35059553,
+          "name": "Kaiser Colosseum",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 35726888,
+          "name": "Foolish Burial Goods",
+          "status": "limited"
+        },
+        {
+          "cardId": 35772782,
+          "name": "Number 67: Pair-a-Dice Smasher",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 35844557,
+          "name": "Sword Ryzeal",
+          "status": "limited"
+        },
+        {
+          "cardId": 35984222,
+          "name": "Ido the Supreme Magical Force",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 38273745,
+          "name": "Evilswarm Ouroboros",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 38814750,
+          "name": "PSY-Framegear Gamma",
+          "status": "limited"
+        },
+        {
+          "cardId": 40605147,
+          "name": "Solemn Strike",
+          "status": "limited"
+        },
+        {
+          "cardId": 41420027,
+          "name": "Solemn Judgment",
+          "status": "limited"
+        },
+        {
+          "cardId": 41482598,
+          "name": "Mirage of Nightmare",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 41855169,
+          "name": "Jowgen the Spiritualist",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 42009836,
+          "name": "Fossil Dyna Pachycephalo",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 42703248,
+          "name": "Giant Trunade",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 42829885,
+          "name": "The Forceful Sentry",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 43262273,
+          "name": "Appointer of the Red Lotus",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 44362883,
+          "name": "Branded Fusion",
+          "status": "limited"
+        },
+        {
+          "cardId": 44519536,
+          "name": "Left Leg of the Forbidden One",
+          "status": "limited"
+        },
+        {
+          "cardId": 44763025,
+          "name": "Delinquent Duo",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 45171524,
+          "name": "Mitsurugi Prayers",
+          "status": "limited"
+        },
+        {
+          "cardId": 48130397,
+          "name": "Super Polymerization",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 49238328,
+          "name": "Pot of Extravagance",
+          "status": "limited"
+        },
+        {
+          "cardId": 50588353,
+          "name": "Crystron Halqifibrax",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 52340444,
+          "name": "Sky Striker Mecha - Hornet Drones",
+          "status": "limited"
+        },
+        {
+          "cardId": 52653092,
+          "name": "Number S0: Utopic ZEXAL",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 53334471,
+          "name": "Gozen Match",
+          "status": "limited"
+        },
+        {
+          "cardId": 54447022,
+          "name": "Soul Charge",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 54562327,
+          "name": "Stake your Soul!",
+          "status": "limited"
+        },
+        {
+          "cardId": 54719828,
+          "name": "Number 16: Shock Master",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 55144522,
+          "name": "Pot of Greed",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 55204071,
+          "name": "Gimmick Puppet Nightmare",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 55623480,
+          "name": "Fairy Tail - Snow",
+          "status": "limited"
+        },
+        {
+          "cardId": 57421866,
+          "name": "Level Eater",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 57585212,
+          "name": "Self-Destruct Button",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 57953380,
+          "name": "Card of Safe Return",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 58820923,
+          "name": "Number 95: Galaxy-Eyes Dark Matter Dragon",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 58921041,
+          "name": "Anti-Spell Fragrance",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 59509952,
+          "name": "Archlord Kristya",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 59537380,
+          "name": "Guardragon Agarpain",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 59750328,
+          "name": "Card of Demise",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 60306277,
+          "name": "Synchro Zone",
+          "status": "limited"
+        },
+        {
+          "cardId": 60682203,
+          "name": "Cold Wave",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 60764609,
+          "name": "Fiendsmith Engraver",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 61049315,
+          "name": "Naturia Rosewhip",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 61740673,
+          "name": "Imperial Order",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 62242678,
+          "name": "Hot Red Dragon Archfiend King Calamity",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 62320425,
+          "name": "Agido the Ancient Sentinel",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 63101919,
+          "name": "Tempest Magician",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 63504681,
+          "name": "Number 86: Heroic Champion - Rhongomyniad",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 63542003,
+          "name": "Keldo the Sacred Protector",
+          "status": "limited"
+        },
+        {
+          "cardId": 63789924,
+          "name": "Smoke Grenade of the Thief",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 64697231,
+          "name": "Trap Dustshoot",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 65681983,
+          "name": "Crossout Designator",
+          "status": "limited"
+        },
+        {
+          "cardId": 66730191,
+          "name": "Sangen Kaimen",
+          "status": "limited"
+        },
+        {
+          "cardId": 67115133,
+          "name": "Radiant Typhoon Chant",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 67835547,
+          "name": "Runick Slumber",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 68059897,
+          "name": "Maliss <Q> Red Ransom",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 68304193,
+          "name": "Kashtira Unicorn",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 68337209,
+          "name": "Maliss in Underground",
+          "status": "limited"
+        },
+        {
+          "cardId": 68462976,
+          "name": "Secret Village of the Spellcasters",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 69015963,
+          "name": "Cyber-Stein",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 69243953,
+          "name": "Butterfly Dagger - Elma",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 69272449,
+          "name": "Maliss <P> White Rabbit",
+          "status": "limited"
+        },
+        {
+          "cardId": 69299029,
+          "name": "Treasures of the Kings",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 70369116,
+          "name": "Predaplant Verte Anaconda",
+          "status": "limited"
+        },
+        {
+          "cardId": 70828912,
+          "name": "Premature Burial",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 70903634,
+          "name": "Right Arm of the Forbidden One",
+          "status": "limited"
+        },
+        {
+          "cardId": 71832012,
+          "name": "Pressured Planet Wraitsoth",
+          "status": "limited"
+        },
+        {
+          "cardId": 72537897,
+          "name": "Obedience Schooled",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 72892473,
+          "name": "Card Destruction",
+          "status": "limited"
+        },
+        {
+          "cardId": 73356503,
+          "name": "Barrier Statue of the Stormwinds",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 73468603,
+          "name": "Set Rotation",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 73628505,
+          "name": "Terraforming",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 74078255,
+          "name": "Tearlaments Merrli",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 74191942,
+          "name": "Painful Choice",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 74586817,
+          "name": "PSY-Framelord Omega",
+          "status": "limited"
+        },
+        {
+          "cardId": 74920585,
+          "name": "Tearlaments Sulliek",
+          "status": "limited"
+        },
+        {
+          "cardId": 75003700,
+          "name": "Dracotail Lukias",
+          "status": "limited"
+        },
+        {
+          "cardId": 75500286,
+          "name": "Gold Sarcophagus",
+          "status": "limited"
+        },
+        {
+          "cardId": 75732622,
+          "name": "Grinder Golem",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 76375976,
+          "name": "Mystic Mine",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 76815942,
+          "name": "Lyrilusc - Independent Nightingale",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 77103950,
+          "name": "Primeval Planet Perlereino",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 77679716,
+          "name": "Superheavy Samurai Soulbreaker Armor",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 78058681,
+          "name": "Kewl Tune Synchro",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 78706415,
+          "name": "Fiber Jar",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 78872731,
+          "name": "Zoodiac Ratpier",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 79571449,
+          "name": "Graceful Charity",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 79606837,
+          "name": "Herald of the Arc Light",
+          "status": "limited"
+        },
+        {
+          "cardId": 79875176,
+          "name": "Toon Cannon Soldier",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 80237445,
+          "name": "Artifact Mjollnir",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 80604092,
+          "name": "Ultimate Offering",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 80845034,
+          "name": "WANTED: Seeker of Sinful Spoils",
+          "status": "limited"
+        },
+        {
+          "cardId": 81439173,
+          "name": "Foolish Burial",
+          "status": "limited"
+        },
+        {
+          "cardId": 82732705,
+          "name": "Skill Drain",
+          "status": "limited"
+        },
+        {
+          "cardId": 83152482,
+          "name": "Union Carrier",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 83764719,
+          "name": "Monster Reborn",
+          "status": "limited"
+        },
+        {
+          "cardId": 84211599,
+          "name": "Pot of Prosperity",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 84749824,
+          "name": "Solemn Warning",
+          "status": "limited"
+        },
+        {
+          "cardId": 85106525,
+          "name": "Bonfire",
+          "status": "limited"
+        },
+        {
+          "cardId": 85115440,
+          "name": "Zoodiac Broadbull",
+          "status": "limited"
+        },
+        {
+          "cardId": 85243784,
+          "name": "Linkross",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 85602018,
+          "name": "Last Will",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 86148577,
+          "name": "Guardragon Elpy",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 87639778,
+          "name": "Harpie's Feather Storm",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 88071625,
+          "name": "The Tyrant Neptune",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 88581108,
+          "name": "True King of All Calamities",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 89392810,
+          "name": "Kewl Tune Reco",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 90361010,
+          "name": "Superheavy Samurai Soulpiercer",
+          "status": "limited"
+        },
+        {
+          "cardId": 90590303,
+          "name": "Number 41: Bagooska the Terribly Tired Tapir",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 90809975,
+          "name": "Toadally Awesome",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 90846359,
+          "name": "Rivalry of Warlords",
+          "status": "limited"
+        },
+        {
+          "cardId": 90884403,
+          "name": "Phantasmal Lord Ultimitl Bishbaalkin",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 91800273,
+          "name": "Dimension Shifter",
+          "status": "limited"
+        },
+        {
+          "cardId": 91810826,
+          "name": "Tenpai Dragon Chundra",
+          "status": "limited"
+        },
+        {
+          "cardId": 91869203,
+          "name": "Amazoness Archer",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 92107604,
+          "name": "Runick Fountain",
+          "status": "limited"
+        },
+        {
+          "cardId": 92731385,
+          "name": "Tearlaments Kitkallos",
+          "status": "limited"
+        },
+        {
+          "cardId": 93016201,
+          "name": "Royal Oppression",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 93369354,
+          "name": "Fishborg Blaster",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 94145021,
+          "name": "Droll & Lock Bird",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 94445733,
+          "name": "Runick Destruction",
+          "status": "limited"
+        },
+        {
+          "cardId": 95474755,
+          "name": "Number 89: Diablosis the Mind Hacker",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 95727991,
+          "name": "Catapult Turtle",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 96676583,
+          "name": "Maliss <P> Chessy Cat",
+          "status": "limited"
+        },
+        {
+          "cardId": 96782886,
+          "name": "Mind Master",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 98645731,
+          "name": "Pot of Duality",
+          "status": "limited"
+        },
+        {
+          "cardId": 99243014,
+          "name": "Synchro Overtake",
+          "status": "limited"
+        },
+        {
+          "cardId": 99937011,
+          "name": "Mudora the Sword Oracle",
+          "status": "limited"
+        }
+      ]
+    },
+    {
+      "version": "MD-2026-10-06",
+      "effectiveDate": "2026-10-06T11:00:00+07:00",
+      "effectiveTimeConfirmed": false,
+      "announcedDate": "2026-09-24",
+      "sourceUrls": [
+        "https://ygorganization.com/master-duel-fl-list-update-and-card-decoder"
+      ],
+      "note": "Gio hieu luc tam dat 11:00 +07:00 (= 13:00 JST theo YGOrganization, nguon thu cap); chua co thong bao chinh thuc cua Konami.",
+      "fetchedAt": "2026-10-01T00:45:13+07:00",
+      "entries": [
+        {
+          "cardId": 572850,
+          "name": "Tearlaments Scheiren",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 1041278,
+          "name": "Branded Expulsion",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 1475311,
+          "name": "Allure of Darkness",
+          "status": "limited"
+        },
+        {
+          "cardId": 1845204,
+          "name": "Instant Fusion",
+          "status": "limited"
+        },
+        {
+          "cardId": 2295440,
+          "name": "One for One",
+          "status": "limited"
+        },
+        {
+          "cardId": 3040496,
+          "name": "Chaos Ruler, the Chaotic Magical Dragon",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 3280747,
+          "name": "Sixth Sense",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 4280258,
+          "name": "Apollousa, Bow of the Goddess",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 4928565,
+          "name": "Tearlaments Kashtira",
+          "status": "limited"
+        },
+        {
+          "cardId": 5851097,
+          "name": "Vanity's Emptiness",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 6153210,
+          "name": "Ketu Dracotail",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 6602300,
+          "name": "Blaze Fenix, the Burning Bombardment Bird",
+          "status": "limited"
+        },
+        {
+          "cardId": 6798031,
+          "name": "Ryzeal Cross",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 7375867,
+          "name": "Dracotail Mululu",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 7902349,
+          "name": "Left Arm of the Forbidden One",
+          "status": "limited"
+        },
+        {
+          "cardId": 8124921,
+          "name": "Right Leg of the Forbidden One",
+          "status": "limited"
+        },
+        {
+          "cardId": 8628798,
+          "name": "D.D. Dynamite",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 8903700,
+          "name": "Djinn Releaser of Rituals",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 9091064,
+          "name": "Vanquish Soul Jiaolong",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 9674034,
+          "name": "Snake-Eye Ash",
+          "status": "limited"
+        },
+        {
+          "cardId": 9929398,
+          "name": "Blackwing - Gofu the Vague Shadow",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 10158145,
+          "name": "Knightmare Corruptor Iblee",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 10966439,
+          "name": "Marshmao☆Yummy",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 11110587,
+          "name": "That Grass Looks Greener",
+          "status": "limited"
+        },
+        {
+          "cardId": 11384280,
+          "name": "Cannon Soldier",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 13332685,
+          "name": "Ame no Habakiri no Mitsurugi",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 14702066,
+          "name": "Cannon Soldier MK-2",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 15341821,
+          "name": "Dandylion",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 15397015,
+          "name": "Inspector Boarder",
+          "status": "limited"
+        },
+        {
+          "cardId": 16387555,
+          "name": "Kewl Tune Cue",
+          "status": "limited"
+        },
+        {
+          "cardId": 16509007,
+          "name": "Kewl Tune Mix",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 16923472,
+          "name": "Wind-Up Hunter",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 17178486,
+          "name": "Life Equalizer",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 17209452,
+          "name": "Kewl Tune Rotary",
+          "status": "limited"
+        },
+        {
+          "cardId": 17266660,
+          "name": "Herald of Orange Light",
+          "status": "limited"
+        },
+        {
+          "cardId": 17375316,
+          "name": "Confiscation",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 17412721,
+          "name": "Elder Entity Norden",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 18144507,
+          "name": "Harpie's Feather Duster",
+          "status": "limited"
+        },
+        {
+          "cardId": 19613556,
+          "name": "Heavy Storm",
+          "status": "limited"
+        },
+        {
+          "cardId": 19619755,
+          "name": "Performapal Five-Rainbow Magician",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 19740112,
+          "name": "Barrier Statue of the Drought",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 20292186,
+          "name": "Artifact Scythe",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 20508881,
+          "name": "Radiant Typhoon Vision",
+          "status": "limited"
+        },
+        {
+          "cardId": 20663556,
+          "name": "Substitoad",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 21044178,
+          "name": "Abyss Dweller",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 22593417,
+          "name": "Topologic Gumblar Dragon",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 23002292,
+          "name": "Red Reboot",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 23434538,
+          "name": "Maxx \"C\"",
+          "status": "limited"
+        },
+        {
+          "cardId": 23516703,
+          "name": "Summon Limit",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 23557835,
+          "name": "Dimension Fusion",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 23558733,
+          "name": "Phoenixian Cluster Amaryllis",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 24207889,
+          "name": "There Can Be Only One",
+          "status": "limited"
+        },
+        {
+          "cardId": 24224830,
+          "name": "Called by the Grave",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 25926710,
+          "name": "Kelbek the Ancient Vanguard",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 27174286,
+          "name": "Return from the Different Dimension",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 27552504,
+          "name": "Beatrice, Lady of the Eternal",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 28126717,
+          "name": "Floowandereeze and the Magnificent Map",
+          "status": "limited"
+        },
+        {
+          "cardId": 28297833,
+          "name": "Necroface",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 28566710,
+          "name": "Last Turn",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 28642461,
+          "name": "K9-66a Jokul",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 29302858,
+          "name": "Vanquish Soul Razen",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 30271097,
+          "name": "The Fallen & The Virtuous",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 30336082,
+          "name": "Sangen Summoning",
+          "status": "limited"
+        },
+        {
+          "cardId": 30430448,
+          "name": "Runick Freezing Curses",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 31423101,
+          "name": "Divine Sword - Phoenix Blade",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 31425736,
+          "name": "Cupsy☆Yummy",
+          "status": "limited"
+        },
+        {
+          "cardId": 31562086,
+          "name": "Runick Tip",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 32061192,
+          "name": "Maliss <P> Dormouse",
+          "status": "limited"
+        },
+        {
+          "cardId": 32181268,
+          "name": "Amano-Iwato",
+          "status": "limited"
+        },
+        {
+          "cardId": 32548318,
+          "name": "Rahu Dracotail",
+          "status": "limited"
+        },
+        {
+          "cardId": 32723153,
+          "name": "Magical Explosion",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 32807846,
+          "name": "Reinforcement of the Army",
+          "status": "limited"
+        },
+        {
+          "cardId": 33396948,
+          "name": "Exodia the Forbidden One",
+          "status": "limited"
+        },
+        {
+          "cardId": 33782437,
+          "name": "One Day of Peace",
+          "status": "limited"
+        },
+        {
+          "cardId": 33854624,
+          "name": "Bystial Magnamhut",
+          "status": "limited"
+        },
+        {
+          "cardId": 34022970,
+          "name": "Ext Ryzeal",
+          "status": "limited"
+        },
+        {
+          "cardId": 34086406,
+          "name": "Lavalval Chain",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 34206604,
+          "name": "Magical Scientist",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 34906152,
+          "name": "Mass Driver",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 34945480,
+          "name": "Outer Entity Azathot",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 35059553,
+          "name": "Kaiser Colosseum",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 35726888,
+          "name": "Foolish Burial Goods",
+          "status": "limited"
+        },
+        {
+          "cardId": 35772782,
+          "name": "Number 67: Pair-a-Dice Smasher",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 35844557,
+          "name": "Sword Ryzeal",
+          "status": "limited"
+        },
+        {
+          "cardId": 35984222,
+          "name": "Ido the Supreme Magical Force",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 38273745,
+          "name": "Evilswarm Ouroboros",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 38814750,
+          "name": "PSY-Framegear Gamma",
+          "status": "limited"
+        },
+        {
+          "cardId": 40605147,
+          "name": "Solemn Strike",
+          "status": "limited"
+        },
+        {
+          "cardId": 41420027,
+          "name": "Solemn Judgment",
+          "status": "limited"
+        },
+        {
+          "cardId": 41482598,
+          "name": "Mirage of Nightmare",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 41855169,
+          "name": "Jowgen the Spiritualist",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 42009836,
+          "name": "Fossil Dyna Pachycephalo",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 42703248,
+          "name": "Giant Trunade",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 42829885,
+          "name": "The Forceful Sentry",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 43262273,
+          "name": "Appointer of the Red Lotus",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 44362883,
+          "name": "Branded Fusion",
+          "status": "limited"
+        },
+        {
+          "cardId": 44519536,
+          "name": "Left Leg of the Forbidden One",
+          "status": "limited"
+        },
+        {
+          "cardId": 44763025,
+          "name": "Delinquent Duo",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 45171524,
+          "name": "Mitsurugi Prayers",
+          "status": "limited"
+        },
+        {
+          "cardId": 48130397,
+          "name": "Super Polymerization",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 49238328,
+          "name": "Pot of Extravagance",
+          "status": "limited"
+        },
+        {
+          "cardId": 50588353,
+          "name": "Crystron Halqifibrax",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 52340444,
+          "name": "Sky Striker Mecha - Hornet Drones",
+          "status": "limited"
+        },
+        {
+          "cardId": 52653092,
+          "name": "Number S0: Utopic ZEXAL",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 53334471,
+          "name": "Gozen Match",
+          "status": "limited"
+        },
+        {
+          "cardId": 54143349,
+          "name": "Radiant Typhoon Eldam",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 54447022,
+          "name": "Soul Charge",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 54562327,
+          "name": "Stake your Soul!",
+          "status": "limited"
+        },
+        {
+          "cardId": 54719828,
+          "name": "Number 16: Shock Master",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 55144522,
+          "name": "Pot of Greed",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 55204071,
+          "name": "Gimmick Puppet Nightmare",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 55623480,
+          "name": "Fairy Tail - Snow",
+          "status": "limited"
+        },
+        {
+          "cardId": 57421866,
+          "name": "Level Eater",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 57585212,
+          "name": "Self-Destruct Button",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 57953380,
+          "name": "Card of Safe Return",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 58820923,
+          "name": "Number 95: Galaxy-Eyes Dark Matter Dragon",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 58921041,
+          "name": "Anti-Spell Fragrance",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 59509952,
+          "name": "Archlord Kristya",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 59537380,
+          "name": "Guardragon Agarpain",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 59750328,
+          "name": "Card of Demise",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 60306277,
+          "name": "Synchro Zone",
+          "status": "limited"
+        },
+        {
+          "cardId": 60682203,
+          "name": "Cold Wave",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 60764609,
+          "name": "Fiendsmith Engraver",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 61049315,
+          "name": "Naturia Rosewhip",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 61740673,
+          "name": "Imperial Order",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 62242678,
+          "name": "Hot Red Dragon Archfiend King Calamity",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 62320425,
+          "name": "Agido the Ancient Sentinel",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 63101919,
+          "name": "Tempest Magician",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 63504681,
+          "name": "Number 86: Heroic Champion - Rhongomyniad",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 63542003,
+          "name": "Keldo the Sacred Protector",
+          "status": "limited"
+        },
+        {
+          "cardId": 63789924,
+          "name": "Smoke Grenade of the Thief",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 64697231,
+          "name": "Trap Dustshoot",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 65681983,
+          "name": "Crossout Designator",
+          "status": "limited"
+        },
+        {
+          "cardId": 66730191,
+          "name": "Sangen Kaimen",
+          "status": "limited"
+        },
+        {
+          "cardId": 67115133,
+          "name": "Radiant Typhoon Chant",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 67835547,
+          "name": "Runick Slumber",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 68059897,
+          "name": "Maliss <Q> Red Ransom",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 68304193,
+          "name": "Kashtira Unicorn",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 68337209,
+          "name": "Maliss in Underground",
+          "status": "limited"
+        },
+        {
+          "cardId": 68462976,
+          "name": "Secret Village of the Spellcasters",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 69015963,
+          "name": "Cyber-Stein",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 69243953,
+          "name": "Butterfly Dagger - Elma",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 69272449,
+          "name": "Maliss <P> White Rabbit",
+          "status": "limited"
+        },
+        {
+          "cardId": 69299029,
+          "name": "Treasures of the Kings",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 70369116,
+          "name": "Predaplant Verte Anaconda",
+          "status": "limited"
+        },
+        {
+          "cardId": 70828912,
+          "name": "Premature Burial",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 70903634,
+          "name": "Right Arm of the Forbidden One",
+          "status": "limited"
+        },
+        {
+          "cardId": 71832012,
+          "name": "Pressured Planet Wraitsoth",
+          "status": "limited"
+        },
+        {
+          "cardId": 72537897,
+          "name": "Obedience Schooled",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 72892473,
+          "name": "Card Destruction",
+          "status": "limited"
+        },
+        {
+          "cardId": 73356503,
+          "name": "Barrier Statue of the Stormwinds",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 73468603,
+          "name": "Set Rotation",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 73628505,
+          "name": "Terraforming",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 74078255,
+          "name": "Tearlaments Merrli",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 74191942,
+          "name": "Painful Choice",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 74586817,
+          "name": "PSY-Framelord Omega",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 74920585,
+          "name": "Tearlaments Sulliek",
+          "status": "limited"
+        },
+        {
+          "cardId": 75003700,
+          "name": "Dracotail Lukias",
+          "status": "limited"
+        },
+        {
+          "cardId": 75500286,
+          "name": "Gold Sarcophagus",
+          "status": "limited"
+        },
+        {
+          "cardId": 75732622,
+          "name": "Grinder Golem",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 76375976,
+          "name": "Mystic Mine",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 76815942,
+          "name": "Lyrilusc - Independent Nightingale",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 77103950,
+          "name": "Primeval Planet Perlereino",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 77679716,
+          "name": "Superheavy Samurai Soulbreaker Armor",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 78058681,
+          "name": "Kewl Tune Synchro",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 78706415,
+          "name": "Fiber Jar",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 78872731,
+          "name": "Zoodiac Ratpier",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 79571449,
+          "name": "Graceful Charity",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 79606837,
+          "name": "Herald of the Arc Light",
+          "status": "limited"
+        },
+        {
+          "cardId": 79875176,
+          "name": "Toon Cannon Soldier",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 80237445,
+          "name": "Artifact Mjollnir",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 80604092,
+          "name": "Ultimate Offering",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 80845034,
+          "name": "WANTED: Seeker of Sinful Spoils",
+          "status": "limited"
+        },
+        {
+          "cardId": 81439173,
+          "name": "Foolish Burial",
+          "status": "limited"
+        },
+        {
+          "cardId": 82732705,
+          "name": "Skill Drain",
+          "status": "limited"
+        },
+        {
+          "cardId": 83152482,
+          "name": "Union Carrier",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 83764719,
+          "name": "Monster Reborn",
+          "status": "limited"
+        },
+        {
+          "cardId": 84211599,
+          "name": "Pot of Prosperity",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 84749824,
+          "name": "Solemn Warning",
+          "status": "limited"
+        },
+        {
+          "cardId": 85106525,
+          "name": "Bonfire",
+          "status": "limited"
+        },
+        {
+          "cardId": 85115440,
+          "name": "Zoodiac Broadbull",
+          "status": "limited"
+        },
+        {
+          "cardId": 85243784,
+          "name": "Linkross",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 85602018,
+          "name": "Last Will",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 86148577,
+          "name": "Guardragon Elpy",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 87639778,
+          "name": "Harpie's Feather Storm",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 88071625,
+          "name": "The Tyrant Neptune",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 88581108,
+          "name": "True King of All Calamities",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 89392810,
+          "name": "Kewl Tune Reco",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 90361010,
+          "name": "Superheavy Samurai Soulpiercer",
+          "status": "limited"
+        },
+        {
+          "cardId": 90590303,
+          "name": "Number 41: Bagooska the Terribly Tired Tapir",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 90809975,
+          "name": "Toadally Awesome",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 90846359,
+          "name": "Rivalry of Warlords",
+          "status": "limited"
+        },
+        {
+          "cardId": 90884403,
+          "name": "Phantasmal Lord Ultimitl Bishbaalkin",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 91800273,
+          "name": "Dimension Shifter",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 91810826,
+          "name": "Tenpai Dragon Chundra",
+          "status": "limited"
+        },
+        {
+          "cardId": 91869203,
+          "name": "Amazoness Archer",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 92107604,
+          "name": "Runick Fountain",
+          "status": "limited"
+        },
+        {
+          "cardId": 92731385,
+          "name": "Tearlaments Kitkallos",
+          "status": "limited"
+        },
+        {
+          "cardId": 93016201,
+          "name": "Royal Oppression",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 93369354,
+          "name": "Fishborg Blaster",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 94145021,
+          "name": "Droll & Lock Bird",
+          "status": "semi-limited"
+        },
+        {
+          "cardId": 94445733,
+          "name": "Runick Destruction",
+          "status": "limited"
+        },
+        {
+          "cardId": 95474755,
+          "name": "Number 89: Diablosis the Mind Hacker",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 95727991,
+          "name": "Catapult Turtle",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 96676583,
+          "name": "Maliss <P> Chessy Cat",
+          "status": "limited"
+        },
+        {
+          "cardId": 96782886,
+          "name": "Mind Master",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 98645731,
+          "name": "Pot of Duality",
+          "status": "limited"
+        },
+        {
+          "cardId": 99243014,
+          "name": "Synchro Overtake",
+          "status": "forbidden"
+        },
+        {
+          "cardId": 99937011,
+          "name": "Mudora the Sword Oracle",
+          "status": "limited"
+        }
+      ]
+    }
+  ]
+}

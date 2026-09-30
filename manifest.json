@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "dataVersion": 1,
+  "generatedAt": "2026-10-01T00:59:16+07:00",
+  "sources": [
+    {
+      "name": "YGOPRODeck API v7",
+      "url": "https://db.ygoprodeck.com/api/v7/",
+      "note": "Dữ liệu lá bài (app tải trực tiếp), danh sách archetype cho deck stub và snapshot banlist Master Duel."
+    },
+    {
+      "name": "YGOrganization",
+      "url": "https://ygorganization.com/master-duel-fl-list-update-and-card-decoder",
+      "note": "Bản chép lại thông báo banlist Master Duel (nguồn thứ cấp; không phải trang chính thức của Konami)."
+    }
+  ],
+  "files": {
+    "decks": {
+      "url": "decks.json",
+      "sha256": "647083fd7d33f1f1e4133e83312adf8bf52b5a46ef62ae2623c4244318450284",
+      "size": 124889
+    },
+    "guides": {
+      "url": "guides.json",
+      "sha256": "19510ed36dd28832d484e927a9c1f124183888e22a4393ed3bed8b4d6ee120f0",
+      "size": 67195
+    },
+    "banlist": {
+      "url": "banlist.json",
+      "sha256": "e8de6b892fae7c3ed35f04cf912a0ad135aa1b550a1621c5456d6a67e320fb12",
+      "size": 52566
+    }
+  }
+}

@@ -1,0 +1,5458 @@
+{
+  "schemaVersion": "1.0.0",
+  "dataVersion": 1,
+  "decks": [
+    {
+      "id": "sky-striker",
+      "name": "Sky Striker",
+      "contentLanguage": "vi",
+      "aliases": [
+        "Sky Striker Ace",
+        "Skystriker",
+        "Sky-Striker",
+        "Sky",
+        "Raye",
+        "Bài Sky Striker",
+        "Bai Sky Striker"
+      ],
+      "format": "master-duel",
+      "archetypes": [
+        "Sky Striker"
+      ],
+      "featuredRank": 1,
+      "playstyleTags": [
+        "control",
+        "grind",
+        "going-second",
+        "hand-trap-heavy",
+        "flexible"
+      ],
+      "difficulty": "intermediate",
+      "updatedAt": "2026-09-30",
+      "banlist": {
+        "version": "MD-2026-09-03",
+        "effectiveDate": "2026-09-03",
+        "verifiedOn": "2026-09-30",
+        "pendingVersionReviewed": "MD-2026-10-06"
+      },
+      "contentStatus": "in-review",
+      "coreCards": [
+        {
+          "cardId": 26077387,
+          "name": "Sky Striker Ace - Raye",
+          "qty": 3,
+          "role": "starter",
+          "note": "Quái chính: tự Tribute (Quick Effect) để gọi Sky Striker Ace từ Extra Deck vào Extra Monster Zone, rồi hồi sinh từ GY khi Link bị đối thủ xử lý."
+        },
+        {
+          "cardId": 63166095,
+          "name": "Sky Striker Mobilize - Engage!",
+          "qty": 3,
+          "role": "searcher",
+          "note": "Search 1 lá Sky Striker khi Main Monster Zone trống; có 3+ Spell trong GY thì rút thêm 1 lá."
+        },
+        {
+          "cardId": 98338152,
+          "name": "Sky Striker Mecha - Widow Anchor",
+          "qty": 3,
+          "role": "interruption",
+          "note": "Quick-Play: negate 1 Effect Monster face-up; có 3+ Spell trong GY thì cướp luôn quái đó đến End Phase."
+        },
+        {
+          "cardId": 9726840,
+          "name": "Sky Striker Mobilize - Linkage!",
+          "qty": 3,
+          "role": "extender",
+          "note": "Quick-Play: gửi 1 lá khác bạn điều khiển vào GY để gọi Sky Striker Ace từ Extra Deck vào Extra Monster Zone; khoá Extra Deck chỉ còn Sky Striker Ace."
+        },
+        {
+          "cardId": 34433770,
+          "name": "Sky Striker Special Maneuver - Lemnisgate!",
+          "qty": 2,
+          "role": "recursion",
+          "note": "Xào Ace + Spell trong GY về Deck để trả bài trên sân về tay; từ GY có thể banish để Link Summon thêm 1 Sky Striker Ace Link."
+        },
+        {
+          "cardId": 37351133,
+          "name": "Sky Striker Ace - Roze",
+          "qty": 2,
+          "role": "extender",
+          "note": "Tự Special Summon từ tay khi một Sky Striker Ace khác được Summon; là nguyên liệu cho Zero. Cẩn thận: Roze ở Main Monster Zone sẽ khoá Engage!/Widow Anchor."
+        }
+      ],
+      "techCards": [
+        {
+          "cardId": 14558127,
+          "name": "Ash Blossom & Joyous Spring",
+          "qty": 3,
+          "role": "hand-trap",
+          "note": "Hand trap tốt nhất để chặn search/Special Summon từ Deck của đối thủ ở lượt 1."
+        },
+        {
+          "cardId": 94145021,
+          "name": "Droll & Lock Bird",
+          "qty": 2,
+          "role": "hand-trap",
+          "note": "Chặn toàn bộ việc thêm bài từ Main Deck lên tay sau lần search đầu tiên của đối thủ. Semi-Limited ở MD."
+        },
+        {
+          "cardId": 23434538,
+          "name": "Maxx \"C\"",
+          "qty": 1,
+          "role": "hand-trap",
+          "note": "Rút bài mỗi lần đối thủ Special Summon; Limited 1 ở MD."
+        },
+        {
+          "cardId": 30271097,
+          "name": "The Fallen & The Virtuous",
+          "qty": 2,
+          "role": "board-breaker",
+          "note": "Gửi Albion the Branded Dragon (hoặc Ecclesia and the Dark Dragon) từ Extra Deck để phá 1 lá face-up. Giữ 2 bản vì MD-2026-10-06 đưa lá này về Semi-Limited."
+        },
+        {
+          "cardId": 20508881,
+          "name": "Radiant Typhoon Vision",
+          "qty": 1,
+          "role": "consistency",
+          "note": "Quick-Play rút 2 rồi bỏ 1 Quick-Play Spell (deck có rất nhiều), hoặc lấy Mystical Space Typhoon. Giữ 1 bản vì MD-2026-10-06 đưa về Limited."
+        },
+        {
+          "cardId": 24299458,
+          "name": "Forbidden Droplet",
+          "qty": 2,
+          "role": "board-breaker",
+          "note": "Gửi bài thừa trên tay/sân vào GY để giảm nửa ATK và negate quái đối thủ; đồng thời nuôi số Spell trong GY."
+        },
+        {
+          "cardId": 98829635,
+          "name": "Forbidden Crown",
+          "qty": 2,
+          "role": "interruption",
+          "note": "Quick-Play negate 1 quái face-up và khoá nó làm nguyên liệu; đối thủ không thể phản hồi bằng hiệu ứng quái."
+        },
+        {
+          "cardId": 35261759,
+          "name": "Pot of Desires",
+          "qty": 2,
+          "role": "consistency",
+          "note": "Rút 2 lá; deck ít phụ thuộc vào Deck nên banish 10 lá úp chấp nhận được."
+        },
+        {
+          "cardId": 25311006,
+          "name": "Triple Tactics Talent",
+          "qty": 2,
+          "role": "going-second",
+          "note": "Khi đối thủ đã kích hoạt hiệu ứng quái trong Main Phase của bạn (thường do hand trap): rút 2, cướp 1 quái hoặc xem tay và xào 1 lá."
+        },
+        {
+          "cardId": 70368879,
+          "name": "Upstart Goblin",
+          "qty": 3,
+          "role": "consistency",
+          "note": "Rút 1 lá và làm mỏng deck; tăng số Spell trong GY rất nhanh cho Engage!/Widow Anchor."
+        },
+        {
+          "cardId": 32807846,
+          "name": "Reinforcement of the Army",
+          "qty": 1,
+          "role": "consistency",
+          "note": "Thêm Raye (hoặc Roze) từ Deck lên tay: Raye thứ 4 về mặt thực tế."
+        },
+        {
+          "cardId": 5318639,
+          "name": "Mystical Space Typhoon",
+          "qty": 1,
+          "role": "board-breaker",
+          "note": "Phá 1 S/T; cũng là mục tiêu của Radiant Typhoon Vision."
+        },
+        {
+          "cardId": 65681983,
+          "name": "Crossout Designator",
+          "qty": 1,
+          "role": "hand-trap",
+          "note": "Quick-Play khai báo 1 tên lá (thường là starter hay hand trap của đối thủ) để negate cả lượt."
+        },
+        {
+          "cardId": 51227866,
+          "name": "Sky Striker Mecha - Shark Cannon",
+          "qty": 1,
+          "role": "utility",
+          "note": "Banish 1 quái trong GY đối thủ, hoặc với 3+ Spell trong GY thì gọi nó về phía bạn."
+        }
+      ],
+      "extraDeck": [
+        {
+          "cardId": 63288573,
+          "name": "Sky Striker Ace - Kagari",
+          "qty": 3,
+          "role": "searcher",
+          "note": "Link-1: khi được Special Summon thì lấy lại 1 Sky Striker Spell từ GY. Chỉ Special Summon Kagari 1 lần mỗi lượt."
+        },
+        {
+          "cardId": 76072561,
+          "name": "Sky Striker Ace = Zero",
+          "qty": 2,
+          "role": "boss",
+          "note": "2 Sky Striker Ace: search/lấy lại Spell, hoặc Tribute (Quick Effect) để gọi Raye + Roze từ Deck/GY rồi phá 1 lá. Chỉ 1 hiệu ứng mỗi lượt."
+        },
+        {
+          "cardId": 90673288,
+          "name": "Sky Striker Ace - Shizuku",
+          "qty": 1,
+          "role": "utility"
+        },
+        {
+          "cardId": 8491308,
+          "name": "Sky Striker Ace - Hayate",
+          "qty": 1,
+          "role": "utility"
+        },
+        {
+          "cardId": 25072579,
+          "name": "Prototype Sky Striker Ace - Amatsu",
+          "qty": 1,
+          "role": "utility"
+        },
+        {
+          "cardId": 75147529,
+          "name": "Sky Striker Ace - Zeke",
+          "qty": 1,
+          "role": "utility"
+        },
+        {
+          "cardId": 87746184,
+          "name": "Albion the Branded Dragon",
+          "qty": 1,
+          "role": "combo-piece",
+          "note": "Mục tiêu gửi từ Extra Deck cho The Fallen & The Virtuous."
+        },
+        {
+          "cardId": 78397661,
+          "name": "Ecclesia and the Dark Dragon",
+          "qty": 1,
+          "role": "combo-piece",
+          "note": "Mục tiêu gửi thứ hai cho The Fallen & The Virtuous."
+        },
+        {
+          "cardId": 98462037,
+          "name": "Sky Striker Ace - Azalea",
+          "qty": 1,
+          "role": "utility"
+        },
+        {
+          "cardId": 63013339,
+          "name": "Sky Striker Ace - Camellia",
+          "qty": 1,
+          "role": "utility"
+        },
+        {
+          "cardId": 29301450,
+          "name": "S:P Little Knight",
+          "qty": 1,
+          "role": "board-breaker"
+        },
+        {
+          "cardId": 93039339,
+          "name": "Super Starslayer TY-PHON - Sky Crisis",
+          "qty": 1,
+          "role": "going-second"
+        }
+      ],
+      "sources": [
+        {
+          "title": "YGOPRODeck API v7 - Master Duel card pool (passcode, English card text dùng để viết từng bước combo)",
+          "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php?format=master%20duel&misc=yes",
+          "accessed": "2026-09-30",
+          "usage": "data"
+        },
+        {
+          "title": "YGOrganization - [Master Duel] F&L List Update and Card Decoder (công bố 2026-09-24, áp dụng 2026-10-06)",
+          "url": "https://ygorganization.com/master-duel-fl-list-update-and-card-decoder",
+          "accessed": "2026-09-30",
+          "usage": "fact-check"
+        }
+      ]
+    },
+    {
+      "id": "branded-despia",
+      "name": "Branded Despia",
+      "contentLanguage": "vi",
+      "aliases": [
+        "Branded",
+        "Despia",
+        "Albaz",
+        "Fallen of Albaz",
+        "Branded Albaz",
+        "Despia Branded",
+        "Bài Branded",
+        "Bai Branded",
+        "Bài Albaz",
+        "Bai Albaz"
+      ],
+      "format": "master-duel",
+      "archetypes": [
+        "Branded",
+        "Despia",
+        "Albaz Dragon",
+        "Dogmatika"
+      ],
+      "featuredRank": 2,
+      "playstyleTags": [
+        "combo",
+        "midrange",
+        "flexible",
+        "going-second"
+      ],
+      "difficulty": "intermediate",
+      "updatedAt": "2026-09-30",
+      "banlist": {
+        "version": "MD-2026-09-03",
+        "effectiveDate": "2026-09-03",
+        "verifiedOn": "2026-09-30",
+        "pendingVersionReviewed": "MD-2026-10-06"
+      },
+      "contentStatus": "in-review",
+      "coreCards": [
+        {
+          "cardId": 62962630,
+          "name": "Aluber the Jester of Despia",
+          "qty": 3,
+          "role": "starter",
+          "note": "Normal/Special Summon: thêm 1 Branded S/T (thường là Branded Fusion). Trong GY: hồi sinh và negate khi Fusion của bạn bị đối thủ xử lý."
+        },
+        {
+          "cardId": 68468459,
+          "name": "Fallen of Albaz",
+          "qty": 1,
+          "role": "starter",
+          "note": "Khi được Summon: bỏ 1 lá để Fusion bằng quái trên cả hai sân, gồm chính nó. Thường nằm trong Deck làm nguyên liệu cho Branded Fusion."
+        },
+        {
+          "cardId": 44362883,
+          "name": "Branded Fusion",
+          "qty": 1,
+          "role": "combo-piece",
+          "note": "Fusion 1 quái nhắc đến Albaz bằng 2 quái từ tay/Deck/sân. Limited 1 ở MD."
+        },
+        {
+          "cardId": 73819701,
+          "name": "Fallen of the White Dragon",
+          "qty": 2,
+          "role": "extender",
+          "note": "Luôn được coi là Fallen of Albaz; gửi 1 Fusion nhắc đến Albaz từ Extra Deck để tự Special Summon, rồi gọi 1 Ecclesia."
+        },
+        {
+          "cardId": 25451383,
+          "name": "Albion the Shrouded Dragon",
+          "qty": 1,
+          "role": "extender",
+          "note": "Tên thành Fallen of Albaz trên sân/GY. Khi ở tay/GY: gửi Albaz hoặc 1 Branded S/T vào GY; nếu lá gửi đi từ tay thì Special Summon lá này, nếu từ Deck thì đặt lá này xuống đáy Deck (đặt từ tay thì rút 1)."
+        },
+        {
+          "cardId": 29948294,
+          "name": "Branded in High Spirits",
+          "qty": 3,
+          "role": "searcher",
+          "note": "Gửi 1 Fusion Level 8 cùng Type có 2500 ATK/DEF từ Extra Deck, rồi bỏ quái đã lộ để thêm Albaz hoặc quái nhắc đến Albaz."
+        },
+        {
+          "cardId": 95515789,
+          "name": "Blazing Cartesia, the Virtuous",
+          "qty": 2,
+          "role": "extender",
+          "note": "Special Summon từ tay nếu có Albaz trên sân/GY; Quick Effect Fusion Level 8+ trong Main Phase."
+        },
+        {
+          "cardId": 55273560,
+          "name": "Incredible Ecclesia, the Virtuous",
+          "qty": 2,
+          "role": "extender",
+          "note": "Tribute (Quick Effect) để gọi Fallen of Albaz từ tay/Deck."
+        },
+        {
+          "cardId": 45883110,
+          "name": "Guiding Quem, the Virtuous",
+          "qty": 1,
+          "role": "extender",
+          "note": "Khi được Summon gửi Albaz hoặc lá nhắc đến Albaz từ Deck vào GY; khi 1 lá rời Extra Deck thì hồi sinh quái nhắc đến Albaz."
+        },
+        {
+          "cardId": 60303688,
+          "name": "Dogmatika Ecclesia, the Virtuous",
+          "qty": 1,
+          "role": "searcher",
+          "note": "Search 1 lá Dogmatika khi được Summon (khoá Extra Deck lượt đó)."
+        },
+        {
+          "cardId": 19304410,
+          "name": "Tri-Brigade Springans Kitt",
+          "qty": 1,
+          "role": "recursion",
+          "note": "Khi vào GY: Special Summon lại Fallen of Albaz hoặc quái nhắc đến Albaz từ GY ở Defense Position."
+        },
+        {
+          "cardId": 36637374,
+          "name": "Branded Opening",
+          "qty": 1,
+          "role": "searcher",
+          "note": "Bỏ 1 lá, thêm hoặc gọi 1 quái Despia (Aluber) từ Deck; trong GY có thể banish để bảo vệ Fusion."
+        },
+        {
+          "cardId": 48130397,
+          "name": "Super Polymerization",
+          "qty": 2,
+          "role": "board-breaker",
+          "note": "Bỏ 1 lá, Fusion bằng quái trên cả hai sân; không ai có thể phản hồi."
+        },
+        {
+          "cardId": 17751597,
+          "name": "Branded Retribution",
+          "qty": 1,
+          "role": "interruption",
+          "note": "Counter Trap negate hiệu ứng Special Summon bằng cách trả Fusion nhắc đến Albaz về Extra Deck."
+        },
+        {
+          "cardId": 30271097,
+          "name": "The Fallen & The Virtuous",
+          "qty": 2,
+          "role": "board-breaker",
+          "note": "Gửi 1 Fusion nhắc đến Albaz từ Extra Deck để phá 1 lá face-up (Albion vào GY sẽ lấy Branded S/T ở End Phase). Semi-Limited từ MD-2026-10-06."
+        }
+      ],
+      "techCards": [
+        {
+          "cardId": 14558127,
+          "name": "Ash Blossom & Joyous Spring",
+          "qty": 3,
+          "role": "hand-trap",
+          "note": "Hand trap chuẩn chặn search/Special Summon từ Deck."
+        },
+        {
+          "cardId": 42141493,
+          "name": "Mulcharmy Fuwalos",
+          "qty": 3,
+          "role": "hand-trap",
+          "note": "Đi sau: rút bài mỗi khi đối thủ Special Summon từ Deck/Extra Deck. Chỉ dùng được khi bạn không điều khiển lá nào."
+        },
+        {
+          "cardId": 94145021,
+          "name": "Droll & Lock Bird",
+          "qty": 2,
+          "role": "hand-trap",
+          "note": "Chặn thêm bài từ Main Deck sau lần search đầu của đối thủ."
+        },
+        {
+          "cardId": 23434538,
+          "name": "Maxx \"C\"",
+          "qty": 1,
+          "role": "hand-trap",
+          "note": "Limited 1 ở MD; rút bài theo số lần đối thủ Special Summon."
+        },
+        {
+          "cardId": 1984618,
+          "name": "Nadir Servant",
+          "qty": 2,
+          "role": "consistency",
+          "note": "Gửi 1 quái từ Extra Deck vào GY rồi thêm Albaz hoặc quái Dogmatika (ATK không cao hơn quái vừa gửi) từ Deck/GY; khoá Special Summon từ Extra Deck phần còn lại của lượt."
+        },
+        {
+          "cardId": 19096726,
+          "name": "Tri-Brigade Mercourier",
+          "qty": 1,
+          "role": "interruption",
+          "note": "Khi bạn có Fusion nhắc đến Albaz: gửi từ tay/sân vào GY để negate hiệu ứng quái của đối thủ."
+        },
+        {
+          "cardId": 33854624,
+          "name": "Bystial Magnamhut",
+          "qty": 1,
+          "role": "extender",
+          "note": "Banish 1 quái LIGHT/DARK trong GY để tự Special Summon; End Phase thêm 1 Dragon từ Deck/GY (ví dụ Fallen of Albaz)."
+        },
+        {
+          "cardId": 82489470,
+          "name": "The Golden Swordsoul",
+          "qty": 1,
+          "role": "protection",
+          "note": "Khi một quái tấn công: Special Summon từ tay và negate đòn tấn công; có Fusion nhắc đến Albaz thì phá luôn quái đó."
+        },
+        {
+          "cardId": 24299458,
+          "name": "Forbidden Droplet",
+          "qty": 2,
+          "role": "board-breaker",
+          "note": "Gửi bài thừa để giảm nửa ATK và negate quái của đối thủ khi đi sau."
+        }
+      ],
+      "extraDeck": [
+        {
+          "cardId": 44146295,
+          "name": "Mirrorjade the Iceblade Dragon",
+          "qty": 1,
+          "role": "boss",
+          "note": "Quick Effect: gửi 1 Fusion nhắc đến Albaz từ Extra Deck để banish 1 quái trên sân."
+        },
+        {
+          "cardId": 87746184,
+          "name": "Albion the Branded Dragon",
+          "qty": 2,
+          "role": "recursion",
+          "note": "Albaz + 1 LIGHT. Vào GY trong lượt: End Phase thêm hoặc úp 1 Branded S/T từ Deck."
+        },
+        {
+          "cardId": 70534340,
+          "name": "Lubellion the Searing Dragon",
+          "qty": 1,
+          "role": "combo-piece",
+          "note": "1 DARK + Albaz. Khi được Fusion Summon: bỏ 1 lá để Fusion tiếp bằng cách xào nguyên liệu trên sân/GY/banish về Deck."
+        },
+        {
+          "cardId": 76666602,
+          "name": "The Dragon that Devours the Dogma",
+          "qty": 2,
+          "role": "boss"
+        },
+        {
+          "cardId": 24915933,
+          "name": "Granguignol the Dusk Dragon",
+          "qty": 1,
+          "role": "combo-piece"
+        },
+        {
+          "cardId": 41373230,
+          "name": "Titaniklad the Ash Dragon",
+          "qty": 1,
+          "role": "utility"
+        },
+        {
+          "cardId": 3410461,
+          "name": "Alba-Lenatus the Abyss Dragon",
+          "qty": 1,
+          "role": "utility"
+        },
+        {
+          "cardId": 51409648,
+          "name": "Rindbrumm the Striking Dragon",
+          "qty": 1,
+          "role": "interruption"
+        },
+        {
+          "cardId": 78397661,
+          "name": "Ecclesia and the Dark Dragon",
+          "qty": 1,
+          "role": "utility"
+        },
+        {
+          "cardId": 72578374,
+          "name": "Khaos Starsource Dragon",
+          "qty": 1,
+          "role": "board-breaker"
+        },
+        {
+          "cardId": 74405783,
+          "name": "The Three Champions of Swordsoul",
+          "qty": 1,
+          "role": "interruption"
+        },
+        {
+          "cardId": 18666161,
+          "name": "Despian Proskenion",
+          "qty": 1,
+          "role": "utility"
+        },
+        {
+          "cardId": 54757758,
+          "name": "Mudragon of the Swamp",
+          "qty": 1,
+          "role": "protection"
+        }
+      ],
+      "sources": [
+        {
+          "title": "YGOPRODeck API v7 - Master Duel card pool (passcode, English card text dùng để viết từng bước combo)",
+          "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php?format=master%20duel&misc=yes",
+          "accessed": "2026-09-30",
+          "usage": "data"
+        },
+        {
+          "title": "YGOrganization - [Master Duel] F&L List Update and Card Decoder (công bố 2026-09-24, áp dụng 2026-10-06)",
+          "url": "https://ygorganization.com/master-duel-fl-list-update-and-card-decoder",
+          "accessed": "2026-09-30",
+          "usage": "fact-check"
+        }
+      ]
+    },
+    {
+      "id": "kewl-tune",
+      "name": "Kewl Tune",
+      "contentLanguage": "vi",
+      "aliases": [
+        "Kewltune",
+        "Kewl-Tune",
+        "Cool Tune",
+        "KT",
+        "Kewl Tune Synchro",
+        "Bài Kewl Tune",
+        "Bai Kewl Tune",
+        "Tuner Kewl Tune"
+      ],
+      "format": "master-duel",
+      "archetypes": [
+        "Kewl Tune"
+      ],
+      "featuredRank": 3,
+      "playstyleTags": [
+        "combo",
+        "hand-trap-heavy",
+        "flexible",
+        "going-second"
+      ],
+      "difficulty": "advanced",
+      "updatedAt": "2026-09-30",
+      "banlist": {
+        "version": "MD-2026-09-03",
+        "effectiveDate": "2026-09-03",
+        "verifiedOn": "2026-09-30",
+        "pendingVersionReviewed": "MD-2026-10-06"
+      },
+      "contentStatus": "in-review",
+      "coreCards": [
+        {
+          "cardId": 16387555,
+          "name": "Kewl Tune Cue",
+          "qty": 1,
+          "role": "starter",
+          "note": "Normal Summon: gọi 1 Tuner (trừ Cue) từ tay/Deck/GY, khoá chỉ Special Summon Tuner. Làm nguyên liệu Synchro: xem 2 lá đầu Deck đối thủ, banish 1. Limited từ MD-2026-10-06."
+        },
+        {
+          "cardId": 16509007,
+          "name": "Kewl Tune Mix",
+          "qty": 2,
+          "role": "starter",
+          "note": "Khi được Summon: thêm 1 quái Kewl Tune (trừ Level 2) từ Deck/GY. Làm nguyên liệu Synchro: phá 1 quái của đối thủ."
+        },
+        {
+          "cardId": 89392810,
+          "name": "Kewl Tune Reco",
+          "qty": 2,
+          "role": "starter",
+          "note": "Khi được Summon: thêm 1 quái Kewl Tune (trừ Level 3) từ Deck/GY. Làm nguyên liệu Synchro: phá 1 S/T của đối thủ."
+        },
+        {
+          "cardId": 43904702,
+          "name": "Kewl Tune Clip",
+          "qty": 1,
+          "role": "interruption",
+          "note": "Trong Main Phase của đối thủ: tự Special Summon từ tay rồi Synchro Summon 1 Synchro Tuner. Làm nguyên liệu: banish ngẫu nhiên 1 lá úp trong Extra Deck đối thủ."
+        },
+        {
+          "cardId": 17209452,
+          "name": "Kewl Tune Rotary",
+          "qty": 1,
+          "role": "extender",
+          "note": "Lộ Rotary + 1 Tuner trên tay để Normal Summon thêm 1 Tuner; làm nguyên liệu thì xem tay đối thủ và thêm 1 Kewl Tune S/T, hoặc đưa 1 lá trong GY đối thủ xuống đáy Deck."
+        },
+        {
+          "cardId": 78058681,
+          "name": "Kewl Tune Synchro",
+          "qty": 2,
+          "role": "searcher",
+          "note": "Quick-Play: thêm 1 lá Kewl Tune từ Deck rồi có thể Synchro Summon 1 Synchro Tuner ngay. Semi-Limited ở MD."
+        },
+        {
+          "cardId": 14442329,
+          "name": "JJ \"Kewl Tune\"",
+          "qty": 2,
+          "role": "extender",
+          "note": "Field Spell: thêm 1 lần Normal Summon Tuner mỗi lượt; Tribute 1 Tuner để thêm/gọi 1 quái Kewl Tune từ Deck."
+        },
+        {
+          "cardId": 97474300,
+          "name": "Duelist Genesis",
+          "qty": 2,
+          "role": "searcher",
+          "note": "Có Tuner trên sân/GY: thêm 1 'Synchro' Spell/Trap (Kewl Tune Synchro) từ Deck. Giảm còn 2 vì Synchro Overtake bị Forbidden từ MD-2026-10-06."
+        },
+        {
+          "cardId": 613496,
+          "name": "Over Tuning",
+          "qty": 2,
+          "role": "extender",
+          "note": "Khi có Tuner: Special Summon 1 Tuner từ tay/Deck/GY; khoá Extra Deck chỉ còn Synchro."
+        },
+        {
+          "cardId": 72323266,
+          "name": "Earthbound Prisoner Stone Sweeper",
+          "qty": 2,
+          "role": "searcher",
+          "note": "Tự Special Summon khi có lá ở Field Zone; hoặc bỏ lá này để thêm 1 Fiend Tuner Level 3 trở xuống (Kewl Tune Reco)."
+        },
+        {
+          "cardId": 32807846,
+          "name": "Reinforcement of the Army",
+          "qty": 1,
+          "role": "consistency",
+          "note": "Thêm Kewl Tune Mix (Warrior Level 2) từ Deck."
+        },
+        {
+          "cardId": 70088809,
+          "name": "Fydraulis Harmonia",
+          "qty": 3,
+          "role": "interruption",
+          "note": "Tuner Level 7: khi quái đối thủ kích hoạt hiệu ứng, lộ lá này + tối đa 5 Synchro trong Extra Deck để tự Special Summon (2+), gửi 1 Synchro vào GY (4+), phá 1 quái (6)."
+        }
+      ],
+      "techCards": [
+        {
+          "cardId": 14558127,
+          "name": "Ash Blossom & Joyous Spring",
+          "qty": 3,
+          "role": "hand-trap",
+          "note": "Hand trap chuẩn."
+        },
+        {
+          "cardId": 97268402,
+          "name": "Effect Veiler",
+          "qty": 3,
+          "role": "hand-trap",
+          "note": "Tuner kiêm hand trap: negate 1 quái; đồng thời là Tuner trong GY cho Duelist Genesis."
+        },
+        {
+          "cardId": 10045474,
+          "name": "Infinite Impermanence",
+          "qty": 3,
+          "role": "hand-trap",
+          "note": "Negate 1 quái face-up."
+        },
+        {
+          "cardId": 73642296,
+          "name": "Ghost Belle & Haunted Mansion",
+          "qty": 3,
+          "role": "hand-trap",
+          "note": "Tuner kiêm hand trap: negate hiệu ứng từ GY."
+        },
+        {
+          "cardId": 59438930,
+          "name": "Ghost Ogre & Snow Rabbit",
+          "qty": 2,
+          "role": "hand-trap",
+          "note": "Tuner kiêm hand trap: phá lá đang kích hoạt hiệu ứng trên sân."
+        },
+        {
+          "cardId": 94145021,
+          "name": "Droll & Lock Bird",
+          "qty": 2,
+          "role": "hand-trap",
+          "note": "Chặn thêm bài từ Main Deck sau lần search đầu của đối thủ."
+        },
+        {
+          "cardId": 23434538,
+          "name": "Maxx \"C\"",
+          "qty": 1,
+          "role": "hand-trap",
+          "note": "Limited 1 ở MD."
+        },
+        {
+          "cardId": 42141493,
+          "name": "Mulcharmy Fuwalos",
+          "qty": 1,
+          "role": "hand-trap",
+          "note": "Slot thay Synchro Overtake: rút bài khi đối thủ Special Summon từ Deck/Extra Deck. Editorial."
+        },
+        {
+          "cardId": 65681983,
+          "name": "Crossout Designator",
+          "qty": 1,
+          "role": "hand-trap",
+          "note": "Khai báo tên lá của đối thủ để negate cả lượt."
+        }
+      ],
+      "extraDeck": [
+        {
+          "cardId": 88170262,
+          "name": "Kewl Tune Remix",
+          "qty": 2,
+          "role": "interruption",
+          "note": "\"Kewl Tune Mix\" + 1+ Tuner. Lượt đối thủ: Tribute để lấy 1 và gọi 1 Tuner không phải Synchro từ GY, rồi Synchro Summon 1 Synchro Tuner."
+        },
+        {
+          "cardId": 15665977,
+          "name": "Kewl Tune RS",
+          "qty": 2,
+          "role": "interruption",
+          "note": "\"Kewl Tune Reco\" + 1+ Tuner. Trong Main Phase: banish 1 Tuner từ GY để negate 1 lá face-up của đối thủ đến hết lượt."
+        },
+        {
+          "cardId": 42781164,
+          "name": "Kewl Tune Track Maker",
+          "qty": 2,
+          "role": "searcher",
+          "note": "Khi được Special Summon: thêm 1 lá Kewl Tune từ Deck. Làm nguyên liệu: trả 1 lá của đối thủ về tay."
+        },
+        {
+          "cardId": 39576656,
+          "name": "Kewl Tune Crackle",
+          "qty": 1,
+          "role": "utility",
+          "note": "\"Kewl Tune Clip\" + 1+ Tuner: banish tạm 1 lá trong Extra Deck đối thủ."
+        },
+        {
+          "cardId": 41069676,
+          "name": "Kewl Tune Loudness War",
+          "qty": 1,
+          "role": "protection"
+        },
+        {
+          "cardId": 65961304,
+          "name": "Kewl Tune B2B",
+          "qty": 1,
+          "role": "boss"
+        },
+        {
+          "cardId": 4891376,
+          "name": "Zalen the Shackled Dragon",
+          "qty": 1,
+          "role": "interruption"
+        },
+        {
+          "cardId": 93125329,
+          "name": "Golden Cloud Beast - Malong",
+          "qty": 1,
+          "role": "utility"
+        },
+        {
+          "cardId": 821049,
+          "name": "Visas Amritara",
+          "qty": 1,
+          "role": "utility"
+        },
+        {
+          "cardId": 72444406,
+          "name": "Enigmaster Packbit",
+          "qty": 1,
+          "role": "board-breaker"
+        },
+        {
+          "cardId": 98506199,
+          "name": "Wind Pegasus @Ignister",
+          "qty": 1,
+          "role": "board-breaker"
+        },
+        {
+          "cardId": 93039339,
+          "name": "Super Starslayer TY-PHON - Sky Crisis",
+          "qty": 1,
+          "role": "going-second"
+        }
+      ],
+      "sources": [
+        {
+          "title": "YGOPRODeck API v7 - Master Duel card pool (passcode, English card text dùng để viết từng bước combo)",
+          "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php?format=master%20duel&misc=yes",
+          "accessed": "2026-09-30",
+          "usage": "data"
+        },
+        {
+          "title": "YGOrganization - [Master Duel] F&L List Update and Card Decoder (công bố 2026-09-24, áp dụng 2026-10-06)",
+          "url": "https://ygorganization.com/master-duel-fl-list-update-and-card-decoder",
+          "accessed": "2026-09-30",
+          "usage": "fact-check"
+        }
+      ]
+    },
+    {
+      "id": "yummy",
+      "name": "Yummy",
+      "contentLanguage": "vi",
+      "aliases": [
+        "Yummy Way",
+        "Yumi",
+        "Yummi",
+        "Bài Yummy",
+        "Bai Yummy"
+      ],
+      "format": "master-duel",
+      "archetypes": [
+        "Yummy"
+      ],
+      "featuredRank": 4,
+      "playstyleTags": [
+        "combo",
+        "hand-trap-heavy",
+        "going-second",
+        "flexible"
+      ],
+      "difficulty": "advanced",
+      "updatedAt": "2026-09-30",
+      "banlist": {
+        "version": "MD-2026-09-03",
+        "effectiveDate": "2026-09-03",
+        "verifiedOn": "2026-09-30",
+        "pendingVersionReviewed": "MD-2026-10-06"
+      },
+      "contentStatus": "in-review",
+      "coreCards": [
+        {
+          "cardId": 31425736,
+          "name": "Cupsy☆Yummy",
+          "qty": 1,
+          "role": "starter",
+          "note": "Normal/Special Summon: thêm 1 lá Yummy từ Deck (trừ Cupsy); nếu được Synchro Monster gọi ra thì rút 1 lá thay vào đó."
+        },
+        {
+          "cardId": 68810435,
+          "name": "Cooky☆Yummy",
+          "qty": 2,
+          "role": "extender",
+          "note": "Special Summon từ tay khi có Link-1 hoặc Synchro Level 2; được Synchro Monster gọi ra thì phá 1 quái face-up của đối thủ."
+        },
+        {
+          "cardId": 4215180,
+          "name": "Lollipo☆Yummy",
+          "qty": 3,
+          "role": "extender",
+          "note": "Special Summon từ tay khi có Link-1 hoặc Synchro Level 2; được Synchro Monster gọi ra thì banish 1 lá trong GY đối thủ."
+        },
+        {
+          "cardId": 33907039,
+          "name": "Piri Reis Map",
+          "qty": 3,
+          "role": "consistency",
+          "note": "Đầu Main Phase 1: thêm 1 quái 0 ATK (Cupsy☆Yummy) từ Deck, đổi lại mất nửa LP."
+        },
+        {
+          "cardId": 10966439,
+          "name": "Marshmao☆Yummy",
+          "qty": 2,
+          "role": "extender",
+          "note": "Tự Special Summon từ tay khi bạn không có quái hoặc chỉ có Beast LIGHT; khi được Summon thì lấy lại Yummy S/T từ GY."
+        },
+        {
+          "cardId": 66975205,
+          "name": "Yummyusment☆Mignon",
+          "qty": 1,
+          "role": "combo-piece",
+          "note": "Field Spell: Yummy +500 ATK cho mỗi Beast LIGHT trên sân; khi có Link-1 thì hồi sinh 1 Yummy Level 1 từ GY."
+        },
+        {
+          "cardId": 93360904,
+          "name": "Yummyusment★Acroquey",
+          "qty": 1,
+          "role": "payoff",
+          "note": "Field Spell: khi Synchro Summon Beast LIGHT thì phá 1 lá của đối thủ."
+        },
+        {
+          "cardId": 29369059,
+          "name": "Yummy☆Surprise",
+          "qty": 1,
+          "role": "utility",
+          "note": "Quick-Play: trả 2 Beast LIGHT của bạn + 2 lá của đối thủ về tay, hoặc hồi sinh 1 Yummy, hoặc đổi Field Spell."
+        },
+        {
+          "cardId": 86762958,
+          "name": "Assist★Yummy!",
+          "qty": 1,
+          "role": "interruption",
+          "note": "Continuous Trap: gửi 2 lá Yummy face-up (gồm chính nó) để trả 1 lá trên sân hoặc trong GY về tay."
+        }
+      ],
+      "techCards": [
+        {
+          "cardId": 14558127,
+          "name": "Ash Blossom & Joyous Spring",
+          "qty": 3,
+          "role": "hand-trap",
+          "note": "Hand trap chính; deck tập trung vào việc chặn lượt 1 của đối thủ."
+        },
+        {
+          "cardId": 10045474,
+          "name": "Infinite Impermanence",
+          "qty": 3,
+          "role": "hand-trap",
+          "note": "Negate 1 quái face-up; dùng được từ tay khi bạn không điều khiển lá nào."
+        },
+        {
+          "cardId": 42141493,
+          "name": "Mulcharmy Fuwalos",
+          "qty": 3,
+          "role": "hand-trap",
+          "note": "Rút bài mỗi khi đối thủ Special Summon từ Deck/Extra Deck."
+        },
+        {
+          "cardId": 97268402,
+          "name": "Effect Veiler",
+          "qty": 2,
+          "role": "hand-trap",
+          "note": "Negate 1 Effect Monster trong Main Phase của đối thủ."
+        },
+        {
+          "cardId": 73642296,
+          "name": "Ghost Belle & Haunted Mansion",
+          "qty": 2,
+          "role": "hand-trap",
+          "note": "Negate hiệu ứng hồi sinh/lấy bài/banish từ GY."
+        },
+        {
+          "cardId": 84192580,
+          "name": "Mulcharmy Purulia",
+          "qty": 2,
+          "role": "hand-trap",
+          "note": "Mulcharmy rút bài khi đối thủ Summon từ tay. Chỉ kích hoạt được 1 hiệu ứng Mulcharmy khác trong lượt."
+        },
+        {
+          "cardId": 94145021,
+          "name": "Droll & Lock Bird",
+          "qty": 2,
+          "role": "hand-trap",
+          "note": "Chặn thêm bài từ Main Deck sau lần search đầu của đối thủ."
+        },
+        {
+          "cardId": 59438930,
+          "name": "Ghost Ogre & Snow Rabbit",
+          "qty": 1,
+          "role": "hand-trap",
+          "note": "Phá quái hoặc Spell/Trap face-up đang kích hoạt hiệu ứng trên sân."
+        },
+        {
+          "cardId": 23434538,
+          "name": "Maxx \"C\"",
+          "qty": 1,
+          "role": "hand-trap",
+          "note": "Limited 1 ở MD."
+        },
+        {
+          "cardId": 52340444,
+          "name": "Sky Striker Mecha - Hornet Drones",
+          "qty": 1,
+          "role": "extender",
+          "note": "Khi Main Monster Zone trống: tạo Sky Striker Ace Token, làm nguyên liệu cho Kagari (Link-1) để mở điều kiện Link-1 của Yummy."
+        },
+        {
+          "cardId": 8487449,
+          "name": "Jester Confit",
+          "qty": 1,
+          "role": "extender",
+          "note": "Tự Special Summon từ tay ở Attack Position; tạo thêm thân quái khi cần."
+        },
+        {
+          "cardId": 65681983,
+          "name": "Crossout Designator",
+          "qty": 1,
+          "role": "hand-trap",
+          "note": "Khai báo tên starter của đối thủ để negate cả lượt."
+        },
+        {
+          "cardId": 25311006,
+          "name": "Triple Tactics Talent",
+          "qty": 1,
+          "role": "going-second",
+          "note": "Khi đối thủ đã kích hoạt hiệu ứng quái trong Main Phase của bạn: rút 2 / cướp quái / xào 1 lá trên tay họ."
+        },
+        {
+          "cardId": 24299458,
+          "name": "Forbidden Droplet",
+          "qty": 1,
+          "role": "board-breaker",
+          "note": "Gửi bài thừa để giảm nửa ATK và negate quái của đối thủ."
+        },
+        {
+          "cardId": 2295440,
+          "name": "One for One",
+          "qty": 1,
+          "role": "consistency",
+          "note": "Gửi 1 quái từ tay để gọi 1 quái Level 1 (Yummy) từ Deck. Limited 1 ở MD."
+        }
+      ],
+      "extraDeck": [
+        {
+          "cardId": 30581601,
+          "name": "Yummy★Snatchy",
+          "qty": 2,
+          "role": "combo-piece",
+          "note": "Link-1 (1 Beast LIGHT Level 4 trở xuống): khi được Special Summon thì đặt Yummy Field Spell từ tay/Deck; Quick Effect trả 100 LP để Synchro Summon."
+        },
+        {
+          "cardId": 31603289,
+          "name": "Cupsy★Yummy Way",
+          "qty": 1,
+          "role": "searcher",
+          "note": "Synchro Tuner Level 2: khi Synchro Summon thì thêm 2 quái Yummy rồi bỏ 1 lá. Lượt đối thủ có thể về Extra Deck để gọi 2 Yummy từ GY."
+        },
+        {
+          "cardId": 67098897,
+          "name": "Cooky★Yummy Way",
+          "qty": 1,
+          "role": "board-breaker",
+          "note": "Synchro Tuner Level 2: khi Synchro Summon thì lật úp tối đa 2 quái face-up. Lượt đối thủ có thể về Extra Deck để gọi 2 Yummy từ GY."
+        },
+        {
+          "cardId": 93192592,
+          "name": "Lollipo★Yummy Way",
+          "qty": 1,
+          "role": "interruption"
+        },
+        {
+          "cardId": 79606837,
+          "name": "Herald of the Arc Light",
+          "qty": 1,
+          "role": "utility"
+        },
+        {
+          "cardId": 29301450,
+          "name": "S:P Little Knight",
+          "qty": 1,
+          "role": "board-breaker"
+        },
+        {
+          "cardId": 27381364,
+          "name": "Spright Elf",
+          "qty": 1,
+          "role": "protection"
+        },
+        {
+          "cardId": 41999284,
+          "name": "Linkuriboh",
+          "qty": 1,
+          "role": "combo-piece",
+          "note": "Link-1 từ 1 quái Level 1; dùng như Tuner Level 1 cho Yummy Way."
+        },
+        {
+          "cardId": 65741786,
+          "name": "I:P Masquerena",
+          "qty": 1,
+          "role": "utility"
+        },
+        {
+          "cardId": 63288573,
+          "name": "Sky Striker Ace - Kagari",
+          "qty": 1,
+          "role": "combo-piece",
+          "note": "Link-1 từ Sky Striker Ace Token của Hornet Drones."
+        },
+        {
+          "cardId": 63013339,
+          "name": "Sky Striker Ace - Camellia",
+          "qty": 1,
+          "role": "utility"
+        },
+        {
+          "cardId": 81846453,
+          "name": "Martial Metal Marcher",
+          "qty": 1,
+          "role": "utility"
+        },
+        {
+          "cardId": 60303245,
+          "name": "Salamangreat Almiraj",
+          "qty": 1,
+          "role": "combo-piece",
+          "note": "Link-1 từ 1 quái được Normal Summon có 1000 ATK trở xuống (ví dụ Cupsy)."
+        },
+        {
+          "cardId": 4993187,
+          "name": "W:P Fancy Ball",
+          "qty": 1,
+          "role": "utility"
+        }
+      ],
+      "sources": [
+        {
+          "title": "YGOPRODeck API v7 - Master Duel card pool (passcode, English card text dùng để viết từng bước combo)",
+          "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php?format=master%20duel&misc=yes",
+          "accessed": "2026-09-30",
+          "usage": "data"
+        },
+        {
+          "title": "YGOrganization - [Master Duel] F&L List Update and Card Decoder (công bố 2026-09-24, áp dụng 2026-10-06)",
+          "url": "https://ygorganization.com/master-duel-fl-list-update-and-card-decoder",
+          "accessed": "2026-09-30",
+          "usage": "fact-check"
+        }
+      ]
+    },
+    {
+      "id": "radiant-typhoon-zoodiac",
+      "name": "Radiant Typhoon Zoodiac",
+      "contentLanguage": "vi",
+      "aliases": [
+        "Radiant Typhoon",
+        "RT Zoodiac",
+        "RTZ",
+        "Typhoon Zoodiac",
+        "Radiant Zoodiac",
+        "Zoodiac",
+        "Bão Zoodiac",
+        "Bao Zoodiac",
+        "Bài Radiant Typhoon",
+        "Bai Radiant Typhoon",
+        "Zoo",
+        "RT",
+        "Bão",
+        "Bao"
+      ],
+      "format": "master-duel",
+      "archetypes": [
+        "Radiant Typhoon",
+        "Zoodiac"
+      ],
+      "featuredRank": 5,
+      "playstyleTags": [
+        "combo",
+        "control",
+        "flexible"
+      ],
+      "difficulty": "advanced",
+      "updatedAt": "2026-09-30",
+      "banlist": {
+        "version": "MD-2026-09-03",
+        "effectiveDate": "2026-09-03",
+        "verifiedOn": "2026-09-30",
+        "pendingVersionReviewed": "MD-2026-10-06"
+      },
+      "contentStatus": "in-review",
+      "coreCards": [
+        {
+          "cardId": 54143349,
+          "name": "Radiant Typhoon Eldam",
+          "qty": 2,
+          "role": "starter",
+          "note": "Level 3 WIND tự Special Summon (MST trong GY hoặc đối thủ không có S/T); khi được Summon thêm 1 quái Radiant Typhoon hoặc MST. Semi-Limited từ MD-2026-10-06 nên chỉ dùng 2."
+        },
+        {
+          "cardId": 80538047,
+          "name": "Radiant Typhoon Swen",
+          "qty": 3,
+          "role": "searcher",
+          "note": "Level 3 WIND tự Special Summon như Eldam; khi được Summon thêm 1 Radiant Typhoon S/T hoặc MST."
+        },
+        {
+          "cardId": 78872731,
+          "name": "Zoodiac Ratpier",
+          "qty": 2,
+          "role": "combo-piece",
+          "note": "Zoodiac Beast-Warrior EARTH Level 4, mục tiêu của M-X-Saber Invoker. Khi làm nguyên liệu cho Xyz Beast-Warrior, Xyz đó có thể tách nguyên liệu để gọi Ratpier khác từ tay/Deck. Semi-Limited."
+        },
+        {
+          "cardId": 27755794,
+          "name": "Radiant Typhoon Meghala",
+          "qty": 1,
+          "role": "extender",
+          "note": "Level 3 WIND; khi 1 Radiant Typhoon Quick-Play hoặc MST được kích hoạt thì gọi 1 quái Radiant Typhoon khác tên từ Deck (khoá WIND)."
+        },
+        {
+          "cardId": 16922142,
+          "name": "Radiant Typhoon Krosea",
+          "qty": 2,
+          "role": "extender",
+          "note": "Special Summon từ tay khi 1 Quick-Play Spell được kích hoạt; khi được Summon thêm 1 lá Radiant Typhoon và/hoặc MST từ Deck/GY (khoá WIND)."
+        },
+        {
+          "cardId": 85315450,
+          "name": "Radiant Typhoon Fonix, the Great Flame",
+          "qty": 1,
+          "role": "board-breaker",
+          "note": "Special Summon từ tay khi 1 Quick-Play Spell được kích hoạt; khi có Quick-Play Spell khác được kích hoạt thì xào tối đa 2 lá của đối thủ về Deck."
+        },
+        {
+          "cardId": 53927851,
+          "name": "Radiant Typhoon Varuroon, the Vibrant Vortex",
+          "qty": 1,
+          "role": "interruption",
+          "note": "Special Summon từ tay khi 1 Quick-Play được kích hoạt; có MST trong GY thì negate 1 hiệu ứng quái của đối thủ."
+        },
+        {
+          "cardId": 5318639,
+          "name": "Mystical Space Typhoon",
+          "qty": 3,
+          "role": "combo-piece",
+          "note": "Phá 1 S/T; cũng là 'chìa khoá' để quái Radiant Typhoon tự Special Summon và kích hoạt Krosea/Fonix/Meghala."
+        },
+        {
+          "cardId": 67115133,
+          "name": "Radiant Typhoon Chant",
+          "qty": 2,
+          "role": "searcher",
+          "note": "Quick-Play: thêm 1 quái Radiant Typhoon Level 4 trở xuống, hoặc lấy MST từ Deck/GY. Bị MST phá thì úp lại được. Semi-Limited."
+        },
+        {
+          "cardId": 20508881,
+          "name": "Radiant Typhoon Vision",
+          "qty": 1,
+          "role": "consistency",
+          "note": "Quick-Play: rút 2 rồi bỏ 1 lá Radiant Typhoon/Quick-Play, hoặc lấy MST. Limited từ MD-2026-10-06."
+        },
+        {
+          "cardId": 25940932,
+          "name": "Radiant Typhoon Ascendance",
+          "qty": 1,
+          "role": "recursion",
+          "note": "Quick-Play: hồi sinh 1 Radiant Typhoon Level 6 trở xuống từ GY, hoặc lấy MST."
+        },
+        {
+          "cardId": 53813120,
+          "name": "Radiant Typhoon Mandate",
+          "qty": 1,
+          "role": "interruption",
+          "note": "Continuous Trap: mỗi Chain khi MST được kích hoạt thì negate 1 lá face-up của đối thủ."
+        }
+      ],
+      "techCards": [
+        {
+          "cardId": 14558127,
+          "name": "Ash Blossom & Joyous Spring",
+          "qty": 3,
+          "role": "hand-trap",
+          "note": "Hand trap chuẩn."
+        },
+        {
+          "cardId": 42141493,
+          "name": "Mulcharmy Fuwalos",
+          "qty": 3,
+          "role": "hand-trap",
+          "note": "Đi sau: rút bài mỗi khi đối thủ Special Summon từ Deck/Extra Deck."
+        },
+        {
+          "cardId": 97045737,
+          "name": "Dominus Purge",
+          "qty": 3,
+          "role": "interruption",
+          "note": "Trap negate hiệu ứng thêm bài từ Deck lên tay; kích hoạt từ tay nếu đối thủ có lá nào. Hình phạt chỉ khoá quái DARK/WATER/FIRE, không ảnh hưởng quái WIND/EARTH của deck."
+        },
+        {
+          "cardId": 94145021,
+          "name": "Droll & Lock Bird",
+          "qty": 2,
+          "role": "hand-trap",
+          "note": "Chặn thêm bài từ Main Deck sau lần search đầu của đối thủ."
+        },
+        {
+          "cardId": 24299458,
+          "name": "Forbidden Droplet",
+          "qty": 2,
+          "role": "board-breaker",
+          "note": "Quick-Play: giảm nửa ATK và negate quái đối thủ; kích hoạt Quick-Play cũng gọi Krosea/Fonix từ tay."
+        },
+        {
+          "cardId": 98829635,
+          "name": "Forbidden Crown",
+          "qty": 2,
+          "role": "interruption",
+          "note": "Quick-Play negate 1 quái face-up; cũng kích hoạt Krosea/Fonix/Varuroon."
+        },
+        {
+          "cardId": 30271097,
+          "name": "The Fallen & The Virtuous",
+          "qty": 2,
+          "role": "board-breaker",
+          "note": "Quick-Play gửi Albion the Branded Dragon / Ecclesia and the Dark Dragon từ Extra Deck để phá 1 lá face-up. Semi-Limited từ MD-2026-10-06."
+        },
+        {
+          "cardId": 10045474,
+          "name": "Infinite Impermanence",
+          "qty": 1,
+          "role": "hand-trap",
+          "note": "Negate 1 quái face-up của đối thủ."
+        },
+        {
+          "cardId": 23434538,
+          "name": "Maxx \"C\"",
+          "qty": 1,
+          "role": "hand-trap",
+          "note": "Limited 1 ở MD."
+        },
+        {
+          "cardId": 65681983,
+          "name": "Crossout Designator",
+          "qty": 1,
+          "role": "hand-trap",
+          "note": "Quick-Play khai báo tên lá để negate; cũng là 1 Quick-Play cho engine."
+        }
+      ],
+      "extraDeck": [
+        {
+          "cardId": 4423206,
+          "name": "M-X-Saber Invoker",
+          "qty": 1,
+          "role": "combo-piece",
+          "note": "Xyz Rank 3 (2 quái Level 3): tách 1 nguyên liệu để gọi 1 Warrior/Beast-Warrior EARTH Level 4 từ Deck (bị phá ở End Phase). Cầu nối sang Zoodiac."
+        },
+        {
+          "cardId": 85115440,
+          "name": "Zoodiac Broadbull",
+          "qty": 1,
+          "role": "searcher",
+          "note": "Zoodiac Xyz: tách nguyên liệu để thêm 1 Beast-Warrior có thể Normal Summon từ Deck."
+        },
+        {
+          "cardId": 11510448,
+          "name": "Zoodiac Tigermortar",
+          "qty": 1,
+          "role": "combo-piece",
+          "note": "Zoodiac Xyz: gắn 1 Zoodiac từ GY vào 1 Xyz của bạn."
+        },
+        {
+          "cardId": 48905153,
+          "name": "Zoodiac Drident",
+          "qty": 1,
+          "role": "interruption",
+          "note": "Zoodiac Xyz: mỗi lượt (cả lượt đối thủ) tách 1 nguyên liệu để phá 1 lá face-up."
+        },
+        {
+          "cardId": 74393852,
+          "name": "Zoodiac Boarbow",
+          "qty": 1,
+          "role": "payoff"
+        },
+        {
+          "cardId": 41375811,
+          "name": "Zoodiac Chakanine",
+          "qty": 1,
+          "role": "extender"
+        },
+        {
+          "cardId": 65305468,
+          "name": "Number F0: Utopic Future",
+          "qty": 1,
+          "role": "combo-piece",
+          "note": "2 Xyz cùng Rank (không phải Number): nền để Xyz Summon Utopic Draco Future."
+        },
+        {
+          "cardId": 26973555,
+          "name": "Number F0: Utopic Draco Future",
+          "qty": 1,
+          "role": "boss",
+          "note": "Xyz Summon được trên Utopic Future (chuyển nguyên liệu). Không bị phá bởi battle/hiệu ứng; mỗi lượt negate 1 hiệu ứng quái của đối thủ và cướp quái đó."
+        },
+        {
+          "cardId": 39341885,
+          "name": "Radiant Typhoon Varuroon, the Marine Eidolon",
+          "qty": 2,
+          "role": "searcher",
+          "note": "Link-2 (2 quái Radiant Typhoon): khi Link Summon thêm MST; khi 1 Quick-Play được kích hoạt thì đặt 1 Radiant Typhoon Continuous Trap."
+        },
+        {
+          "cardId": 90448279,
+          "name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+          "qty": 1,
+          "role": "board-breaker"
+        },
+        {
+          "cardId": 87746184,
+          "name": "Albion the Branded Dragon",
+          "qty": 1,
+          "role": "combo-piece",
+          "note": "Mục tiêu gửi cho The Fallen & The Virtuous."
+        },
+        {
+          "cardId": 78397661,
+          "name": "Ecclesia and the Dark Dragon",
+          "qty": 1,
+          "role": "combo-piece",
+          "note": "Mục tiêu gửi thứ hai cho The Fallen & The Virtuous."
+        },
+        {
+          "cardId": 74997493,
+          "name": "Saryuja Skull Dread",
+          "qty": 1,
+          "role": "utility"
+        },
+        {
+          "cardId": 96113307,
+          "name": "Ritual Beast Ulti-Reirautari",
+          "qty": 1,
+          "role": "utility"
+        }
+      ],
+      "sources": [
+        {
+          "title": "YGOPRODeck API v7 - Master Duel card pool (passcode, English card text dùng để viết từng bước combo)",
+          "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php?format=master%20duel&misc=yes",
+          "accessed": "2026-09-30",
+          "usage": "data"
+        },
+        {
+          "title": "YGOrganization - [Master Duel] F&L List Update and Card Decoder (công bố 2026-09-24, áp dụng 2026-10-06)",
+          "url": "https://ygorganization.com/master-duel-fl-list-update-and-card-decoder",
+          "accessed": "2026-09-30",
+          "usage": "fact-check"
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "name": "\"C\"",
+      "archetypes": [
+        "\"C\""
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "eyes-dragon",
+      "name": "-Eyes Dragon",
+      "archetypes": [
+        "-Eyes Dragon"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "assault-mode",
+      "name": "/Assault Mode",
+      "archetypes": [
+        "/Assault Mode"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "ignister",
+      "name": "@Ignister",
+      "archetypes": [
+        "@Ignister"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "a-to-z",
+      "name": "A-to-Z",
+      "archetypes": [
+        "A-to-Z"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "a-i",
+      "name": "A.I.",
+      "archetypes": [
+        "A.I."
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "abc",
+      "name": "ABC",
+      "archetypes": [
+        "ABC"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "abyss-actor",
+      "name": "Abyss Actor",
+      "archetypes": [
+        "Abyss Actor"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "abyss",
+      "name": "Abyss-",
+      "archetypes": [
+        "Abyss-"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "adamancipator",
+      "name": "Adamancipator",
+      "archetypes": [
+        "Adamancipator"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "advanced-crystal-beast",
+      "name": "Advanced Crystal Beast",
+      "archetypes": [
+        "Advanced Crystal Beast"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "adventurer",
+      "name": "Adventurer",
+      "archetypes": [
+        "Adventurer"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "aesir",
+      "name": "Aesir",
+      "archetypes": [
+        "Aesir"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "alien",
+      "name": "Alien",
+      "archetypes": [
+        "Alien"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "alligator",
+      "name": "Alligator",
+      "archetypes": [
+        "Alligator"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "allure-queen",
+      "name": "Allure Queen",
+      "archetypes": [
+        "Allure Queen"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "ally-of-justice",
+      "name": "Ally of Justice",
+      "archetypes": [
+        "Ally of Justice"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "altergeist",
+      "name": "Altergeist",
+      "archetypes": [
+        "Altergeist"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "amazement",
+      "name": "Amazement",
+      "archetypes": [
+        "Amazement"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "amazoness",
+      "name": "Amazoness",
+      "archetypes": [
+        "Amazoness"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "amorphage",
+      "name": "Amorphage",
+      "archetypes": [
+        "Amorphage"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "ancient-fairy-dragon",
+      "name": "Ancient Fairy Dragon",
+      "archetypes": [
+        "Ancient Fairy Dragon"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "ancient-gear",
+      "name": "Ancient Gear",
+      "archetypes": [
+        "Ancient Gear"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "ancient-treasure",
+      "name": "Ancient Treasure",
+      "archetypes": [
+        "Ancient Treasure"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "ancient-warriors",
+      "name": "Ancient Warriors",
+      "archetypes": [
+        "Ancient Warriors"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "anti",
+      "name": "Anti",
+      "archetypes": [
+        "Anti"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "apoqliphort",
+      "name": "Apoqliphort",
+      "archetypes": [
+        "Apoqliphort"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "appliancer",
+      "name": "Appliancer",
+      "archetypes": [
+        "Appliancer"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "aquaactress",
+      "name": "Aquaactress",
+      "archetypes": [
+        "Aquaactress"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "arcana-force",
+      "name": "Arcana Force",
+      "archetypes": [
+        "Arcana Force"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "archfiend",
+      "name": "Archfiend",
+      "archetypes": [
+        "Archfiend"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "argostars",
+      "name": "Argostars",
+      "archetypes": [
+        "Argostars"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "armed-dragon",
+      "name": "Armed Dragon",
+      "archetypes": [
+        "Armed Dragon"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "aroma",
+      "name": "Aroma",
+      "archetypes": [
+        "Aroma"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "artifact",
+      "name": "Artifact",
+      "archetypes": [
+        "Artifact"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "artmage",
+      "name": "Artmage",
+      "archetypes": [
+        "Artmage"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "ashened",
+      "name": "Ashened",
+      "archetypes": [
+        "Ashened"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "assault-mode-2",
+      "name": "Assault Mode",
+      "archetypes": [
+        "Assault Mode"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "atlantean",
+      "name": "Atlantean",
+      "archetypes": [
+        "Atlantean"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "attraction",
+      "name": "Attraction",
+      "archetypes": [
+        "Attraction"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "azamina",
+      "name": "Azamina",
+      "archetypes": [
+        "Azamina"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "b-e-s",
+      "name": "B.E.S.",
+      "archetypes": [
+        "B.E.S."
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "bamboo-sword",
+      "name": "Bamboo Sword",
+      "archetypes": [
+        "Bamboo Sword"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "barbaros",
+      "name": "Barbaros",
+      "archetypes": [
+        "Barbaros"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "batteryman",
+      "name": "Batteryman",
+      "archetypes": [
+        "Batteryman"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "battleguard",
+      "name": "Battleguard",
+      "archetypes": [
+        "Battleguard"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "battlewasp",
+      "name": "Battlewasp",
+      "archetypes": [
+        "Battlewasp"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "battlin-boxer",
+      "name": "Battlin' Boxer",
+      "archetypes": [
+        "Battlin' Boxer"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "beetrooper",
+      "name": "Beetrooper",
+      "archetypes": [
+        "Beetrooper"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "black-luster-soldier",
+      "name": "Black Luster Soldier",
+      "archetypes": [
+        "Black Luster Soldier"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "blackwing",
+      "name": "Blackwing",
+      "archetypes": [
+        "Blackwing"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "blaze-accelerator",
+      "name": "Blaze Accelerator",
+      "archetypes": [
+        "Blaze Accelerator"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "blue-eyes",
+      "name": "Blue-Eyes",
+      "archetypes": [
+        "Blue-Eyes"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "bonding",
+      "name": "Bonding",
+      "archetypes": [
+        "Bonding"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "book-of",
+      "name": "Book of",
+      "archetypes": [
+        "Book of"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "boot-up",
+      "name": "Boot-Up",
+      "archetypes": [
+        "Boot-Up"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "borrel",
+      "name": "Borrel",
+      "archetypes": [
+        "Borrel"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "bounzer",
+      "name": "Bounzer",
+      "archetypes": [
+        "Bounzer"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "bujin",
+      "name": "Bujin",
+      "archetypes": [
+        "Bujin"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "burning-abyss",
+      "name": "Burning Abyss",
+      "archetypes": [
+        "Burning Abyss"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "butterfly",
+      "name": "Butterfly",
+      "archetypes": [
+        "Butterfly"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "butterspy",
+      "name": "Butterspy",
+      "archetypes": [
+        "Butterspy"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "bystial",
+      "name": "Bystial",
+      "archetypes": [
+        "Bystial"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "call-of-the-haunted",
+      "name": "Call of the Haunted",
+      "archetypes": [
+        "Call of the Haunted"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "celtic-guard",
+      "name": "Celtic Guard",
+      "archetypes": [
+        "Celtic Guard"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "centur-ion",
+      "name": "Centur-Ion",
+      "archetypes": [
+        "Centur-Ion"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "chaos",
+      "name": "Chaos",
+      "archetypes": [
+        "Chaos"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "chaos-phantom",
+      "name": "Chaos Phantom",
+      "archetypes": [
+        "Chaos Phantom"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "charmer",
+      "name": "Charmer",
+      "archetypes": [
+        "Charmer"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "chemicritter",
+      "name": "Chemicritter",
+      "archetypes": [
+        "Chemicritter"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "chimera",
+      "name": "Chimera",
+      "archetypes": [
+        "Chimera"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "chronomaly",
+      "name": "Chronomaly",
+      "archetypes": [
+        "Chronomaly"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "chrysalis",
+      "name": "Chrysalis",
+      "archetypes": [
+        "Chrysalis"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "cipher",
+      "name": "Cipher",
+      "archetypes": [
+        "Cipher"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "clear",
+      "name": "Clear",
+      "archetypes": [
+        "Clear"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "clear-wing",
+      "name": "Clear Wing",
+      "archetypes": [
+        "Clear Wing"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "cloudian",
+      "name": "Cloudian",
+      "archetypes": [
+        "Cloudian"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "clown-crew",
+      "name": "Clown Crew",
+      "archetypes": [
+        "Clown Crew"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "code-talker",
+      "name": "Code Talker",
+      "archetypes": [
+        "Code Talker"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "constellar",
+      "name": "Constellar",
+      "archetypes": [
+        "Constellar"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "contact",
+      "name": "Contact",
+      "archetypes": [
+        "Contact"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "cosmic-synchro-monster",
+      "name": "Cosmic Synchro Monster",
+      "archetypes": [
+        "Cosmic Synchro Monster"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "crusadia",
+      "name": "Crusadia",
+      "archetypes": [
+        "Crusadia"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "crystal",
+      "name": "Crystal",
+      "archetypes": [
+        "Crystal"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "crystal-beast",
+      "name": "Crystal Beast",
+      "archetypes": [
+        "Crystal Beast"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "crystron",
+      "name": "Crystron",
+      "archetypes": [
+        "Crystron"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "cubic",
+      "name": "Cubic",
+      "archetypes": [
+        "Cubic"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "cxyz",
+      "name": "CXyz",
+      "archetypes": [
+        "CXyz"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "cyber",
+      "name": "Cyber",
+      "archetypes": [
+        "Cyber"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "cyber-angel",
+      "name": "Cyber Angel",
+      "archetypes": [
+        "Cyber Angel"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "cyber-dragon",
+      "name": "Cyber Dragon",
+      "archetypes": [
+        "Cyber Dragon"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "cyberdark",
+      "name": "Cyberdark",
+      "archetypes": [
+        "Cyberdark"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "d-d",
+      "name": "D.D.",
+      "archetypes": [
+        "D.D."
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "d-d-2",
+      "name": "D/D",
+      "archetypes": [
+        "D/D"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "danger",
+      "name": "Danger!",
+      "archetypes": [
+        "Danger!"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "dark-contract",
+      "name": "Dark Contract",
+      "archetypes": [
+        "Dark Contract"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "dark-magician",
+      "name": "Dark Magician",
+      "archetypes": [
+        "Dark Magician"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "dark-scorpion",
+      "name": "Dark Scorpion",
+      "archetypes": [
+        "Dark Scorpion"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "dark-world",
+      "name": "Dark World",
+      "archetypes": [
+        "Dark World"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "darklord",
+      "name": "Darklord",
+      "archetypes": [
+        "Darklord"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "deep-sea",
+      "name": "Deep Sea",
+      "archetypes": [
+        "Deep Sea"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "demise",
+      "name": "Demise",
+      "archetypes": [
+        "Demise"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "deskbot",
+      "name": "Deskbot",
+      "archetypes": [
+        "Deskbot"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "destiny-hero",
+      "name": "Destiny HERO",
+      "archetypes": [
+        "Destiny HERO"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "destruction-sword",
+      "name": "Destruction Sword",
+      "archetypes": [
+        "Destruction Sword"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "diabell",
+      "name": "Diabell",
+      "archetypes": [
+        "Diabell"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "dice",
+      "name": "Dice",
+      "archetypes": [
+        "Dice"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "digital-bug",
+      "name": "Digital Bug",
+      "archetypes": [
+        "Digital Bug"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "dinomist",
+      "name": "Dinomist",
+      "archetypes": [
+        "Dinomist"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "dinomorphia",
+      "name": "Dinomorphia",
+      "archetypes": [
+        "Dinomorphia"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "dinowrestler",
+      "name": "Dinowrestler",
+      "archetypes": [
+        "Dinowrestler"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "djinn",
+      "name": "Djinn",
+      "archetypes": [
+        "Djinn"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "dododo",
+      "name": "Dododo",
+      "archetypes": [
+        "Dododo"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "dominus",
+      "name": "Dominus",
+      "archetypes": [
+        "Dominus"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "doomz",
+      "name": "DoomZ",
+      "archetypes": [
+        "DoomZ"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "doriado",
+      "name": "Doriado",
+      "archetypes": [
+        "Doriado"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "draconia",
+      "name": "Draconia",
+      "archetypes": [
+        "Draconia"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "dracoslayer",
+      "name": "Dracoslayer",
+      "archetypes": [
+        "Dracoslayer"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "dracotail",
+      "name": "Dracotail",
+      "archetypes": [
+        "Dracotail"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "dracoverlord",
+      "name": "Dracoverlord",
+      "archetypes": [
+        "Dracoverlord"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "dragon-ruler",
+      "name": "Dragon Ruler",
+      "archetypes": [
+        "Dragon Ruler"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "dragonmaid",
+      "name": "Dragonmaid",
+      "archetypes": [
+        "Dragonmaid"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "dragunity",
+      "name": "Dragunity",
+      "archetypes": [
+        "Dragunity"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "dream-mirror",
+      "name": "Dream Mirror",
+      "archetypes": [
+        "Dream Mirror"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "drytron",
+      "name": "Drytron",
+      "archetypes": [
+        "Drytron"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "dual-avatar",
+      "name": "Dual Avatar",
+      "archetypes": [
+        "Dual Avatar"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "duston",
+      "name": "Duston",
+      "archetypes": [
+        "Duston"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "earthbound",
+      "name": "Earthbound",
+      "archetypes": [
+        "Earthbound"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "edge-imp",
+      "name": "Edge Imp",
+      "archetypes": [
+        "Edge Imp"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "egyptian-god",
+      "name": "Egyptian God",
+      "archetypes": [
+        "Egyptian God"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "eldlich",
+      "name": "Eldlich",
+      "archetypes": [
+        "Eldlich"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "elemental-hero",
+      "name": "Elemental HERO",
+      "archetypes": [
+        "Elemental HERO"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "elemental-lord",
+      "name": "Elemental Lord",
+      "archetypes": [
+        "Elemental Lord"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "elementsaber",
+      "name": "Elementsaber",
+      "archetypes": [
+        "Elementsaber"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "elfnote",
+      "name": "Elfnote",
+      "archetypes": [
+        "Elfnote"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "empowered-warrior",
+      "name": "Empowered Warrior",
+      "archetypes": [
+        "Empowered Warrior"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "endymion",
+      "name": "Endymion",
+      "archetypes": [
+        "Endymion"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "enneacraft",
+      "name": "Enneacraft",
+      "archetypes": [
+        "Enneacraft"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "evil-eye",
+      "name": "Evil Eye",
+      "archetypes": [
+        "Evil Eye"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "evil-hero",
+      "name": "Evil HERO",
+      "archetypes": [
+        "Evil HERO"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "evil-twin",
+      "name": "Evil★Twin",
+      "archetypes": [
+        "Evil★Twin"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "evol",
+      "name": "Evol",
+      "archetypes": [
+        "Evol"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "evolsaur",
+      "name": "Evolsaur",
+      "archetypes": [
+        "Evolsaur"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "evoltile",
+      "name": "Evoltile",
+      "archetypes": [
+        "Evoltile"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "evolzar",
+      "name": "Evolzar",
+      "archetypes": [
+        "Evolzar"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "exchange-of-the-spirit",
+      "name": "Exchange of the Spirit",
+      "archetypes": [
+        "Exchange of the Spirit"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "exodia",
+      "name": "Exodia",
+      "archetypes": [
+        "Exodia"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "exosister",
+      "name": "Exosister",
+      "archetypes": [
+        "Exosister"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "eyes-restrict",
+      "name": "Eyes Restrict",
+      "archetypes": [
+        "Eyes Restrict"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "f-a",
+      "name": "F.A.",
+      "archetypes": [
+        "F.A."
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "fabled",
+      "name": "Fabled",
+      "archetypes": [
+        "Fabled"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "fairy",
+      "name": "Fairy",
+      "archetypes": [
+        "Fairy"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "fairy-tail",
+      "name": "Fairy Tail",
+      "archetypes": [
+        "Fairy Tail"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "fan-made-cards",
+      "name": "Fan-Made Cards",
+      "archetypes": [
+        "Fan-Made Cards"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "fiendsmith",
+      "name": "Fiendsmith",
+      "archetypes": [
+        "Fiendsmith"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "fire-fist",
+      "name": "Fire Fist",
+      "archetypes": [
+        "Fire Fist"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "fire-formation",
+      "name": "Fire Formation",
+      "archetypes": [
+        "Fire Formation"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "fire-king",
+      "name": "Fire King",
+      "archetypes": [
+        "Fire King"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "firewall",
+      "name": "Firewall",
+      "archetypes": [
+        "Firewall"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "fishborg",
+      "name": "Fishborg",
+      "archetypes": [
+        "Fishborg"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "flame-swordsman",
+      "name": "Flame Swordsman",
+      "archetypes": [
+        "Flame Swordsman"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "flamvell",
+      "name": "Flamvell",
+      "archetypes": [
+        "Flamvell"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "fleur",
+      "name": "Fleur",
+      "archetypes": [
+        "Fleur"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "floowandereeze",
+      "name": "Floowandereeze",
+      "archetypes": [
+        "Floowandereeze"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "flower-cardian",
+      "name": "Flower Cardian",
+      "archetypes": [
+        "Flower Cardian"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "fluffal",
+      "name": "Fluffal",
+      "archetypes": [
+        "Fluffal"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "forbidden",
+      "name": "Forbidden",
+      "archetypes": [
+        "Forbidden"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "fortune-fairy",
+      "name": "Fortune Fairy",
+      "archetypes": [
+        "Fortune Fairy"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "fortune-lady",
+      "name": "Fortune Lady",
+      "archetypes": [
+        "Fortune Lady"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "fossil",
+      "name": "Fossil",
+      "archetypes": [
+        "Fossil"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "frightfur",
+      "name": "Frightfur",
+      "archetypes": [
+        "Frightfur"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "frog",
+      "name": "Frog",
+      "archetypes": [
+        "Frog"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "fur-hire",
+      "name": "Fur Hire",
+      "archetypes": [
+        "Fur Hire"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "fusion",
+      "name": "Fusion",
+      "archetypes": [
+        "Fusion"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "g-golem",
+      "name": "G Golem",
+      "archetypes": [
+        "G Golem"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "gadget",
+      "name": "Gadget",
+      "archetypes": [
+        "Gadget"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "gagaga",
+      "name": "Gagaga",
+      "archetypes": [
+        "Gagaga"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "gaia-knight",
+      "name": "Gaia Knight",
+      "archetypes": [
+        "Gaia Knight"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "gaia-the-fierce-knight",
+      "name": "Gaia The Fierce Knight",
+      "archetypes": [
+        "Gaia The Fierce Knight"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "galaxy",
+      "name": "Galaxy",
+      "archetypes": [
+        "Galaxy"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "galaxy-eyes",
+      "name": "Galaxy-Eyes",
+      "archetypes": [
+        "Galaxy-Eyes"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "gandora",
+      "name": "Gandora",
+      "archetypes": [
+        "Gandora"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "gate-guardian",
+      "name": "Gate Guardian",
+      "archetypes": [
+        "Gate Guardian"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "geargia",
+      "name": "Geargia",
+      "archetypes": [
+        "Geargia"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "gem",
+      "name": "Gem-",
+      "archetypes": [
+        "Gem-"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "generaider",
+      "name": "Generaider",
+      "archetypes": [
+        "Generaider"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "genex",
+      "name": "Genex",
+      "archetypes": [
+        "Genex"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "ghostrick",
+      "name": "Ghostrick",
+      "archetypes": [
+        "Ghostrick"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "ghoti",
+      "name": "Ghoti",
+      "archetypes": [
+        "Ghoti"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "gimmick-puppet",
+      "name": "Gimmick Puppet",
+      "archetypes": [
+        "Gimmick Puppet"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "gishki",
+      "name": "Gishki",
+      "archetypes": [
+        "Gishki"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "gizmek",
+      "name": "Gizmek",
+      "archetypes": [
+        "Gizmek"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "gladiator",
+      "name": "Gladiator",
+      "archetypes": [
+        "Gladiator"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "gladiator-beast",
+      "name": "Gladiator Beast",
+      "archetypes": [
+        "Gladiator Beast"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "gmx",
+      "name": "GMX",
+      "archetypes": [
+        "GMX"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "goblin",
+      "name": "Goblin",
+      "archetypes": [
+        "Goblin"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "gogogo",
+      "name": "Gogogo",
+      "archetypes": [
+        "Gogogo"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "gold-pride",
+      "name": "Gold Pride",
+      "archetypes": [
+        "Gold Pride"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "golden-castle-of-stromberg",
+      "name": "Golden Castle of Stromberg",
+      "archetypes": [
+        "Golden Castle of Stromberg"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "golden-land",
+      "name": "Golden Land",
+      "archetypes": [
+        "Golden Land"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "gorgonic",
+      "name": "Gorgonic",
+      "archetypes": [
+        "Gorgonic"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "gouki",
+      "name": "Gouki",
+      "archetypes": [
+        "Gouki"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "gravekeeper-s",
+      "name": "Gravekeeper's",
+      "archetypes": [
+        "Gravekeeper's"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "graydle",
+      "name": "Graydle",
+      "archetypes": [
+        "Graydle"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "greed",
+      "name": "Greed",
+      "archetypes": [
+        "Greed"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "grepher",
+      "name": "Grepher",
+      "archetypes": [
+        "Grepher"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "guardian",
+      "name": "Guardian",
+      "archetypes": [
+        "Guardian"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "guardragon",
+      "name": "Guardragon",
+      "archetypes": [
+        "Guardragon"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "gunkan",
+      "name": "Gunkan",
+      "archetypes": [
+        "Gunkan"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "gusto",
+      "name": "Gusto",
+      "archetypes": [
+        "Gusto"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "harpie",
+      "name": "Harpie",
+      "archetypes": [
+        "Harpie"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "hazy",
+      "name": "Hazy",
+      "archetypes": [
+        "Hazy"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "heart",
+      "name": "Heart",
+      "archetypes": [
+        "Heart"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "hecahands",
+      "name": "Hecahands",
+      "archetypes": [
+        "Hecahands"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "herald",
+      "name": "Herald",
+      "archetypes": [
+        "Herald"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "heraldic",
+      "name": "Heraldic",
+      "archetypes": [
+        "Heraldic"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "heraldry",
+      "name": "Heraldry",
+      "archetypes": [
+        "Heraldry"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "hero",
+      "name": "HERO",
+      "archetypes": [
+        "HERO"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "heroic",
+      "name": "Heroic",
+      "archetypes": [
+        "Heroic"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "hi-speedroid",
+      "name": "Hi-Speedroid",
+      "archetypes": [
+        "Hi-Speedroid"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "hieratic",
+      "name": "Hieratic",
+      "archetypes": [
+        "Hieratic"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "hole",
+      "name": "Hole",
+      "archetypes": [
+        "Hole"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "horus",
+      "name": "Horus",
+      "archetypes": [
+        "Horus"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "horus-the-black-flame-dragon",
+      "name": "Horus the Black Flame Dragon",
+      "archetypes": [
+        "Horus the Black Flame Dragon"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "hunting-scout-of-the-deep-forest",
+      "name": "Hunting Scout of the Deep Forest",
+      "archetypes": [
+        "Hunting Scout of the Deep Forest"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "ice-barrier",
+      "name": "Ice Barrier",
+      "archetypes": [
+        "Ice Barrier"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "icejade",
+      "name": "Icejade",
+      "archetypes": [
+        "Icejade"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "igknight",
+      "name": "Igknight",
+      "archetypes": [
+        "Igknight"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "impcantation",
+      "name": "Impcantation",
+      "archetypes": [
+        "Impcantation"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "infernity",
+      "name": "Infernity",
+      "archetypes": [
+        "Infernity"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "infernoble-knight",
+      "name": "Infernoble Knight",
+      "archetypes": [
+        "Infernoble Knight"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "infernoid",
+      "name": "Infernoid",
+      "archetypes": [
+        "Infernoid"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "infestation",
+      "name": "Infestation",
+      "archetypes": [
+        "Infestation"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "infinitrack",
+      "name": "Infinitrack",
+      "archetypes": [
+        "Infinitrack"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "invoked",
+      "name": "Invoked",
+      "archetypes": [
+        "Invoked"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "inzektor",
+      "name": "Inzektor",
+      "archetypes": [
+        "Inzektor"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "iron-chain",
+      "name": "Iron Chain",
+      "archetypes": [
+        "Iron Chain"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "jester",
+      "name": "Jester",
+      "archetypes": [
+        "Jester"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "jinzo",
+      "name": "Jinzo",
+      "archetypes": [
+        "Jinzo"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "junk",
+      "name": "Junk",
+      "archetypes": [
+        "Junk"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "jurrac",
+      "name": "Jurrac",
+      "archetypes": [
+        "Jurrac"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "k9",
+      "name": "K9",
+      "archetypes": [
+        "K9"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "kaiju",
+      "name": "Kaiju",
+      "archetypes": [
+        "Kaiju"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "karakuri",
+      "name": "Karakuri",
+      "archetypes": [
+        "Karakuri"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "kashtira",
+      "name": "Kashtira",
+      "archetypes": [
+        "Kashtira"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "knight",
+      "name": "Knight",
+      "archetypes": [
+        "Knight"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "knightmare",
+      "name": "Knightmare",
+      "archetypes": [
+        "Knightmare"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "koa-ki-meiru",
+      "name": "Koa'ki Meiru",
+      "archetypes": [
+        "Koa'ki Meiru"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "koala",
+      "name": "Koala",
+      "archetypes": [
+        "Koala"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "kozmo",
+      "name": "Kozmo",
+      "archetypes": [
+        "Kozmo"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "krawler",
+      "name": "Krawler",
+      "archetypes": [
+        "Krawler"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "kuriboh",
+      "name": "Kuriboh",
+      "archetypes": [
+        "Kuriboh"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "labrynth",
+      "name": "Labrynth",
+      "archetypes": [
+        "Labrynth"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "lady-of-lament",
+      "name": "Lady of Lament",
+      "archetypes": [
+        "Lady of Lament"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "laval",
+      "name": "Laval",
+      "archetypes": [
+        "Laval"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "legendary-knight",
+      "name": "Legendary Knight",
+      "archetypes": [
+        "Legendary Knight"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "libromancer",
+      "name": "Libromancer",
+      "archetypes": [
+        "Libromancer"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "light-and-darkness-dragon",
+      "name": "Light and Darkness Dragon",
+      "archetypes": [
+        "Light and Darkness Dragon"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "lightsworn",
+      "name": "Lightsworn",
+      "archetypes": [
+        "Lightsworn"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "lil-la",
+      "name": "Lil-la",
+      "archetypes": [
+        "Lil-la"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "live-twin",
+      "name": "Live☆Twin",
+      "archetypes": [
+        "Live☆Twin"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "lswarm",
+      "name": "Lswarm",
+      "archetypes": [
+        "Lswarm"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "lunalight",
+      "name": "Lunalight",
+      "archetypes": [
+        "Lunalight"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "lyrilusc",
+      "name": "Lyrilusc",
+      "archetypes": [
+        "Lyrilusc"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "machina",
+      "name": "Machina",
+      "archetypes": [
+        "Machina"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "madolche",
+      "name": "Madolche",
+      "archetypes": [
+        "Madolche"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "madoor",
+      "name": "Madoor",
+      "archetypes": [
+        "Madoor"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "magical-musket",
+      "name": "Magical Musket",
+      "archetypes": [
+        "Magical Musket"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "magician",
+      "name": "Magician",
+      "archetypes": [
+        "Magician"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "magician-girl",
+      "name": "Magician Girl",
+      "archetypes": [
+        "Magician Girl"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "magikey",
+      "name": "Magikey",
+      "archetypes": [
+        "Magikey"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "magistus",
+      "name": "Magistus",
+      "archetypes": [
+        "Magistus"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "magnet",
+      "name": "Magnet",
+      "archetypes": [
+        "Magnet"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "magnet-warrior",
+      "name": "Magnet Warrior",
+      "archetypes": [
+        "Magnet Warrior"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "majespecter",
+      "name": "Majespecter",
+      "archetypes": [
+        "Majespecter"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "majestic",
+      "name": "Majestic",
+      "archetypes": [
+        "Majestic"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "maju",
+      "name": "Maju",
+      "archetypes": [
+        "Maju"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "malefic",
+      "name": "Malefic",
+      "archetypes": [
+        "Malefic"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "malicevorous",
+      "name": "Malicevorous",
+      "archetypes": [
+        "Malicevorous"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "maliss",
+      "name": "Maliss",
+      "archetypes": [
+        "Maliss"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "mannadium",
+      "name": "Mannadium",
+      "archetypes": [
+        "Mannadium"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "marincess",
+      "name": "Marincess",
+      "archetypes": [
+        "Marincess"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "martial-art-spirit",
+      "name": "Martial Art Spirit",
+      "archetypes": [
+        "Martial Art Spirit"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "mask",
+      "name": "Mask",
+      "archetypes": [
+        "Mask"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "masked-hero",
+      "name": "Masked HERO",
+      "archetypes": [
+        "Masked HERO"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "materiactor",
+      "name": "Materiactor",
+      "archetypes": [
+        "Materiactor"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "mathmech",
+      "name": "Mathmech",
+      "archetypes": [
+        "Mathmech"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "mayakashi",
+      "name": "Mayakashi",
+      "archetypes": [
+        "Mayakashi"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "mecha-phantom-beast",
+      "name": "Mecha Phantom Beast",
+      "archetypes": [
+        "Mecha Phantom Beast"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "megalith",
+      "name": "Megalith",
+      "archetypes": [
+        "Megalith"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "mekk-knight",
+      "name": "Mekk-Knight",
+      "archetypes": [
+        "Mekk-Knight"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "meklord",
+      "name": "Meklord",
+      "archetypes": [
+        "Meklord"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "melffy",
+      "name": "Melffy",
+      "archetypes": [
+        "Melffy"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "melodious",
+      "name": "Melodious",
+      "archetypes": [
+        "Melodious"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "memento",
+      "name": "Memento",
+      "archetypes": [
+        "Memento"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "mermail",
+      "name": "Mermail",
+      "archetypes": [
+        "Mermail"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "metalfoes",
+      "name": "Metalfoes",
+      "archetypes": [
+        "Metalfoes"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "metalmorph",
+      "name": "Metalmorph",
+      "archetypes": [
+        "Metalmorph"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "metaphys",
+      "name": "Metaphys",
+      "archetypes": [
+        "Metaphys"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "mikanko",
+      "name": "Mikanko",
+      "archetypes": [
+        "Mikanko"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "millennium",
+      "name": "Millennium",
+      "archetypes": [
+        "Millennium"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "mimighoul",
+      "name": "Mimighoul",
+      "archetypes": [
+        "Mimighoul"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "mist-valley",
+      "name": "Mist Valley",
+      "archetypes": [
+        "Mist Valley"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "mitsurugi",
+      "name": "Mitsurugi",
+      "archetypes": [
+        "Mitsurugi"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "monarch",
+      "name": "Monarch",
+      "archetypes": [
+        "Monarch"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "morganite",
+      "name": "Morganite",
+      "archetypes": [
+        "Morganite"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "morphtronic",
+      "name": "Morphtronic",
+      "archetypes": [
+        "Morphtronic"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "mulcharmy",
+      "name": "Mulcharmy",
+      "archetypes": [
+        "Mulcharmy"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "mystical-beast-of-the-forest",
+      "name": "Mystical Beast of the Forest",
+      "archetypes": [
+        "Mystical Beast of the Forest"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "mythical-beast",
+      "name": "Mythical Beast",
+      "archetypes": [
+        "Mythical Beast"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "myutant",
+      "name": "Myutant",
+      "archetypes": [
+        "Myutant"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "naturia",
+      "name": "Naturia",
+      "archetypes": [
+        "Naturia"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "nekroz",
+      "name": "Nekroz",
+      "archetypes": [
+        "Nekroz"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "nemeses",
+      "name": "Nemeses",
+      "archetypes": [
+        "Nemeses"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "nemleria",
+      "name": "Nemleria",
+      "archetypes": [
+        "Nemleria"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "nemurelia",
+      "name": "Nemurelia",
+      "archetypes": [
+        "Nemurelia"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "neo-spacian",
+      "name": "Neo-Spacian",
+      "archetypes": [
+        "Neo-Spacian"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "nephthys",
+      "name": "Nephthys",
+      "archetypes": [
+        "Nephthys"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "nimble",
+      "name": "Nimble",
+      "archetypes": [
+        "Nimble"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "ninja",
+      "name": "Ninja",
+      "archetypes": [
+        "Ninja"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "ninjitsu-art",
+      "name": "Ninjitsu Art",
+      "archetypes": [
+        "Ninjitsu Art"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "noble-arms",
+      "name": "Noble Arms",
+      "archetypes": [
+        "Noble Arms"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "noble-knight",
+      "name": "Noble Knight",
+      "archetypes": [
+        "Noble Knight"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "nordic",
+      "name": "Nordic",
+      "archetypes": [
+        "Nordic"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "nouvelles",
+      "name": "Nouvelles",
+      "archetypes": [
+        "Nouvelles"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "number",
+      "name": "Number",
+      "archetypes": [
+        "Number"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "numeron",
+      "name": "Numeron",
+      "archetypes": [
+        "Numeron"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "odd-eyes",
+      "name": "Odd-Eyes",
+      "archetypes": [
+        "Odd-Eyes"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "ogdoadic",
+      "name": "Ogdoadic",
+      "archetypes": [
+        "Ogdoadic"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "ojama",
+      "name": "Ojama",
+      "archetypes": [
+        "Ojama"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "orcust",
+      "name": "Orcust",
+      "archetypes": [
+        "Orcust"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "p-u-n-k",
+      "name": "P.U.N.K.",
+      "archetypes": [
+        "P.U.N.K."
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "paleozoic",
+      "name": "Paleozoic",
+      "archetypes": [
+        "Paleozoic"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "parasite",
+      "name": "Parasite",
+      "archetypes": [
+        "Parasite"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "parshath",
+      "name": "Parshath",
+      "archetypes": [
+        "Parshath"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "pendulum",
+      "name": "Pendulum",
+      "archetypes": [
+        "Pendulum"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "penguin",
+      "name": "Penguin",
+      "archetypes": [
+        "Penguin"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "performage",
+      "name": "Performage",
+      "archetypes": [
+        "Performage"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "performapal",
+      "name": "Performapal",
+      "archetypes": [
+        "Performapal"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "phantasm-spiral",
+      "name": "Phantasm Spiral",
+      "archetypes": [
+        "Phantasm Spiral"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "phantom-knights",
+      "name": "Phantom Knights",
+      "archetypes": [
+        "Phantom Knights"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "photon",
+      "name": "Photon",
+      "archetypes": [
+        "Photon"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "plunder-patroll",
+      "name": "Plunder Patroll",
+      "archetypes": [
+        "Plunder Patroll"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "polymerization",
+      "name": "Polymerization",
+      "archetypes": [
+        "Polymerization"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "possessed",
+      "name": "Possessed",
+      "archetypes": [
+        "Possessed"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "power-patron",
+      "name": "Power Patron",
+      "archetypes": [
+        "Power Patron"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "power-tool",
+      "name": "Power Tool",
+      "archetypes": [
+        "Power Tool"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "prank-kids",
+      "name": "Prank-Kids",
+      "archetypes": [
+        "Prank-Kids"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "predap",
+      "name": "Predap",
+      "archetypes": [
+        "Predap"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "predaplant",
+      "name": "Predaplant",
+      "archetypes": [
+        "Predaplant"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "prediction-princess",
+      "name": "Prediction Princess",
+      "archetypes": [
+        "Prediction Princess"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "primite",
+      "name": "Primite",
+      "archetypes": [
+        "Primite"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "prophecy",
+      "name": "Prophecy",
+      "archetypes": [
+        "Prophecy"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "psy-frame",
+      "name": "PSY-Frame",
+      "archetypes": [
+        "PSY-Frame"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "puppet",
+      "name": "Puppet",
+      "archetypes": [
+        "Puppet"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "purrely",
+      "name": "Purrely",
+      "archetypes": [
+        "Purrely"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "qli",
+      "name": "Qli",
+      "archetypes": [
+        "Qli"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "r-b",
+      "name": "R.B.",
+      "archetypes": [
+        "R.B."
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "ragnaraika",
+      "name": "Ragnaraika",
+      "archetypes": [
+        "Ragnaraika"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "raidraptor",
+      "name": "Raidraptor",
+      "archetypes": [
+        "Raidraptor"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "rank-up-magic",
+      "name": "Rank-Up-Magic",
+      "archetypes": [
+        "Rank-Up-Magic"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "recipe",
+      "name": "Recipe",
+      "archetypes": [
+        "Recipe"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "recolored-counterpart",
+      "name": "Recolored counterpart",
+      "archetypes": [
+        "Recolored counterpart"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "red-eyes",
+      "name": "Red-Eyes",
+      "archetypes": [
+        "Red-Eyes"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "regenesis",
+      "name": "Regenesis",
+      "archetypes": [
+        "Regenesis"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "reptilianne",
+      "name": "Reptilianne",
+      "archetypes": [
+        "Reptilianne"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "rescue-ace",
+      "name": "Rescue-ACE",
+      "archetypes": [
+        "Rescue-ACE"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "resonator",
+      "name": "Resonator",
+      "archetypes": [
+        "Resonator"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "rikka",
+      "name": "Rikka",
+      "archetypes": [
+        "Rikka"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "ritual-beast",
+      "name": "Ritual Beast",
+      "archetypes": [
+        "Ritual Beast"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "roid",
+      "name": "Roid",
+      "archetypes": [
+        "Roid"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "rokket",
+      "name": "Rokket",
+      "archetypes": [
+        "Rokket"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "rose",
+      "name": "Rose",
+      "archetypes": [
+        "Rose"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "rose-dragon",
+      "name": "Rose Dragon",
+      "archetypes": [
+        "Rose Dragon"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "runick",
+      "name": "Runick",
+      "archetypes": [
+        "Runick"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "ryu-ge",
+      "name": "Ryu-Ge",
+      "archetypes": [
+        "Ryu-Ge"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "ryzeal",
+      "name": "Ryzeal",
+      "archetypes": [
+        "Ryzeal"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "s-force",
+      "name": "S-Force",
+      "archetypes": [
+        "S-Force"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "saber",
+      "name": "Saber",
+      "archetypes": [
+        "Saber"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "sacred-beast",
+      "name": "Sacred Beast",
+      "archetypes": [
+        "Sacred Beast"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "salamangreat",
+      "name": "Salamangreat",
+      "archetypes": [
+        "Salamangreat"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "sangen",
+      "name": "Sangen",
+      "archetypes": [
+        "Sangen"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "scareclaw",
+      "name": "Scareclaw",
+      "archetypes": [
+        "Scareclaw"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "scrap",
+      "name": "Scrap",
+      "archetypes": [
+        "Scrap"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "secret-six-samurai",
+      "name": "Secret Six Samurai",
+      "archetypes": [
+        "Secret Six Samurai"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "seventh",
+      "name": "Seventh",
+      "archetypes": [
+        "Seventh"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "shaddoll",
+      "name": "Shaddoll",
+      "archetypes": [
+        "Shaddoll"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "shark",
+      "name": "Shark",
+      "archetypes": [
+        "Shark"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "shining-sarcophagus",
+      "name": "Shining Sarcophagus",
+      "archetypes": [
+        "Shining Sarcophagus"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "shinobird",
+      "name": "Shinobird",
+      "archetypes": [
+        "Shinobird"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "shiranui",
+      "name": "Shiranui",
+      "archetypes": [
+        "Shiranui"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "signature-move",
+      "name": "Signature move",
+      "archetypes": [
+        "Signature move"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "silent-magician",
+      "name": "Silent Magician",
+      "archetypes": [
+        "Silent Magician"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "silent-swordsman",
+      "name": "Silent Swordsman",
+      "archetypes": [
+        "Silent Swordsman"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "simorgh",
+      "name": "Simorgh",
+      "archetypes": [
+        "Simorgh"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "sinful-spoils",
+      "name": "Sinful Spoils",
+      "archetypes": [
+        "Sinful Spoils"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "six-samurai",
+      "name": "Six Samurai",
+      "archetypes": [
+        "Six Samurai"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "skull-servant",
+      "name": "Skull Servant",
+      "archetypes": [
+        "Skull Servant"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "slime",
+      "name": "Slime",
+      "archetypes": [
+        "Slime"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "snake-eye",
+      "name": "Snake-Eye",
+      "archetypes": [
+        "Snake-Eye"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "solemn",
+      "name": "Solemn",
+      "archetypes": [
+        "Solemn"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "solfachord",
+      "name": "Solfachord",
+      "archetypes": [
+        "Solfachord"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "speedroid",
+      "name": "Speedroid",
+      "archetypes": [
+        "Speedroid"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "spellbook",
+      "name": "Spellbook",
+      "archetypes": [
+        "Spellbook"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "sphinx",
+      "name": "Sphinx",
+      "archetypes": [
+        "Sphinx"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "spirit-message",
+      "name": "Spirit Message",
+      "archetypes": [
+        "Spirit Message"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "spright",
+      "name": "Spright",
+      "archetypes": [
+        "Spright"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "springans",
+      "name": "Springans",
+      "archetypes": [
+        "Springans"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "spyral",
+      "name": "SPYRAL",
+      "archetypes": [
+        "SPYRAL"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "star",
+      "name": "Star",
+      "archetypes": [
+        "Star"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "star-seraph",
+      "name": "Star Seraph",
+      "archetypes": [
+        "Star Seraph"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "stardust",
+      "name": "Stardust",
+      "archetypes": [
+        "Stardust"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "starry-knight",
+      "name": "Starry Knight",
+      "archetypes": [
+        "Starry Knight"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "steelswarm",
+      "name": "Steelswarm",
+      "archetypes": [
+        "Steelswarm"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "stellarknight",
+      "name": "Stellarknight",
+      "archetypes": [
+        "Stellarknight"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "subterror",
+      "name": "Subterror",
+      "archetypes": [
+        "Subterror"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "sunavalon",
+      "name": "Sunavalon",
+      "archetypes": [
+        "Sunavalon"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "sunseed",
+      "name": "Sunseed",
+      "archetypes": [
+        "Sunseed"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "sunvine",
+      "name": "Sunvine",
+      "archetypes": [
+        "Sunvine"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "super-defense-robot",
+      "name": "Super Defense Robot",
+      "archetypes": [
+        "Super Defense Robot"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "super-quant",
+      "name": "Super Quant",
+      "archetypes": [
+        "Super Quant"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "superheavy",
+      "name": "Superheavy",
+      "archetypes": [
+        "Superheavy"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "superheavy-samurai",
+      "name": "Superheavy Samurai",
+      "archetypes": [
+        "Superheavy Samurai"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "supreme-king",
+      "name": "Supreme King",
+      "archetypes": [
+        "Supreme King"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "swordsoul",
+      "name": "Swordsoul",
+      "archetypes": [
+        "Swordsoul"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "sylvan",
+      "name": "Sylvan",
+      "archetypes": [
+        "Sylvan"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "symphonic-warrior",
+      "name": "Symphonic Warrior",
+      "archetypes": [
+        "Symphonic Warrior"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "synchro",
+      "name": "Synchro",
+      "archetypes": [
+        "Synchro"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "synchron",
+      "name": "Synchron",
+      "archetypes": [
+        "Synchron"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "t-g",
+      "name": "T.G.",
+      "archetypes": [
+        "T.G."
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "tearlaments",
+      "name": "Tearlaments",
+      "archetypes": [
+        "Tearlaments"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "tellarknight",
+      "name": "Tellarknight",
+      "archetypes": [
+        "Tellarknight"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "temple-of-the-kings",
+      "name": "Temple of the Kings",
+      "archetypes": [
+        "Temple of the Kings"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "tenpai-dragon",
+      "name": "Tenpai Dragon",
+      "archetypes": [
+        "Tenpai Dragon"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "tenyi",
+      "name": "Tenyi",
+      "archetypes": [
+        "Tenyi"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "the-agent",
+      "name": "The Agent",
+      "archetypes": [
+        "The Agent"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "the-weather",
+      "name": "The Weather",
+      "archetypes": [
+        "The Weather"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "therion",
+      "name": "Therion",
+      "archetypes": [
+        "Therion"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "thunder-dragon",
+      "name": "Thunder Dragon",
+      "archetypes": [
+        "Thunder Dragon"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "time-thief",
+      "name": "Time Thief",
+      "archetypes": [
+        "Time Thief"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "timelord",
+      "name": "Timelord",
+      "archetypes": [
+        "Timelord"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "tindangle",
+      "name": "Tindangle",
+      "archetypes": [
+        "Tindangle"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "tistina",
+      "name": "Tistina",
+      "archetypes": [
+        "Tistina"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "toon",
+      "name": "Toon",
+      "archetypes": [
+        "Toon"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "toy",
+      "name": "Toy",
+      "archetypes": [
+        "Toy"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "train",
+      "name": "Train",
+      "archetypes": [
+        "Train"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "transcendosaurus",
+      "name": "Transcendosaurus",
+      "archetypes": [
+        "Transcendosaurus"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "trap-monster",
+      "name": "Trap Monster",
+      "archetypes": [
+        "Trap Monster"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "traptrix",
+      "name": "Traptrix",
+      "archetypes": [
+        "Traptrix"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "tri-brigade",
+      "name": "Tri-Brigade",
+      "archetypes": [
+        "Tri-Brigade"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "triamid",
+      "name": "Triamid",
+      "archetypes": [
+        "Triamid"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "trickstar",
+      "name": "Trickstar",
+      "archetypes": [
+        "Trickstar"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "true-draco",
+      "name": "True Draco",
+      "archetypes": [
+        "True Draco"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "u-a",
+      "name": "U.A.",
+      "archetypes": [
+        "U.A."
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "umbral-horror",
+      "name": "Umbral Horror",
+      "archetypes": [
+        "Umbral Horror"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "umi",
+      "name": "Umi",
+      "archetypes": [
+        "Umi"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "unchained",
+      "name": "Unchained",
+      "archetypes": [
+        "Unchained"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "underworld",
+      "name": "Underworld",
+      "archetypes": [
+        "Underworld"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "ursarctic",
+      "name": "Ursarctic",
+      "archetypes": [
+        "Ursarctic"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "utopia",
+      "name": "Utopia",
+      "archetypes": [
+        "Utopia"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "vaalmonica",
+      "name": "Vaalmonica",
+      "archetypes": [
+        "Vaalmonica"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "valkyrie",
+      "name": "Valkyrie",
+      "archetypes": [
+        "Valkyrie"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "vampire",
+      "name": "Vampire",
+      "archetypes": [
+        "Vampire"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "vanquish-soul",
+      "name": "Vanquish Soul",
+      "archetypes": [
+        "Vanquish Soul"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "vassal",
+      "name": "Vassal",
+      "archetypes": [
+        "Vassal"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "vaylantz",
+      "name": "Vaylantz",
+      "archetypes": [
+        "Vaylantz"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "vendread",
+      "name": "Vendread",
+      "archetypes": [
+        "Vendread"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "venom",
+      "name": "Venom",
+      "archetypes": [
+        "Venom"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "vernusylph",
+      "name": "Vernusylph",
+      "archetypes": [
+        "Vernusylph"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "virtual-world",
+      "name": "Virtual World",
+      "archetypes": [
+        "Virtual World"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "vision-hero",
+      "name": "Vision HERO",
+      "archetypes": [
+        "Vision HERO"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "voiceless-voice",
+      "name": "Voiceless Voice",
+      "archetypes": [
+        "Voiceless Voice"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "void",
+      "name": "Void",
+      "archetypes": [
+        "Void"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "volcanic",
+      "name": "Volcanic",
+      "archetypes": [
+        "Volcanic"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "vylon",
+      "name": "Vylon",
+      "archetypes": [
+        "Vylon"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "wake-cup",
+      "name": "WAKE CUP!",
+      "archetypes": [
+        "WAKE CUP!"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "war-rock",
+      "name": "War Rock",
+      "archetypes": [
+        "War Rock"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "warrior",
+      "name": "Warrior",
+      "archetypes": [
+        "Warrior"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "watt",
+      "name": "Watt",
+      "archetypes": [
+        "Watt"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "white",
+      "name": "White",
+      "archetypes": [
+        "White"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "white-forest",
+      "name": "White Forest",
+      "archetypes": [
+        "White Forest"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "wicked-god",
+      "name": "Wicked God",
+      "archetypes": [
+        "Wicked God"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "wight",
+      "name": "Wight",
+      "archetypes": [
+        "Wight"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "wind-up",
+      "name": "Wind-Up",
+      "archetypes": [
+        "Wind-Up"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "windwitch",
+      "name": "Windwitch",
+      "archetypes": [
+        "Windwitch"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "witchcrafter",
+      "name": "Witchcrafter",
+      "archetypes": [
+        "Witchcrafter"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "with-eyes-of-blue",
+      "name": "with Eyes of Blue",
+      "archetypes": [
+        "with Eyes of Blue"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "world-chalice",
+      "name": "World Chalice",
+      "archetypes": [
+        "World Chalice"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "world-legacy",
+      "name": "World Legacy",
+      "archetypes": [
+        "World Legacy"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "worm",
+      "name": "Worm",
+      "archetypes": [
+        "Worm"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "x-saber",
+      "name": "X-Saber",
+      "archetypes": [
+        "X-Saber"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "xyz",
+      "name": "Xyz",
+      "archetypes": [
+        "Xyz"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "yang-zing",
+      "name": "Yang Zing",
+      "archetypes": [
+        "Yang Zing"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "yosenju",
+      "name": "Yosenju",
+      "archetypes": [
+        "Yosenju"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "yubel",
+      "name": "Yubel",
+      "archetypes": [
+        "Yubel"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "zefra",
+      "name": "Zefra",
+      "archetypes": [
+        "Zefra"
+      ],
+      "contentStatus": "stub"
+    },
+    {
+      "id": "zexal",
+      "name": "Zexal",
+      "archetypes": [
+        "Zexal"
+      ],
+      "contentStatus": "stub"
+    }
+  ]
+}

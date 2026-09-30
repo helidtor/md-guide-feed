@@ -1,0 +1,1535 @@
+{
+  "schemaVersion": "1.0.0",
+  "dataVersion": 1,
+  "guides": [
+    {
+      "deckId": "sky-striker",
+      "reviewStatus": "ai_draft",
+      "summary": "Sky Striker là deck control xoay quanh Spell. Chỉ cần giữ Main Monster Zone trống, bạn dùng Engage! để search, Widow Anchor để negate/cướp quái, và gọi các Link 'Sky Striker Ace' vào Extra Monster Zone bằng Raye hoặc Linkage!. Raye có thể tự Tribute ở bất kỳ lượt nào rồi quay lại từ GY, nên deck rất khó bị phá sạch. Deck không cần combo dài, mạnh nhất khi đi sau với nhiều hand trap và Quick-Play Spell, rồi thắng bằng cách bào tài nguyên.",
+      "playstyle": {
+        "overview": "Mỗi lượt bạn chỉ đưa một Sky Striker Ace lên Extra Monster Zone (Kagari, Shizuku, Hayate, Zero...), còn phần lớn sức mạnh nằm trên tay: Engage!, Widow Anchor, Linkage!, Lemnisgate! và các Quick-Play Spell 'Forbidden'. Nhiều Spell mạnh hơn khi GY có từ 3 Spell trở lên (Engage! được rút thêm 1 lá, Widow Anchor được cướp quái). Luôn để ý điều kiện 'không có quái ở Main Monster Zone': Roze hay quái cướp được sẽ khoá Engage!/Widow Anchor/Linkage! của chính bạn.",
+        "goingFirst": "Đi trước, mục tiêu là board nhỏ nhưng có nhiều bài úp: Engage! lấy Raye, Raye tự Tribute gọi Kagari, Kagari lấy lại Engage! để search thêm Widow Anchor. Úp Widow Anchor, Forbidden Droplet/Crown và giữ hand trap cho lượt đối thủ. Đừng gọi Roze ra Main Monster Zone ở lượt này vì nó sẽ tắt Engage!/Widow Anchor.",
+        "goingSecond": "Đi sau là thế mạnh của deck: dùng hand trap ở lượt 1 của đối thủ, sau đó Widow Anchor, The Fallen & The Virtuous (gửi Albion the Branded Dragon từ Extra Deck để phá 1 lá face-up), Forbidden Droplet để mở board. Zero có thể Tribute để gọi lại Raye + Roze từ Deck/GY rồi phá thêm 1 lá. Triple Tactics Talent rất đáng dùng vì đối thủ gần như chắc chắn đã kích hoạt hiệu ứng quái trong Main Phase của bạn.",
+        "tips": [
+          "Đếm số Spell trong GY trước khi dùng Engage! hoặc Widow Anchor: từ 3 lá trở lên thì có thêm hiệu ứng.",
+          "Raye trong GY chỉ quay lại khi một Sky Striker Ace Link bị phá bằng battle hoặc rời sân do hiệu ứng đối thủ; nếu bạn tự Tribute Zero thì Raye không hồi sinh.",
+          "Zero chỉ dùng được 1 hiệu ứng mỗi lượt: nếu định Tribute Zero để gọi Raye + Roze thì bỏ qua hiệu ứng search khi Zero được Special Summon.",
+          "Chỉ Special Summon Kagari được 1 lần mỗi lượt; kế hoạch Link thứ hai nên là Shizuku, Hayate hoặc Zero."
+        ]
+      },
+      "strengths": [
+        "Rất mạnh khi đi sau: nhiều Quick-Play Spell phá board mà không cần combo dài.",
+        "Raye hồi sinh từ GY nên khó bị xử lý triệt để.",
+        "Ít bị Nibiru và Maxx \"C\" trừng phạt vì mỗi lượt chỉ Summon vài lần."
+      ],
+      "weaknesses": [
+        "Board đi trước mỏng, dựa vào bài úp và hand trap.",
+        "Engage!/Widow Anchor vô dụng nếu bạn có quái ở Main Monster Zone.",
+        "Ash Blossom vào Engage! đầu tiên và Droll & Lock Bird làm chậm deck đáng kể."
+      ],
+      "counters": [
+        {
+          "cardId": 14558127,
+          "name": "Ash Blossom & Joyous Spring",
+          "note": "Ash Blossom vào Engage! làm mất lượt search Raye; nên có Raye/Reinforcement of the Army dự phòng."
+        },
+        {
+          "cardId": 73642296,
+          "name": "Ghost Belle & Haunted Mansion",
+          "note": "Ghost Belle negate hiệu ứng lấy Spell từ GY của Kagari hoặc việc Zero gọi Raye/Roze từ GY."
+        },
+        {
+          "cardId": 94145021,
+          "name": "Droll & Lock Bird",
+          "note": "Droll & Lock Bird sau Engage! đầu tiên chặn Engage! thứ hai (Kagari vẫn lấy từ GY được)."
+        },
+        {
+          "cardId": 10045474,
+          "name": "Infinite Impermanence",
+          "note": "Infinite Impermanence / Effect Veiler negate Kagari hoặc Zero trước khi hiệu ứng resolve."
+        }
+      ],
+      "combos": [
+        {
+          "id": "engage-raye-kagari",
+          "title": "Đi trước: Engage! → Raye → Kagari → Engage! lần 2",
+          "turn": "going-first",
+          "difficulty": "beginner",
+          "illustrative": true,
+          "summary": "Line cơ bản 1-2 lá: dùng Engage! hai lần để có Raye + Widow Anchor, kết thúc với Kagari ở Extra Monster Zone và bài úp.",
+          "starterCardIds": [
+            63166095
+          ],
+          "usesNormalSummon": true,
+          "deckCardIds": [
+            26077387,
+            98338152
+          ],
+          "extraDeckCardIds": [
+            63288573
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "text": "Main Monster Zone đang trống: kích hoạt Sky Striker Mobilize - Engage!, thêm Sky Striker Ace - Raye từ Deck lên tay.",
+              "cardIds": [
+                63166095,
+                26077387
+              ],
+              "action": "search",
+              "fromZone": "deck",
+              "toZone": "hand"
+            },
+            {
+              "order": 2,
+              "text": "Normal Summon Raye.",
+              "cardIds": [
+                26077387
+              ],
+              "action": "normal-summon",
+              "fromZone": "hand",
+              "toZone": "main-monster-zone",
+              "summonCountAfter": 1
+            },
+            {
+              "order": 3,
+              "text": "Dùng hiệu ứng (Quick Effect) của Raye: Tribute Raye, Special Summon Sky Striker Ace - Kagari từ Extra Deck vào Extra Monster Zone.",
+              "cardIds": [
+                26077387,
+                63288573
+              ],
+              "action": "special-summon",
+              "fromZone": "extra-deck",
+              "toZone": "extra-monster-zone",
+              "summonCountAfter": 2
+            },
+            {
+              "order": 4,
+              "text": "Kagari được Special Summon: chọn Engage! trong GY, thêm nó về tay.",
+              "cardIds": [
+                63288573,
+                63166095
+              ],
+              "action": "activate-effect",
+              "fromZone": "graveyard",
+              "toZone": "hand"
+            },
+            {
+              "order": 5,
+              "text": "Main Monster Zone lại trống (Kagari ở Extra Monster Zone): kích hoạt Engage! lần nữa, thêm Sky Striker Mecha - Widow Anchor.",
+              "cardIds": [
+                63166095,
+                98338152
+              ],
+              "action": "search",
+              "fromZone": "deck",
+              "toZone": "hand"
+            },
+            {
+              "order": 6,
+              "text": "Úp Widow Anchor và các Quick-Play Spell khác (Forbidden Droplet, Forbidden Crown...). Không Special Summon Roze ra Main Monster Zone.",
+              "cardIds": [
+                98338152
+              ],
+              "action": "set",
+              "fromZone": "hand",
+              "toZone": "spell-trap-zone"
+            }
+          ],
+          "endBoard": {
+            "cardIds": [
+              63288573,
+              98338152
+            ],
+            "graveyardCardIds": [
+              26077387,
+              63166095
+            ],
+            "text": "Kagari ở Extra Monster Zone, Widow Anchor úp cùng các Quick-Play khác và hand trap trên tay. Raye nằm GY để hồi sinh nếu Kagari bị phá bằng battle hoặc rời sân do hiệu ứng đối thủ.",
+            "interruptions": [
+              "Widow Anchor: negate 1 Effect Monster face-up (cướp quái nếu có 3+ Spell trong GY).",
+              "Raye hồi sinh từ GY khi Kagari bị đối thủ xử lý."
+            ]
+          },
+          "chokePoints": [
+            {
+              "atStep": 1,
+              "cardIds": [
+                14558127
+              ],
+              "text": "Ash Blossom negate Engage!: không có Raye. Dự phòng: Reinforcement of the Army hoặc Raye có sẵn trên tay."
+            },
+            {
+              "atStep": 4,
+              "cardIds": [
+                10045474,
+                97268402,
+                73642296
+              ],
+              "text": "Imperm/Veiler negate Kagari, hoặc Ghost Belle negate việc lấy Engage! từ GY: bạn chỉ còn Kagari và phải giữ bài úp từ tay."
+            },
+            {
+              "atStep": 5,
+              "cardIds": [
+                94145021
+              ],
+              "text": "Droll & Lock Bird sau Engage! đầu tiên khiến Engage! thứ hai không search được; hãy giữ Engage! cho lượt sau."
+            }
+          ]
+        },
+        {
+          "id": "going-second-zero",
+          "title": "Đi sau: Kagari + Roze → Zero, Tribute Zero phá bài",
+          "turn": "going-second",
+          "difficulty": "intermediate",
+          "illustrative": true,
+          "summary": "Dùng Kagari và Roze làm nguyên liệu cho Zero, dùng Widow Anchor khi Main Monster Zone còn trống, rồi Tribute Zero để gọi Raye + Roze và phá 1 lá.",
+          "starterCardIds": [
+            63166095,
+            37351133
+          ],
+          "usesNormalSummon": true,
+          "deckCardIds": [
+            26077387,
+            98338152
+          ],
+          "extraDeckCardIds": [
+            63288573,
+            76072561
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "text": "Main Monster Zone trống: kích hoạt Engage!, thêm Raye.",
+              "cardIds": [
+                63166095,
+                26077387
+              ],
+              "action": "search",
+              "fromZone": "deck",
+              "toZone": "hand"
+            },
+            {
+              "order": 2,
+              "text": "Normal Summon Raye, rồi Tribute Raye (Quick Effect) để Special Summon Kagari vào Extra Monster Zone.",
+              "cardIds": [
+                26077387,
+                63288573
+              ],
+              "action": "special-summon",
+              "fromZone": "extra-deck",
+              "toZone": "extra-monster-zone",
+              "summonCountAfter": 2
+            },
+            {
+              "order": 3,
+              "text": "Kagari được Special Summon nên Roze có thể tự Special Summon từ tay; Kagari lấy Engage! từ GY về tay.",
+              "cardIds": [
+                37351133,
+                63288573,
+                63166095
+              ],
+              "action": "special-summon",
+              "fromZone": "hand",
+              "toZone": "main-monster-zone",
+              "summonCountAfter": 3
+            },
+            {
+              "order": 4,
+              "text": "Link Summon Sky Striker Ace = Zero bằng Kagari + Roze. Bỏ qua hiệu ứng search của Zero để giữ lượt dùng hiệu ứng Tribute.",
+              "cardIds": [
+                76072561,
+                63288573,
+                37351133
+              ],
+              "action": "link-summon",
+              "fromZone": "extra-deck",
+              "toZone": "extra-monster-zone",
+              "summonCountAfter": 4
+            },
+            {
+              "order": 5,
+              "text": "Main Monster Zone trống: kích hoạt Engage!, thêm Widow Anchor, rồi dùng Widow Anchor negate quái nguy hiểm nhất của đối thủ.",
+              "cardIds": [
+                63166095,
+                98338152
+              ],
+              "action": "activate-card"
+            },
+            {
+              "order": 6,
+              "text": "Tribute Zero (Quick Effect): Special Summon Raye và Roze từ GY, rồi phá 1 lá trên sân.",
+              "cardIds": [
+                76072561,
+                26077387,
+                37351133
+              ],
+              "action": "special-summon",
+              "fromZone": "graveyard",
+              "toZone": "main-monster-zone",
+              "summonCountAfter": 6
+            },
+            {
+              "order": 7,
+              "text": "Vào Battle Phase tấn công bằng Raye và Roze.",
+              "cardIds": [
+                26077387,
+                37351133
+              ],
+              "action": "other"
+            }
+          ],
+          "endBoard": {
+            "cardIds": [
+              26077387,
+              37351133
+            ],
+            "text": "Sau lượt tấn công bạn còn Raye + Roze. Đối thủ đã mất 1 lá do Zero và 1 quái bị Widow Anchor negate. Dùng thêm F&V hoặc Forbidden Droplet trước bước 6 nếu board đối thủ còn dày."
+          },
+          "chokePoints": [
+            {
+              "atStep": 1,
+              "cardIds": [
+                14558127
+              ],
+              "text": "Ash Blossom vào Engage!: dùng Reinforcement of the Army hoặc chuyển sang F&V/Forbidden Droplet để phá board."
+            },
+            {
+              "atStep": 4,
+              "cardIds": [
+                10045474
+              ],
+              "text": "Imperm lên Zero sẽ tắt hiệu ứng Tribute lượt này; khi đó Zero chỉ còn là quái đánh."
+            },
+            {
+              "atStep": 6,
+              "cardIds": [
+                73642296,
+                27204311
+              ],
+              "text": "Ghost Belle negate việc gọi Raye + Roze từ GY. Nibiru có thể kích hoạt sau lần Summon thứ 5."
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": "MD BA (bot)",
+        "role": "business-analyst"
+      },
+      "reviewers": []
+    },
+    {
+      "deckId": "branded-despia",
+      "reviewStatus": "ai_draft",
+      "summary": "Branded Despia là deck Fusion lấy Fallen of Albaz làm trung tâm. Aluber the Jester of Despia search Branded Fusion, Branded Fusion dùng Albaz ngay từ Deck làm nguyên liệu, và các Fusion như Lubellion, Mirrorjade, Albion the Branded Dragon nối tiếp nhau để banish, negate và lấy lại Spell/Trap mỗi End Phase. Deck vừa đi trước với Mirrorjade + bài úp, vừa đi sau tốt nhờ Albaz và Super Polymerization có thể dùng quái của đối thủ làm nguyên liệu Fusion.",
+      "playstyle": {
+        "overview": "Gần như mọi line đều bắt đầu bằng việc đưa Fallen of Albaz (hoặc lá luôn được coi là Albaz như Fallen of the White Dragon, Albion the Shrouded Dragon) vào Fusion. Branded Fusion và Lubellion khoá Extra Deck chỉ còn Fusion, nhưng hầu hết Extra Deck của deck đều là Fusion nên không sao. Các Fusion bị gửi vào GY ở lượt này sẽ kích hoạt hiệu ứng End Phase: Albion the Branded Dragon lấy/úp 1 Branded S/T, Blazing Cartesia và Incredible Ecclesia quay lại tay, Branded in High Spirits về tay.",
+        "goingFirst": "Đi trước, line Aluber → Branded Fusion → Lubellion → Mirrorjade cho bạn một boss banish được quái ở lượt đối thủ. Nếu còn tài nguyên, thêm Branded Retribution hoặc giữ hand trap. Aluber nằm trong GY sẽ tự hồi sinh và negate 1 quái khi Fusion của bạn bị đối thủ xử lý.",
+        "goingSecond": "Đi sau, Fallen of Albaz và Super Polymerization có thể Fusion bằng quái của đối thủ: gặp quái Extra Deck thì làm Mirrorjade, gặp quái LIGHT thì làm Albion the Branded Dragon, gặp quái DARK thì làm Lubellion. The Fallen & The Virtuous gửi Fusion từ Extra Deck để phá 1 lá face-up và cũng kích hoạt hiệu ứng End Phase của Albion.",
+        "tips": [
+          "Mirrorjade dùng hiệu ứng banish ở lượt đối thủ thì lượt sau của bạn không dùng lại được; cân nhắc thời điểm.",
+          "Branded Fusion là Limited 1 ở MD; Aluber và Branded Opening là cách chính để tìm nó hoặc thay thế nó.",
+          "Albaz Fusion bằng quái của đối thủ không bị Ash Blossom chặn, nhưng bị Imperm/Veiler negate."
+        ]
+      },
+      "strengths": [
+        "Linh hoạt cả đi trước và đi sau; Albaz/Super Polymerization ăn quái của đối thủ.",
+        "Hiệu ứng End Phase (Albion, Cartesia, Ecclesia, High Spirits) giúp bào tài nguyên tốt.",
+        "Mirrorjade và Aluber tạo interruption khó xử lý."
+      ],
+      "weaknesses": [
+        "Nhiều line phụ thuộc Branded Fusion (Limited 1) hoặc search đầu tiên, dễ bị Ash Blossom/Droll.",
+        "Khoá Extra Deck chỉ còn Fusion sau Branded Fusion/Lubellion.",
+        "Deck Special Summon từ Deck/Extra Deck nhiều, Mulcharmy Fuwalos rất khó chịu."
+      ],
+      "counters": [
+        {
+          "cardId": 14558127,
+          "name": "Ash Blossom & Joyous Spring",
+          "note": "Ash Blossom vào hiệu ứng search của Aluber hoặc vào Branded Fusion (dùng nguyên liệu từ Deck) làm gãy line 1 lá."
+        },
+        {
+          "cardId": 10045474,
+          "name": "Infinite Impermanence",
+          "note": "Infinite Impermanence negate Aluber, Albaz hoặc Lubellion trên sân."
+        },
+        {
+          "cardId": 73642296,
+          "name": "Ghost Belle & Haunted Mansion",
+          "note": "Ghost Belle chặn hiệu ứng lấy bài/hồi sinh từ GY như Kitt hay Quem."
+        },
+        {
+          "cardId": 42141493,
+          "name": "Mulcharmy Fuwalos",
+          "note": "Mulcharmy Fuwalos cho đối thủ rút nhiều bài vì deck Special Summon từ Deck/Extra Deck liên tục."
+        }
+      ],
+      "combos": [
+        {
+          "id": "aluber-mirrorjade",
+          "title": "Đi trước: Aluber → Branded Fusion → Lubellion → Mirrorjade",
+          "turn": "going-first",
+          "difficulty": "beginner",
+          "illustrative": true,
+          "summary": "Line 1 lá (+1 lá bỏ) cho Mirrorjade trên sân và Aluber nằm GY.",
+          "starterCardIds": [
+            62962630
+          ],
+          "extraHandCardsNeeded": 1,
+          "usesNormalSummon": true,
+          "deckCardIds": [
+            44362883,
+            68468459
+          ],
+          "extraDeckCardIds": [
+            70534340,
+            44146295,
+            87746184
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "text": "Normal Summon Aluber the Jester of Despia.",
+              "cardIds": [
+                62962630
+              ],
+              "action": "normal-summon",
+              "fromZone": "hand",
+              "toZone": "main-monster-zone",
+              "summonCountAfter": 1
+            },
+            {
+              "order": 2,
+              "text": "Hiệu ứng của Aluber: thêm Branded Fusion từ Deck lên tay.",
+              "cardIds": [
+                62962630,
+                44362883
+              ],
+              "action": "search",
+              "fromZone": "deck",
+              "toZone": "hand"
+            },
+            {
+              "order": 3,
+              "text": "Kích hoạt Branded Fusion: dùng Aluber trên sân (DARK) + Fallen of Albaz trong Deck, Fusion Summon Lubellion the Searing Dragon. Từ giờ lượt này chỉ Special Summon được Fusion từ Extra Deck.",
+              "cardIds": [
+                44362883,
+                70534340,
+                62962630,
+                68468459
+              ],
+              "action": "fusion-summon",
+              "fromZone": "extra-deck",
+              "toZone": "main-monster-zone",
+              "summonCountAfter": 2
+            },
+            {
+              "order": 4,
+              "text": "Lubellion được Fusion Summon: bỏ 1 lá, xào Fallen of Albaz (GY) và Lubellion (sân) về Deck để Fusion Summon Mirrorjade the Iceblade Dragon.",
+              "cardIds": [
+                70534340,
+                44146295,
+                68468459
+              ],
+              "action": "fusion-summon",
+              "fromZone": "extra-deck",
+              "toZone": "main-monster-zone",
+              "summonCountAfter": 3
+            },
+            {
+              "order": 5,
+              "text": "Giữ hiệu ứng của Mirrorjade cho lượt đối thủ. Úp các bài còn lại (ví dụ Branded Retribution nếu có).",
+              "cardIds": [
+                44146295
+              ],
+              "action": "other"
+            }
+          ],
+          "endBoard": {
+            "cardIds": [
+              44146295
+            ],
+            "graveyardCardIds": [
+              62962630
+            ],
+            "text": "Mirrorjade trên sân, Aluber trong GY. Ở lượt đối thủ, Mirrorjade gửi Albion the Branded Dragon từ Extra Deck để banish 1 quái; End Phase lượt đó Albion trong GY cho bạn thêm hoặc úp 1 Branded S/T.",
+            "interruptions": [
+              "Mirrorjade: banish 1 quái (Quick Effect, gửi Fusion nhắc đến Albaz từ Extra Deck).",
+              "Aluber trong GY: nếu Mirrorjade bị đối thủ xử lý, hồi sinh và negate 1 Effect Monster.",
+              "Mirrorjade rời sân do lá của đối thủ: End Phase phá toàn bộ quái của đối thủ."
+            ]
+          },
+          "chokePoints": [
+            {
+              "atStep": 2,
+              "cardIds": [
+                14558127,
+                94145021
+              ],
+              "text": "Ash Blossom negate search của Aluber: không có Branded Fusion. Dự phòng: Branded in High Spirits/Nadir Servant để tìm Albaz và chơi line Albaz."
+            },
+            {
+              "atStep": 3,
+              "cardIds": [
+                14558127
+              ],
+              "text": "Branded Fusion dùng nguyên liệu từ Deck nên cũng bị Ash Blossom. Mồi Ash vào Aluber trước nếu có thể."
+            },
+            {
+              "atStep": 4,
+              "cardIds": [
+                10045474,
+                97268402,
+                42141493
+              ],
+              "text": "Imperm/Veiler lên Lubellion làm mất Mirrorjade: bạn chỉ còn Lubellion. Fuwalos cho đối thủ rút mỗi lần Fusion từ Extra Deck."
+            }
+          ]
+        },
+        {
+          "id": "albaz-going-second",
+          "title": "Đi sau: Albaz dùng quái của đối thủ làm nguyên liệu",
+          "turn": "going-second",
+          "difficulty": "beginner",
+          "illustrative": true,
+          "summary": "Normal Summon Albaz, Fusion bằng Albaz + quái của đối thủ, rồi Mirrorjade banish thêm 1 quái.",
+          "starterCardIds": [
+            68468459
+          ],
+          "extraHandCardsNeeded": 1,
+          "usesNormalSummon": true,
+          "extraDeckCardIds": [
+            44146295,
+            87746184
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "text": "Normal Summon Fallen of Albaz.",
+              "cardIds": [
+                68468459
+              ],
+              "action": "normal-summon",
+              "fromZone": "hand",
+              "toZone": "main-monster-zone",
+              "summonCountAfter": 1
+            },
+            {
+              "order": 2,
+              "text": "Hiệu ứng của Albaz: bỏ 1 lá, Fusion Summon bằng Albaz + 1 quái của đối thủ. Nếu quái đó là quái Extra Deck (Fusion/Synchro/Xyz/Link) thì chọn Mirrorjade the Iceblade Dragon; nếu là LIGHT thì Albion the Branded Dragon; nếu là DARK thì Lubellion.",
+              "cardIds": [
+                68468459,
+                44146295
+              ],
+              "action": "fusion-summon",
+              "fromZone": "extra-deck",
+              "toZone": "main-monster-zone",
+              "summonCountAfter": 2
+            },
+            {
+              "order": 3,
+              "text": "(Nếu đã có Mirrorjade) Quick Effect: gửi Albion the Branded Dragon từ Extra Deck vào GY, banish thêm 1 quái của đối thủ.",
+              "cardIds": [
+                44146295,
+                87746184
+              ],
+              "action": "activate-effect",
+              "fromZone": "extra-deck",
+              "toZone": "graveyard"
+            },
+            {
+              "order": 4,
+              "text": "Tấn công. Ở End Phase, Albion đã vào GY trong lượt này nên thêm hoặc úp 1 Branded S/T từ Deck.",
+              "cardIds": [
+                87746184
+              ],
+              "action": "activate-effect",
+              "fromZone": "deck",
+              "toZone": "hand"
+            }
+          ],
+          "endBoard": {
+            "cardIds": [
+              44146295
+            ],
+            "graveyardCardIds": [
+              87746184
+            ],
+            "text": "Đối thủ mất 2 quái (1 làm nguyên liệu, 1 bị banish). Bạn còn Mirrorjade và 1 Branded S/T mới từ Albion. Lưu ý Mirrorjade không dùng lại hiệu ứng ở lượt sau."
+          },
+          "chokePoints": [
+            {
+              "atStep": 2,
+              "cardIds": [
+                10045474,
+                97268402
+              ],
+              "text": "Imperm/Veiler negate Albaz: không có Fusion. Ash Blossom không chặn được bước này vì Albaz không lấy bài từ Deck."
+            },
+            {
+              "atStep": 3,
+              "cardIds": [
+                10045474
+              ],
+              "text": "Imperm lên Mirrorjade chặn lượt banish; dùng F&V hoặc Super Polymerization để thay thế."
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": "MD BA (bot)",
+        "role": "business-analyst"
+      },
+      "reviewers": []
+    },
+    {
+      "deckId": "kewl-tune",
+      "reviewStatus": "ai_draft",
+      "summary": "Kewl Tune là deck Synchro chỉ dùng Tuner: mọi quái Kewl Tune ở Main Deck đều là Tuner và khi đang trên sân có thể dùng thêm 1 Tuner từ tay làm nguyên liệu Synchro. Mỗi quái khi bị gửi vào GY làm nguyên liệu Synchro lại kích hoạt một hiệu ứng riêng (phá quái, phá S/T, banish từ Deck đối thủ...). Kewl Tune Remix và Kewl Tune Clip còn cho phép Synchro Summon ngay trong lượt đối thủ, nên deck vừa combo vừa interrupt rất tốt với nhiều hand trap.",
+      "playstyle": {
+        "overview": "Hầu hết line đều giữ khoá 'chỉ Special Summon Tuner' (Cue, Kewl Tune Synchro, JJ \"Kewl Tune\"), nhưng các Synchro Kewl Tune đều là Synchro Tuner nên không bị ảnh hưởng. Điểm mạnh là hiệu ứng khi làm nguyên liệu Synchro: Mix phá 1 quái, Reco phá 1 S/T, Cue banish 1 lá từ đỉnh Deck đối thủ, Clip banish ngẫu nhiên 1 lá trong Extra Deck đối thủ. Fydraulis Harmonia là Tuner Level 7 có thể tự Special Summon từ tay khi quái đối thủ kích hoạt hiệu ứng.",
+        "goingFirst": "Đi trước, dựng một Synchro Tuner (ví dụ Kewl Tune Remix) và giữ Tuner trên tay. Ở lượt đối thủ, Remix Tribute để gọi lại Tuner từ GY và Synchro Summon, lúc đó hiệu ứng khi làm nguyên liệu của Mix/Reco phá bài ngay trong lượt đối thủ.",
+        "goingSecond": "Đi sau, Kewl Tune Clip tự Special Summon trong Main Phase của đối thủ và Synchro Summon ngay (ví dụ Kewl Tune RS với Reco trên tay), phá 1 S/T và negate 1 lá. Kết hợp Effect Veiler, Ash Blossom, Infinite Impermanence, Ghost Belle để đối thủ không kịp dựng board.",
+        "tips": [
+          "Duelist Genesis chỉ dùng được khi bạn có Tuner trên sân hoặc trong GY; nó search lá 'Synchro' Spell/Trap như Kewl Tune Synchro.",
+          "Fydraulis Harmonia sau khi resolve sẽ khoá hiệu ứng của quái từ Extra Deck không phải Synchro đến hết lượt sau của bạn.",
+          "Từ MD-2026-10-06: Synchro Overtake bị Forbidden và Kewl Tune Cue chỉ còn 1 bản; bản list này đã theo giới hạn mới."
+        ]
+      },
+      "strengths": [
+        "Interrupt được trong lượt đối thủ (Remix, Clip, Fydraulis Harmonia).",
+        "Hiệu ứng khi làm nguyên liệu Synchro phá bài liên tục.",
+        "Nhiều hand trap là Tuner nên vẫn có ích cho engine (Veiler, Ghost Belle, Ghost Ogre)."
+      ],
+      "weaknesses": [
+        "Khoá chỉ Special Summon Tuner hạn chế lựa chọn Extra Deck.",
+        "Mất Synchro Overtake và Cue thứ 2 từ MD-2026-10-06 làm giảm độ ổn định.",
+        "Nhiều mốc search dễ bị Ash Blossom và Droll & Lock Bird."
+      ],
+      "counters": [
+        {
+          "cardId": 14558127,
+          "name": "Ash Blossom & Joyous Spring",
+          "note": "Ash Blossom vào Cue gọi Tuner từ Deck hoặc vào search của Mix/Reco."
+        },
+        {
+          "cardId": 10045474,
+          "name": "Infinite Impermanence",
+          "note": "Imperm negate Cue/Mix trên sân trước khi hiệu ứng resolve."
+        },
+        {
+          "cardId": 73642296,
+          "name": "Ghost Belle & Haunted Mansion",
+          "note": "Ghost Belle chặn Kewl Tune Remix lấy/gọi Tuner từ GY ở lượt đối thủ."
+        },
+        {
+          "cardId": 59438930,
+          "name": "Ghost Ogre & Snow Rabbit",
+          "note": "Ghost Ogre & Snow Rabbit phá Synchro Tuner đang kích hoạt hiệu ứng."
+        }
+      ],
+      "combos": [
+        {
+          "id": "cue-mix-remix",
+          "title": "Đi trước: Cue → Mix → Remix, giữ Reco cho lượt đối thủ",
+          "turn": "going-first",
+          "difficulty": "intermediate",
+          "illustrative": true,
+          "summary": "1 lá Cue: dựng Kewl Tune Remix và giữ Reco trên tay; lượt đối thủ Remix gọi lại Mix để Synchro RS, phá 1 quái + 1 S/T.",
+          "starterCardIds": [
+            16387555
+          ],
+          "usesNormalSummon": true,
+          "deckCardIds": [
+            16509007,
+            89392810
+          ],
+          "extraDeckCardIds": [
+            88170262,
+            15665977
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "text": "Normal Summon Kewl Tune Cue.",
+              "cardIds": [
+                16387555
+              ],
+              "action": "normal-summon",
+              "fromZone": "hand",
+              "toZone": "main-monster-zone",
+              "summonCountAfter": 1
+            },
+            {
+              "order": 2,
+              "text": "Hiệu ứng của Cue: Special Summon Kewl Tune Mix từ Deck. Lượt này chỉ Special Summon được Tuner.",
+              "cardIds": [
+                16387555,
+                16509007
+              ],
+              "action": "special-summon",
+              "fromZone": "deck",
+              "toZone": "main-monster-zone",
+              "summonCountAfter": 2
+            },
+            {
+              "order": 3,
+              "text": "Mix được Special Summon: thêm Kewl Tune Reco (Level 3) từ Deck lên tay.",
+              "cardIds": [
+                16509007,
+                89392810
+              ],
+              "action": "search",
+              "fromZone": "deck",
+              "toZone": "hand"
+            },
+            {
+              "order": 4,
+              "text": "Synchro Summon Kewl Tune Remix (Level 5, Synchro Tuner) bằng Mix + Cue.",
+              "cardIds": [
+                88170262,
+                16509007,
+                16387555
+              ],
+              "action": "synchro-summon",
+              "fromZone": "extra-deck",
+              "toZone": "main-monster-zone",
+              "summonCountAfter": 3
+            },
+            {
+              "order": 5,
+              "text": "Cue bị gửi vào GY làm nguyên liệu Synchro: xem 2 lá đầu Deck đối thủ, banish 1 lá, đặt lá còn lại lên đầu hoặc đáy Deck. (Hiệu ứng phá quái của Mix không có mục tiêu ở lượt 1.)",
+              "cardIds": [
+                16387555
+              ],
+              "action": "activate-effect"
+            },
+            {
+              "order": 6,
+              "text": "Giữ Kewl Tune Reco trên tay, úp/giữ hand trap rồi kết thúc lượt.",
+              "cardIds": [
+                89392810
+              ],
+              "action": "other"
+            }
+          ],
+          "endBoard": {
+            "cardIds": [
+              88170262
+            ],
+            "graveyardCardIds": [
+              16387555,
+              16509007
+            ],
+            "text": "Kewl Tune Remix trên sân, Cue và Mix trong GY, Reco trên tay. Ở lượt đối thủ: Tribute Remix, thêm Cue về tay và Special Summon Mix, rồi Synchro Summon Kewl Tune RS bằng Mix + Reco trên tay (nhờ hiệu ứng của Mix).",
+            "interruptions": [
+              "Mix làm nguyên liệu cho RS: phá 1 quái của đối thủ.",
+              "Reco làm nguyên liệu cho RS: phá 1 S/T của đối thủ.",
+              "RS (Main Phase): banish 1 Tuner trong GY, negate 1 lá face-up đến hết lượt."
+            ]
+          },
+          "chokePoints": [
+            {
+              "atStep": 2,
+              "cardIds": [
+                14558127,
+                10045474
+              ],
+              "text": "Ash Blossom hoặc Imperm vào hiệu ứng của Cue: không có Mix. Dùng JJ \"Kewl Tune\"/Over Tuning nếu có để gọi Tuner khác."
+            },
+            {
+              "atStep": 3,
+              "cardIds": [
+                14558127,
+                94145021
+              ],
+              "text": "Ash Blossom vào search của Mix: không có Reco, Remix vẫn lên được nhưng lượt đối thủ chỉ gọi lại được Tuner từ GY."
+            },
+            {
+              "atStep": 4,
+              "cardIds": [
+                73642296
+              ],
+              "text": "Ở lượt đối thủ, Ghost Belle có thể negate Remix lấy/gọi Tuner từ GY; khi đó Remix đã bị Tribute làm cost."
+            }
+          ]
+        },
+        {
+          "id": "clip-rs-opponent-turn",
+          "title": "Đi sau: Clip + Reco Synchro RS trong lượt đối thủ",
+          "turn": "going-second",
+          "difficulty": "intermediate",
+          "illustrative": true,
+          "summary": "Trong Main Phase của đối thủ, Clip tự Special Summon và Synchro RS bằng Reco trên tay: banish 1 lá Extra Deck, phá 1 S/T, negate 1 lá.",
+          "starterCardIds": [
+            43904702,
+            89392810
+          ],
+          "usesNormalSummon": false,
+          "extraDeckCardIds": [
+            15665977
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "text": "Trong Main Phase của đối thủ (Quick Effect): Special Summon Kewl Tune Clip từ tay, rồi ngay sau đó Synchro Summon Kewl Tune RS bằng Clip + Kewl Tune Reco trên tay (nhờ hiệu ứng của Clip).",
+              "cardIds": [
+                43904702,
+                15665977,
+                89392810
+              ],
+              "action": "synchro-summon",
+              "fromZone": "extra-deck",
+              "toZone": "main-monster-zone",
+              "summonCountAfter": 2
+            },
+            {
+              "order": 2,
+              "text": "Clip bị gửi vào GY làm nguyên liệu Synchro: banish ngẫu nhiên 1 lá úp trong Extra Deck đối thủ. Reco: chọn 1 S/T của đối thủ và phá nó.",
+              "cardIds": [
+                43904702,
+                89392810
+              ],
+              "action": "activate-effect"
+            },
+            {
+              "order": 3,
+              "text": "RS (Quick Effect, Main Phase): banish 1 Tuner trong GY (Clip hoặc Reco), chọn 1 lá face-up của đối thủ, negate hiệu ứng của nó đến hết lượt.",
+              "cardIds": [
+                15665977,
+                43904702
+              ],
+              "action": "activate-effect",
+              "fromZone": "graveyard",
+              "toZone": "banished"
+            }
+          ],
+          "endBoard": {
+            "cardIds": [
+              15665977
+            ],
+            "text": "Đối thủ mất 1 lá trong Extra Deck, 1 S/T và 1 lá face-up bị negate ngay trong lượt của họ. RS ở lại sân để bạn tiếp tục Synchro ở lượt mình."
+          },
+          "chokePoints": [
+            {
+              "atStep": 1,
+              "cardIds": [
+                10045474
+              ],
+              "text": "Đối thủ có thể dùng Infinite Impermanence úp sẵn lên Clip/RS; hãy dùng Clip sau khi đối thủ đã dùng bớt bài úp nếu được."
+            },
+            {
+              "atStep": 3,
+              "cardIds": [
+                59438930
+              ],
+              "text": "Ghost Ogre & Snow Rabbit của đối thủ có thể phá RS khi nó kích hoạt hiệu ứng."
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": "MD BA (bot)",
+        "role": "business-analyst"
+      },
+      "reviewers": []
+    },
+    {
+      "deckId": "yummy",
+      "reviewStatus": "ai_draft",
+      "summary": "Yummy là deck quái Beast LIGHT Level 1 nhỏ xíu, dùng Yummy★Snatchy (Link-1) làm cầu nối để Synchro Summon các 'Yummy Way' Level 2 ngay cả khi không có Tuner. Cupsy☆Yummy search, Yummyusment☆Mignon hồi sinh, và các Yummy Way có thể tự quay về Extra Deck ở lượt đối thủ để gọi lại 2 Yummy từ GY, khi đó Cooky phá quái và Lollipo banish bài trong GY. Bản MD hiện tại chạy rất nhiều hand trap.",
+      "playstyle": {
+        "overview": "Quái Main Deck của Yummy đều là Beast LIGHT Level 1 và không phải Tuner. Chìa khoá là Snatchy: Link-1 này được coi như Tuner Level 1 khi Synchro Summon Yummy Way, và Quick Effect của nó (trả 100 LP) cho phép Synchro Summon cả trong Main Phase của đối thủ. Khi Yummy được Special Summon bởi hiệu ứng của một Synchro Monster, hiệu ứng của chúng mạnh hơn: Cooky phá quái thay vì giảm ATK, Lollipo banish thay vì xào về Deck, Cupsy rút 1 lá.",
+        "goingFirst": "Đi trước, mục tiêu là 2 Yummy Way + Mignon trên sân. Mỗi Yummy Way có thể trả về Extra Deck khi đối thủ kích hoạt bài/hiệu ứng để gọi 2 Yummy từ GY, tạo ra phá quái và banish ngay trong lượt đối thủ.",
+        "goingSecond": "Đi sau, dùng hand trap ở lượt 1, sau đó Cooky★Yummy Way lật úp tối đa 2 quái đối thủ, Mignon tăng ATK cho cả đội để tấn công. Assist★Yummy! và Yummy☆Surprise trả bài đối thủ về tay.",
+        "tips": [
+          "Piri Reis Map thêm Cupsy☆Yummy (0 ATK) nhưng bạn phải Normal Summon nó trước khi dùng hiệu ứng.",
+          "Snatchy khoá Link-3 trở lên trong lượt bạn dùng hiệu ứng đặt Field Spell.",
+          "Nếu đối thủ có Nibiru, cân nhắc dừng sau lần Summon thứ 4 hoặc mồi Nibiru bằng Synchro trong lượt đối thủ."
+        ]
+      },
+      "strengths": [
+        "Board đi trước tạo interruption trong lượt đối thủ bằng cách gọi lại Yummy từ GY.",
+        "Rất nhiều hand trap nhờ engine gọn.",
+        "Synchro Summon được bằng Quick Effect của Snatchy, cả trong Main Phase của đối thủ."
+      ],
+      "weaknesses": [
+        "Combo dài, nhiều mốc cho Nibiru và Maxx \"C\".",
+        "Snatchy là điểm nghẽn: bị negate thì line gần như dừng.",
+        "Quái Level 1 ATK thấp, khó đánh lại board lớn nếu không có Cooky★Yummy Way."
+      ],
+      "counters": [
+        {
+          "cardId": 14558127,
+          "name": "Ash Blossom & Joyous Spring",
+          "note": "Ash Blossom vào search của Cupsy☆Yummy hoặc của Cupsy★Yummy Way."
+        },
+        {
+          "cardId": 10045474,
+          "name": "Infinite Impermanence",
+          "note": "Imperm/Veiler negate Snatchy trước khi đặt Mignon hoặc trước Quick Effect Synchro."
+        },
+        {
+          "cardId": 73642296,
+          "name": "Ghost Belle & Haunted Mansion",
+          "note": "Ghost Belle chặn Mignon hồi sinh Yummy và chặn Yummy Way gọi quái từ GY."
+        },
+        {
+          "cardId": 27204311,
+          "name": "Nibiru, the Primal Being",
+          "note": "Nibiru sau lần Summon thứ 5; line đi trước đạt mốc này ở Cupsy★Yummy Way."
+        }
+      ],
+      "combos": [
+        {
+          "id": "cupsy-double-way",
+          "title": "Đi trước: Cupsy → Snatchy → Cupsy★Yummy Way + Cooky★Yummy Way",
+          "turn": "going-first",
+          "difficulty": "advanced",
+          "illustrative": true,
+          "summary": "1 lá Cupsy☆Yummy (+Marshmao được search) kết thúc với 2 Yummy Way, Marshmao và Mignon.",
+          "starterCardIds": [
+            31425736
+          ],
+          "usesNormalSummon": true,
+          "deckCardIds": [
+            10966439,
+            66975205,
+            68810435,
+            4215180
+          ],
+          "extraDeckCardIds": [
+            30581601,
+            31603289,
+            41999284,
+            67098897
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "text": "Normal Summon Cupsy☆Yummy, hiệu ứng thêm Marshmao☆Yummy từ Deck.",
+              "cardIds": [
+                31425736,
+                10966439
+              ],
+              "action": "search",
+              "fromZone": "deck",
+              "toZone": "hand",
+              "summonCountAfter": 1
+            },
+            {
+              "order": 2,
+              "text": "Tất cả quái của bạn là Beast LIGHT: Special Summon Marshmao☆Yummy từ tay.",
+              "cardIds": [
+                10966439
+              ],
+              "action": "special-summon",
+              "fromZone": "hand",
+              "toZone": "main-monster-zone",
+              "summonCountAfter": 2
+            },
+            {
+              "order": 3,
+              "text": "Link Summon Yummy★Snatchy bằng Marshmao. Snatchy được Special Summon: đặt Yummyusment☆Mignon từ Deck lên Field Zone (lượt này không Link Summon được Link-3 trở lên).",
+              "cardIds": [
+                30581601,
+                10966439,
+                66975205
+              ],
+              "action": "link-summon",
+              "fromZone": "extra-deck",
+              "toZone": "extra-monster-zone",
+              "summonCountAfter": 3
+            },
+            {
+              "order": 4,
+              "text": "Bạn có Link-1: Mignon chọn Marshmao trong GY, Special Summon nó.",
+              "cardIds": [
+                66975205,
+                10966439
+              ],
+              "action": "special-summon",
+              "fromZone": "graveyard",
+              "toZone": "main-monster-zone",
+              "summonCountAfter": 4
+            },
+            {
+              "order": 5,
+              "text": "Quick Effect của Snatchy: trả 100 LP, Synchro Summon Cupsy★Yummy Way bằng Snatchy (Link-1 coi như Tuner Level 1) + Cupsy☆Yummy.",
+              "cardIds": [
+                30581601,
+                31603289,
+                31425736
+              ],
+              "action": "synchro-summon",
+              "fromZone": "extra-deck",
+              "toZone": "main-monster-zone",
+              "summonCountAfter": 5
+            },
+            {
+              "order": 6,
+              "text": "Cupsy★Yummy Way được Synchro Summon: thêm Cooky☆Yummy và Lollipo☆Yummy từ Deck, sau đó bỏ 1 lá.",
+              "cardIds": [
+                31603289,
+                68810435,
+                4215180
+              ],
+              "action": "search",
+              "fromZone": "deck",
+              "toZone": "hand"
+            },
+            {
+              "order": 7,
+              "text": "Bạn có Synchro Level 2: Special Summon Cooky☆Yummy và Lollipo☆Yummy từ tay (hiệu ứng khi được Summon không có mục tiêu ở lượt 1, bỏ qua).",
+              "cardIds": [
+                68810435,
+                4215180
+              ],
+              "action": "special-summon",
+              "fromZone": "hand",
+              "toZone": "main-monster-zone",
+              "summonCountAfter": 7
+            },
+            {
+              "order": 8,
+              "text": "Link Summon Linkuriboh bằng Lollipo☆Yummy.",
+              "cardIds": [
+                41999284,
+                4215180
+              ],
+              "action": "link-summon",
+              "fromZone": "extra-deck",
+              "toZone": "extra-monster-zone",
+              "summonCountAfter": 8
+            },
+            {
+              "order": 9,
+              "text": "Synchro Summon Cooky★Yummy Way bằng Linkuriboh (Link-1 coi như Tuner Level 1) + Cooky☆Yummy.",
+              "cardIds": [
+                67098897,
+                41999284,
+                68810435
+              ],
+              "action": "synchro-summon",
+              "fromZone": "extra-deck",
+              "toZone": "main-monster-zone",
+              "summonCountAfter": 9
+            }
+          ],
+          "endBoard": {
+            "cardIds": [
+              31603289,
+              67098897,
+              10966439,
+              66975205
+            ],
+            "graveyardCardIds": [
+              31425736,
+              68810435,
+              4215180
+            ],
+            "text": "Cupsy★Yummy Way + Cooky★Yummy Way + Marshmao☆Yummy, Mignon ở Field Zone. Trong GY có Cupsy, Cooky, Lollipo để các Yummy Way gọi lại ở lượt đối thủ.",
+            "interruptions": [
+              "Khi đối thủ kích hoạt bài/hiệu ứng: 1 Yummy Way về Extra Deck, gọi tối đa 2 Yummy từ GY.",
+              "Cooky được Synchro Monster gọi ra: phá 1 quái face-up. Lollipo: banish 1 lá trong GY đối thủ."
+            ]
+          },
+          "chokePoints": [
+            {
+              "atStep": 1,
+              "cardIds": [
+                14558127,
+                94145021
+              ],
+              "text": "Ash Blossom vào search của Cupsy: không có Marshmao. Droll sau search này chặn search của Cupsy★Yummy Way ở bước 6."
+            },
+            {
+              "atStep": 3,
+              "cardIds": [
+                10045474,
+                97268402
+              ],
+              "text": "Imperm/Veiler lên Snatchy: không đặt được Mignon và không Synchro được bằng Quick Effect. Ash Blossom không chặn việc 'đặt' Field Spell."
+            },
+            {
+              "atStep": 4,
+              "cardIds": [
+                73642296
+              ],
+              "text": "Ghost Belle negate Mignon hồi sinh Marshmao; vẫn Synchro được Cupsy★Yummy Way nhưng board thiếu 1 quái."
+            },
+            {
+              "atStep": 5,
+              "cardIds": [
+                27204311
+              ],
+              "text": "Nibiru có thể kích hoạt từ lần Summon thứ 5. Cân nhắc dừng lại với Cupsy★Yummy Way nếu nghi đối thủ cầm Nibiru."
+            },
+            {
+              "atStep": 6,
+              "cardIds": [
+                14558127
+              ],
+              "text": "Ash Blossom vào search của Cupsy★Yummy Way: không có Cooky/Lollipo, board chỉ còn Cupsy★Yummy Way + Marshmao."
+            }
+          ]
+        },
+        {
+          "id": "cooky-way-going-second",
+          "title": "Đi sau: Snatchy → Cooky★Yummy Way lật úp 2 quái",
+          "turn": "going-second",
+          "difficulty": "intermediate",
+          "illustrative": true,
+          "summary": "Line ngắn để phá board: Cooky★Yummy Way lật úp tối đa 2 quái, rồi tấn công với ATK được Mignon tăng.",
+          "starterCardIds": [
+            31425736
+          ],
+          "usesNormalSummon": true,
+          "deckCardIds": [
+            10966439,
+            66975205
+          ],
+          "extraDeckCardIds": [
+            30581601,
+            67098897
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "text": "Normal Summon Cupsy☆Yummy, thêm Marshmao☆Yummy từ Deck; Special Summon Marshmao từ tay.",
+              "cardIds": [
+                31425736,
+                10966439
+              ],
+              "action": "special-summon",
+              "fromZone": "hand",
+              "toZone": "main-monster-zone",
+              "summonCountAfter": 2
+            },
+            {
+              "order": 2,
+              "text": "Link Summon Yummy★Snatchy bằng Marshmao; đặt Yummyusment☆Mignon từ Deck lên Field Zone.",
+              "cardIds": [
+                30581601,
+                10966439,
+                66975205
+              ],
+              "action": "link-summon",
+              "fromZone": "extra-deck",
+              "toZone": "extra-monster-zone",
+              "summonCountAfter": 3
+            },
+            {
+              "order": 3,
+              "text": "Mignon (bạn có Link-1): Special Summon Marshmao từ GY.",
+              "cardIds": [
+                66975205,
+                10966439
+              ],
+              "action": "special-summon",
+              "fromZone": "graveyard",
+              "toZone": "main-monster-zone",
+              "summonCountAfter": 4
+            },
+            {
+              "order": 4,
+              "text": "Quick Effect của Snatchy: trả 100 LP, Synchro Summon Cooky★Yummy Way bằng Snatchy + Cupsy☆Yummy. Khi được Synchro Summon, chọn tối đa 2 quái face-up của đối thủ, đổi chúng sang Defense Position úp mặt.",
+              "cardIds": [
+                30581601,
+                67098897,
+                31425736
+              ],
+              "action": "synchro-summon",
+              "fromZone": "extra-deck",
+              "toZone": "main-monster-zone",
+              "summonCountAfter": 5
+            },
+            {
+              "order": 5,
+              "text": "Mignon: mỗi Yummy +500 ATK cho mỗi Beast LIGHT trên sân (Cooky★Yummy Way và Marshmao). Tấn công.",
+              "cardIds": [
+                66975205,
+                67098897,
+                10966439
+              ],
+              "action": "other"
+            }
+          ],
+          "endBoard": {
+            "cardIds": [
+              67098897,
+              10966439,
+              66975205
+            ],
+            "text": "Hai quái mạnh nhất của đối thủ bị lật úp (mất hiệu ứng liên tục khi đang úp). Cooky★Yummy Way còn có thể về Extra Deck ở lượt đối thủ để gọi 2 Yummy từ GY."
+          },
+          "chokePoints": [
+            {
+              "atStep": 1,
+              "cardIds": [
+                14558127
+              ],
+              "text": "Ash Blossom vào search của Cupsy: dùng One for One hoặc Hornet Drones → Kagari làm Link-1 thay thế."
+            },
+            {
+              "atStep": 4,
+              "cardIds": [
+                10045474
+              ],
+              "text": "Imperm lên Snatchy trước khi dùng Quick Effect Synchro: không có Cooky★Yummy Way lượt này."
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": "MD BA (bot)",
+        "role": "business-analyst"
+      },
+      "reviewers": []
+    },
+    {
+      "deckId": "radiant-typhoon-zoodiac",
+      "reviewStatus": "ai_draft",
+      "summary": "Radiant Typhoon Zoodiac là bản lai: engine Radiant Typhoon (quái WIND Level 3 tự Special Summon khi có Mystical Space Typhoon trong GY hoặc đối thủ không có S/T) được nối sang Zoodiac qua M-X-Saber Invoker. Invoker gọi Zoodiac Ratpier từ Deck, từ đó các Zoodiac Xyz chồng lên nhau và kết thúc bằng Number F0: Utopic Draco Future. Phần Radiant Typhoon còn lại sống bằng Quick-Play Spell: mỗi lần kích hoạt MST hay Radiant Typhoon Quick-Play là Krosea, Fonix, Varuroon có thể nhảy ra từ tay.",
+      "playstyle": {
+        "overview": "Eldam, Swen, Meghala là quái Level 3 WIND tự Special Summon từ tay nếu bạn có Mystical Space Typhoon trong GY hoặc đối thủ không điều khiển S/T, nên đi trước chúng luôn ra được. Hai quái Level 3 cho M-X-Saber Invoker, Invoker gọi Zoodiac Ratpier (Beast-Warrior EARTH Level 4) từ Deck, và các Zoodiac Xyz có thể Xyz Summon chỉ bằng 1 Zoodiac khác tên. Lưu ý Krosea và Meghala khoá Special Summon chỉ còn quái WIND, nên phần Zoodiac (EARTH) phải làm trước khi dùng chúng. Dominus Purge hợp deck vì hình phạt của nó chỉ khoá quái DARK/WATER/FIRE.",
+        "goingFirst": "Đi trước, dùng Eldam + Swen để lên Invoker → Ratpier → Broadbull → Ratpier thứ hai → Tigermortar, rồi chồng Broadbull + Tigermortar thành Utopic Future và Utopic Draco Future. Úp Radiant Typhoon Chant (Swen search) để ở lượt đối thủ kích hoạt Quick-Play, gọi Krosea/Fonix/Varuroon từ tay nếu có.",
+        "goingSecond": "Đi sau, đối thủ thường có S/T nên cần MST vào GY trước để Eldam/Swen/Meghala tự Special Summon. MST cũng kích hoạt Krosea và Fonix từ tay; Fonix xào tối đa 2 lá của đối thủ về Deck khi có thêm 1 Quick-Play Spell được kích hoạt.",
+        "tips": [
+          "Các Radiant Typhoon Quick-Play (Chant, Vision, Ascendance) bị MST phá thì được úp lại: có thể MST chính lá úp của mình để đưa MST vào GY mà không mất bài.",
+          "Ratpier được Invoker gọi ra sẽ bị phá ở End Phase, nên luôn dùng nó làm nguyên liệu Xyz trong lượt.",
+          "Từ MD-2026-10-06: Radiant Typhoon Eldam còn 2 bản, Radiant Typhoon Vision còn 1 bản."
+        ]
+      },
+      "strengths": [
+        "Có cả boss Zoodiac (Utopic Draco Future) lẫn engine Quick-Play ăn tài nguyên.",
+        "Quái Radiant Typhoon ra sân miễn phí khi đi trước.",
+        "Dominus Purge chạy gần như không có hình phạt."
+      ],
+      "weaknesses": [
+        "Nhiều mốc bị chặn (Eldam, Invoker, Ratpier) và nhiều lần Summon cho Nibiru.",
+        "Khoá WIND của Krosea/Meghala khiến thứ tự combo rất quan trọng.",
+        "Mất Eldam thứ 3 và Vision thứ 2 từ MD-2026-10-06 làm deck kém ổn định hơn."
+      ],
+      "counters": [
+        {
+          "cardId": 14558127,
+          "name": "Ash Blossom & Joyous Spring",
+          "note": "Ash Blossom vào search của Eldam hoặc Swen, hoặc vào Invoker gọi Ratpier từ Deck."
+        },
+        {
+          "cardId": 10045474,
+          "name": "Infinite Impermanence",
+          "note": "Imperm/Veiler negate M-X-Saber Invoker làm đứt cầu nối sang Zoodiac."
+        },
+        {
+          "cardId": 27204311,
+          "name": "Nibiru, the Primal Being",
+          "note": "Nibiru từ lần Summon thứ 5 (Broadbull trong line đi trước)."
+        },
+        {
+          "cardId": 94145021,
+          "name": "Droll & Lock Bird",
+          "note": "Droll & Lock Bird sau search đầu tiên chặn các search tiếp theo của Radiant Typhoon."
+        }
+      ],
+      "combos": [
+        {
+          "id": "eldam-invoker-draco",
+          "title": "Đi trước: Eldam → Invoker → Zoodiac → Utopic Draco Future",
+          "turn": "going-first",
+          "difficulty": "advanced",
+          "illustrative": true,
+          "summary": "1 lá Eldam: Swen + Eldam lên M-X-Saber Invoker, gọi Ratpier, chồng Zoodiac Xyz rồi kết thúc với Utopic Draco Future và Chant úp.",
+          "starterCardIds": [
+            54143349
+          ],
+          "usesNormalSummon": true,
+          "deckCardIds": [
+            80538047,
+            67115133,
+            78872731
+          ],
+          "extraDeckCardIds": [
+            4423206,
+            85115440,
+            11510448,
+            65305468,
+            26973555
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "text": "Normal Summon Radiant Typhoon Eldam, hiệu ứng thêm Radiant Typhoon Swen từ Deck.",
+              "cardIds": [
+                54143349,
+                80538047
+              ],
+              "action": "search",
+              "fromZone": "deck",
+              "toZone": "hand",
+              "summonCountAfter": 1
+            },
+            {
+              "order": 2,
+              "text": "Đối thủ không điều khiển S/T: Special Summon Swen từ tay. Swen được Summon: thêm Radiant Typhoon Chant từ Deck.",
+              "cardIds": [
+                80538047,
+                67115133
+              ],
+              "action": "special-summon",
+              "fromZone": "hand",
+              "toZone": "main-monster-zone",
+              "summonCountAfter": 2
+            },
+            {
+              "order": 3,
+              "text": "Xyz Summon M-X-Saber Invoker bằng Eldam + Swen (2 quái Level 3).",
+              "cardIds": [
+                4423206,
+                54143349,
+                80538047
+              ],
+              "action": "xyz-summon",
+              "fromZone": "extra-deck",
+              "toZone": "main-monster-zone",
+              "summonCountAfter": 3
+            },
+            {
+              "order": 4,
+              "text": "Invoker tách 1 nguyên liệu: Special Summon Zoodiac Ratpier từ Deck ở Defense Position (sẽ bị phá ở End Phase nếu còn trên sân).",
+              "cardIds": [
+                4423206,
+                78872731
+              ],
+              "action": "special-summon",
+              "fromZone": "deck",
+              "toZone": "main-monster-zone",
+              "summonCountAfter": 4
+            },
+            {
+              "order": 5,
+              "text": "Xyz Summon Zoodiac Broadbull bằng 1 Zoodiac khác tên: Ratpier.",
+              "cardIds": [
+                85115440,
+                78872731
+              ],
+              "action": "xyz-summon",
+              "fromZone": "extra-deck",
+              "toZone": "main-monster-zone",
+              "summonCountAfter": 5
+            },
+            {
+              "order": 6,
+              "text": "Broadbull (Beast-Warrior có Ratpier làm nguyên liệu) tách Ratpier: Special Summon Zoodiac Ratpier thứ hai từ Deck.",
+              "cardIds": [
+                85115440,
+                78872731
+              ],
+              "action": "special-summon",
+              "fromZone": "deck",
+              "toZone": "main-monster-zone",
+              "summonCountAfter": 6
+            },
+            {
+              "order": 7,
+              "text": "Xyz Summon Zoodiac Tigermortar bằng 1 Zoodiac khác tên: Ratpier thứ hai.",
+              "cardIds": [
+                11510448,
+                78872731
+              ],
+              "action": "xyz-summon",
+              "fromZone": "extra-deck",
+              "toZone": "main-monster-zone",
+              "summonCountAfter": 7
+            },
+            {
+              "order": 8,
+              "text": "Xyz Summon Number F0: Utopic Future bằng Broadbull + Tigermortar (2 Xyz cùng Rank 4, không phải Number).",
+              "cardIds": [
+                65305468,
+                85115440,
+                11510448
+              ],
+              "action": "xyz-summon",
+              "fromZone": "extra-deck",
+              "toZone": "main-monster-zone",
+              "summonCountAfter": 8
+            },
+            {
+              "order": 9,
+              "text": "Xyz Summon Number F0: Utopic Draco Future bằng Utopic Future (chuyển nguyên liệu sang). Úp Radiant Typhoon Chant.",
+              "cardIds": [
+                26973555,
+                65305468,
+                67115133
+              ],
+              "action": "xyz-summon",
+              "fromZone": "extra-deck",
+              "toZone": "main-monster-zone",
+              "summonCountAfter": 9
+            }
+          ],
+          "endBoard": {
+            "cardIds": [
+              26973555,
+              4423206,
+              67115133
+            ],
+            "text": "Utopic Draco Future (không bị phá bởi battle hay hiệu ứng) + M-X-Saber Invoker, Radiant Typhoon Chant úp. Trên tay vẫn có thể giữ hand trap và Krosea/Fonix/Varuroon nếu rút được.",
+            "interruptions": [
+              "Utopic Draco Future: 1 lần mỗi lượt, khi đối thủ kích hoạt hiệu ứng quái, tách 1 nguyên liệu để negate và cướp quái đó.",
+              "Chant (Quick-Play) ở lượt đối thủ: thêm quái Radiant Typhoon hoặc MST; việc kích hoạt Quick-Play gọi được Krosea/Fonix/Varuroon từ tay."
+            ]
+          },
+          "chokePoints": [
+            {
+              "atStep": 1,
+              "cardIds": [
+                14558127,
+                94145021
+              ],
+              "text": "Ash Blossom vào search của Eldam: không có Swen. Dự phòng: Swen hoặc Meghala có sẵn trên tay vẫn tự Special Summon được để lên Invoker."
+            },
+            {
+              "atStep": 2,
+              "cardIds": [
+                14558127
+              ],
+              "text": "Ash Blossom vào search của Swen chỉ làm mất Chant, line Zoodiac vẫn chạy."
+            },
+            {
+              "atStep": 4,
+              "cardIds": [
+                10045474,
+                97268402,
+                14558127
+              ],
+              "text": "Imperm/Veiler negate Invoker, hoặc Ash Blossom negate việc gọi Ratpier từ Deck: mất phần Zoodiac, board chỉ còn Invoker."
+            },
+            {
+              "atStep": 5,
+              "cardIds": [
+                27204311
+              ],
+              "text": "Nibiru có thể kích hoạt từ lần Summon thứ 5 (Broadbull). Cân nhắc dừng ở Broadbull/Drident nếu nghi Nibiru."
+            }
+          ]
+        },
+        {
+          "id": "mst-krosea-fonix",
+          "title": "Đi sau: MST → Krosea → Fonix xào bài đối thủ",
+          "turn": "going-second",
+          "difficulty": "intermediate",
+          "illustrative": true,
+          "summary": "Dùng chuỗi Quick-Play để gọi Krosea và Fonix từ tay, rồi Fonix xào tối đa 2 lá của đối thủ về Deck.",
+          "starterCardIds": [
+            5318639,
+            16922142
+          ],
+          "extraHandCardsNeeded": 1,
+          "usesNormalSummon": false,
+          "deckCardIds": [
+            85315450
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "text": "Kích hoạt Mystical Space Typhoon chọn 1 S/T của đối thủ (hoặc chọn Radiant Typhoon Quick-Play úp của bạn để nó được úp lại).",
+              "cardIds": [
+                5318639
+              ],
+              "action": "activate-card"
+            },
+            {
+              "order": 2,
+              "text": "Một Quick-Play Spell vừa được kích hoạt: chain Radiant Typhoon Krosea, Special Summon từ tay.",
+              "cardIds": [
+                16922142,
+                5318639
+              ],
+              "action": "special-summon",
+              "fromZone": "hand",
+              "toZone": "main-monster-zone",
+              "summonCountAfter": 1
+            },
+            {
+              "order": 3,
+              "text": "Sau khi chain resolve, Krosea được Summon: thêm Radiant Typhoon Fonix, the Great Flame từ Deck và MST từ GY lên tay. Lượt này chỉ Special Summon được quái WIND.",
+              "cardIds": [
+                16922142,
+                85315450,
+                5318639
+              ],
+              "action": "search",
+              "fromZone": "deck",
+              "toZone": "hand"
+            },
+            {
+              "order": 4,
+              "text": "Kích hoạt MST lần nữa; chain Fonix, Special Summon từ tay.",
+              "cardIds": [
+                85315450,
+                5318639
+              ],
+              "action": "special-summon",
+              "fromZone": "hand",
+              "toZone": "main-monster-zone",
+              "summonCountAfter": 2
+            },
+            {
+              "order": 5,
+              "text": "Kích hoạt thêm 1 Quick-Play Spell (ví dụ Forbidden Droplet hoặc Radiant Typhoon Chant): Fonix trên sân chọn tối đa 2 lá của đối thủ, xào về Deck.",
+              "cardIds": [
+                85315450,
+                24299458
+              ],
+              "action": "activate-effect"
+            },
+            {
+              "order": 6,
+              "text": "Tấn công bằng Krosea (không bị phá khi đối thủ không có S/T) và Fonix.",
+              "cardIds": [
+                16922142,
+                85315450
+              ],
+              "action": "other"
+            }
+          ],
+          "endBoard": {
+            "cardIds": [
+              16922142,
+              85315450
+            ],
+            "graveyardCardIds": [
+              5318639
+            ],
+            "text": "Đối thủ mất tới 2 S/T (MST) và 2 lá bị xào về Deck. Krosea + Fonix tấn công; nếu đối thủ không còn S/T thì Krosea không bị phá bởi battle hay hiệu ứng."
+          },
+          "chokePoints": [
+            {
+              "atStep": 3,
+              "cardIds": [
+                14558127,
+                73642296
+              ],
+              "text": "Ash Blossom negate hiệu ứng thêm bài của Krosea (lấy từ Deck); Ghost Belle cũng có thể negate vì hiệu ứng có thể lấy MST từ GY. Khi đó chỉ còn Krosea."
+            },
+            {
+              "atStep": 2,
+              "cardIds": [
+                10045474
+              ],
+              "text": "Imperm lên Krosea sau khi nó ra sân sẽ tắt hiệu ứng thêm bài."
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": "MD BA (bot)",
+        "role": "business-analyst"
+      },
+      "reviewers": []
+    }
+  ]
+}
