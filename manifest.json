@@ -1,33 +1,33 @@
 {
   "schemaVersion": "1.0.0",
-  "dataVersion": 1,
-  "generatedAt": "2026-10-01T00:59:16+07:00",
+  "dataVersion": 3,
+  "generatedAt": "2026-10-01T17:00:00Z",
   "sources": [
     {
       "name": "YGOPRODeck API v7",
       "url": "https://db.ygoprodeck.com/api/v7/",
-      "note": "Dữ liệu lá bài (app tải trực tiếp), danh sách archetype cho deck stub và snapshot banlist Master Duel."
+      "note": "Card effects and passcodes. Vietnamese guides authored independently."
     },
     {
-      "name": "YGOrganization",
-      "url": "https://ygorganization.com/master-duel-fl-list-update-and-card-decoder",
-      "note": "Bản chép lại thông báo banlist Master Duel (nguồn thứ cấp; không phải trang chính thức của Konami)."
+      "name": "Master Duel Meta",
+      "url": "https://www.masterduelmeta.com/tier-list",
+      "note": "Deck names and grouping only; no copied guide, combo or decklist."
     }
   ],
   "files": {
     "decks": {
       "url": "decks.json",
-      "sha256": "647083fd7d33f1f1e4133e83312adf8bf52b5a46ef62ae2623c4244318450284",
-      "size": 124889
+      "sha256": "51053e669db774423305d11958ecb5385cf8ab4a0d2214b6b55192c1b595f87b",
+      "size": 289128
     },
     "guides": {
       "url": "guides.json",
-      "sha256": "19510ed36dd28832d484e927a9c1f124183888e22a4393ed3bed8b4d6ee120f0",
-      "size": 67195
+      "sha256": "8ba6d9ce4d1e8e16057cf3319abaa48a11696f045b2b8805a7b0065f054c624f",
+      "size": 223369
     },
     "banlist": {
       "url": "banlist.json",
-      "sha256": "e8de6b892fae7c3ed35f04cf912a0ad135aa1b550a1621c5456d6a67e320fb12",
+      "sha256": "801c956074eb042a0eff430a0a58615ba0f35b930b04dcda655424b0f56636e6",
       "size": 52566
     }
   }

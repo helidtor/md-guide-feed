@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "dataVersion": 1,
+  "dataVersion": 3,
   "guides": [
     {
       "deckId": "sky-striker",
@@ -17,16 +17,6 @@
           "Chỉ Special Summon Kagari được 1 lần mỗi lượt; kế hoạch Link thứ hai nên là Shizuku, Hayate hoặc Zero."
         ]
       },
-      "strengths": [
-        "Rất mạnh khi đi sau: nhiều Quick-Play Spell phá board mà không cần combo dài.",
-        "Raye hồi sinh từ GY nên khó bị xử lý triệt để.",
-        "Ít bị Nibiru và Maxx \"C\" trừng phạt vì mỗi lượt chỉ Summon vài lần."
-      ],
-      "weaknesses": [
-        "Board đi trước mỏng, dựa vào bài úp và hand trap.",
-        "Engage!/Widow Anchor vô dụng nếu bạn có quái ở Main Monster Zone.",
-        "Ash Blossom vào Engage! đầu tiên và Droll & Lock Bird làm chậm deck đáng kể."
-      ],
       "counters": [
         {
           "cardId": 14558127,
@@ -312,6 +302,16 @@
           ]
         }
       ],
+      "strengths": [
+        "Rất mạnh khi đi sau: nhiều Quick-Play Spell phá board mà không cần combo dài.",
+        "Raye hồi sinh từ GY nên khó bị xử lý triệt để.",
+        "Ít bị Nibiru và Maxx \"C\" trừng phạt vì mỗi lượt chỉ Summon vài lần."
+      ],
+      "weaknesses": [
+        "Board đi trước mỏng, dựa vào bài úp và hand trap.",
+        "Engage!/Widow Anchor vô dụng nếu bạn có quái ở Main Monster Zone.",
+        "Ash Blossom vào Engage! đầu tiên và Droll & Lock Bird làm chậm deck đáng kể."
+      ],
       "author": {
         "name": "MD BA (bot)",
         "role": "business-analyst"
@@ -332,16 +332,6 @@
           "Albaz Fusion bằng quái của đối thủ không bị Ash Blossom chặn, nhưng bị Imperm/Veiler negate."
         ]
       },
-      "strengths": [
-        "Linh hoạt cả đi trước và đi sau; Albaz/Super Polymerization ăn quái của đối thủ.",
-        "Hiệu ứng End Phase (Albion, Cartesia, Ecclesia, High Spirits) giúp bào tài nguyên tốt.",
-        "Mirrorjade và Aluber tạo interruption khó xử lý."
-      ],
-      "weaknesses": [
-        "Nhiều line phụ thuộc Branded Fusion (Limited 1) hoặc search đầu tiên, dễ bị Ash Blossom/Droll.",
-        "Khoá Extra Deck chỉ còn Fusion sau Branded Fusion/Lubellion.",
-        "Deck Special Summon từ Deck/Extra Deck nhiều, Mulcharmy Fuwalos rất khó chịu."
-      ],
       "counters": [
         {
           "cardId": 14558127,
@@ -576,6 +566,16 @@
           ]
         }
       ],
+      "strengths": [
+        "Linh hoạt cả đi trước và đi sau; Albaz/Super Polymerization ăn quái của đối thủ.",
+        "Hiệu ứng End Phase (Albion, Cartesia, Ecclesia, High Spirits) giúp bào tài nguyên tốt.",
+        "Mirrorjade và Aluber tạo interruption khó xử lý."
+      ],
+      "weaknesses": [
+        "Nhiều line phụ thuộc Branded Fusion (Limited 1) hoặc search đầu tiên, dễ bị Ash Blossom/Droll.",
+        "Khoá Extra Deck chỉ còn Fusion sau Branded Fusion/Lubellion.",
+        "Deck Special Summon từ Deck/Extra Deck nhiều, Mulcharmy Fuwalos rất khó chịu."
+      ],
       "author": {
         "name": "MD BA (bot)",
         "role": "business-analyst"
@@ -596,16 +596,6 @@
           "Từ MD-2026-10-06: Synchro Overtake bị Forbidden và Kewl Tune Cue chỉ còn 1 bản; bản list này đã theo giới hạn mới."
         ]
       },
-      "strengths": [
-        "Interrupt được trong lượt đối thủ (Remix, Clip, Fydraulis Harmonia).",
-        "Hiệu ứng khi làm nguyên liệu Synchro phá bài liên tục.",
-        "Nhiều hand trap là Tuner nên vẫn có ích cho engine (Veiler, Ghost Belle, Ghost Ogre)."
-      ],
-      "weaknesses": [
-        "Khoá chỉ Special Summon Tuner hạn chế lựa chọn Extra Deck.",
-        "Mất Synchro Overtake và Cue thứ 2 từ MD-2026-10-06 làm giảm độ ổn định.",
-        "Nhiều mốc search dễ bị Ash Blossom và Droll & Lock Bird."
-      ],
       "counters": [
         {
           "cardId": 14558127,
@@ -828,6 +818,16 @@
           ]
         }
       ],
+      "strengths": [
+        "Interrupt được trong lượt đối thủ (Remix, Clip, Fydraulis Harmonia).",
+        "Hiệu ứng khi làm nguyên liệu Synchro phá bài liên tục.",
+        "Nhiều hand trap là Tuner nên vẫn có ích cho engine (Veiler, Ghost Belle, Ghost Ogre)."
+      ],
+      "weaknesses": [
+        "Khoá chỉ Special Summon Tuner hạn chế lựa chọn Extra Deck.",
+        "Mất Synchro Overtake và Cue thứ 2 từ MD-2026-10-06 làm giảm độ ổn định.",
+        "Nhiều mốc search dễ bị Ash Blossom và Droll & Lock Bird."
+      ],
       "author": {
         "name": "MD BA (bot)",
         "role": "business-analyst"
@@ -848,16 +848,6 @@
           "Nếu đối thủ có Nibiru, cân nhắc dừng sau lần Summon thứ 4 hoặc mồi Nibiru bằng Synchro trong lượt đối thủ."
         ]
       },
-      "strengths": [
-        "Board đi trước tạo interruption trong lượt đối thủ bằng cách gọi lại Yummy từ GY.",
-        "Rất nhiều hand trap nhờ engine gọn.",
-        "Synchro Summon được bằng Quick Effect của Snatchy, cả trong Main Phase của đối thủ."
-      ],
-      "weaknesses": [
-        "Combo dài, nhiều mốc cho Nibiru và Maxx \"C\".",
-        "Snatchy là điểm nghẽn: bị negate thì line gần như dừng.",
-        "Quái Level 1 ATK thấp, khó đánh lại board lớn nếu không có Cooky★Yummy Way."
-      ],
       "counters": [
         {
           "cardId": 14558127,
@@ -1181,6 +1171,16 @@
           ]
         }
       ],
+      "strengths": [
+        "Board đi trước tạo interruption trong lượt đối thủ bằng cách gọi lại Yummy từ GY.",
+        "Rất nhiều hand trap nhờ engine gọn.",
+        "Synchro Summon được bằng Quick Effect của Snatchy, cả trong Main Phase của đối thủ."
+      ],
+      "weaknesses": [
+        "Combo dài, nhiều mốc cho Nibiru và Maxx \"C\".",
+        "Snatchy là điểm nghẽn: bị negate thì line gần như dừng.",
+        "Quái Level 1 ATK thấp, khó đánh lại board lớn nếu không có Cooky★Yummy Way."
+      ],
       "author": {
         "name": "MD BA (bot)",
         "role": "business-analyst"
@@ -1201,16 +1201,6 @@
           "Từ MD-2026-10-06: Radiant Typhoon Eldam còn 2 bản, Radiant Typhoon Vision còn 1 bản."
         ]
       },
-      "strengths": [
-        "Có cả boss Zoodiac (Utopic Draco Future) lẫn engine Quick-Play ăn tài nguyên.",
-        "Quái Radiant Typhoon ra sân miễn phí khi đi trước.",
-        "Dominus Purge chạy gần như không có hình phạt."
-      ],
-      "weaknesses": [
-        "Nhiều mốc bị chặn (Eldam, Invoker, Ratpier) và nhiều lần Summon cho Nibiru.",
-        "Khoá WIND của Krosea/Meghala khiến thứ tự combo rất quan trọng.",
-        "Mất Eldam thứ 3 và Vision thứ 2 từ MD-2026-10-06 làm deck kém ổn định hơn."
-      ],
       "counters": [
         {
           "cardId": 14558127,
@@ -1525,9 +1515,3748 @@
           ]
         }
       ],
+      "strengths": [
+        "Có cả boss Zoodiac (Utopic Draco Future) lẫn engine Quick-Play ăn tài nguyên.",
+        "Quái Radiant Typhoon ra sân miễn phí khi đi trước.",
+        "Dominus Purge chạy gần như không có hình phạt."
+      ],
+      "weaknesses": [
+        "Nhiều mốc bị chặn (Eldam, Invoker, Ratpier) và nhiều lần Summon cho Nibiru.",
+        "Khoá WIND của Krosea/Meghala khiến thứ tự combo rất quan trọng.",
+        "Mất Eldam thứ 3 và Vision thứ 2 từ MD-2026-10-06 làm deck kém ổn định hơn."
+      ],
       "author": {
         "name": "MD BA (bot)",
         "role": "business-analyst"
+      },
+      "reviewers": []
+    },
+    {
+      "deckId": "dracotail",
+      "reviewStatus": "ai_draft",
+      "summary": "Dracotail dùng quái trên tay làm Fusion Material để vừa dựng Fusion vừa úp Spell/Trap từ Deck. Lukias lấy Faimena, còn Rahu cho phép dùng nguyên liệu từ Deck. Lợi thế nằm ở tương tác Fusion trong lượt đối thủ và hồi sinh Fusion từ GY khi hai quái được gửi vào GY cùng lúc.",
+      "playstyle": {
+        "overview": "Dracotail dùng quái trên tay làm Fusion Material để vừa dựng Fusion vừa úp Spell/Trap từ Deck. Lukias lấy Faimena, còn Rahu cho phép dùng nguyên liệu từ Deck. Lợi thế nằm ở tương tác Fusion trong lượt đối thủ và hồi sinh Fusion từ GY khi hai quái được gửi vào GY cùng lúc.",
+        "goingFirst": "Ưu tiên Lukias để lấy Faimena; Rahu dựng Arthalion với một nguyên liệu trên tay. Giữ Faimena và một nguyên liệu khác để Fusion trong Main Phase đối thủ. Bài úp do nguyên liệu tạo ra là nguồn tương tác và tài nguyên lượt sau.",
+        "goingSecond": "Ketu có thể Fusion khi đối thủ điều khiển quái. Arthalion trả quái trên sân hoặc GY lên tay; dùng Mululu làm nguyên liệu để thêm negate. Đừng dùng toàn bộ quái trên tay nếu còn cần Faimena lượt sau.",
+        "tips": [
+          "Faimena discard là cost, không phải Fusion Material.",
+          "Rahu và Mululu khóa Extra Deck còn Fusion sau khi resolve.",
+          "Arthalion cần ít nhất một nguyên liệu từ tay.",
+          "Danh sách mẫu 40 Main / 15 Extra. Điều chỉnh tech theo ladder và kiểm tra banlist đang áp dụng trong game."
+        ]
+      },
+      "strengths": [
+        "Nguyên liệu tạo thêm bài úp, ít mất tài nguyên khi Fusion.",
+        "Có thể chơi trong lượt đối thủ."
+      ],
+      "weaknesses": [
+        "Dễ bị banish GY làm mất vòng hồi sinh.",
+        "Fusion cần đúng nguyên liệu trên tay; search bị chặn khiến tay khó vận hành."
+      ],
+      "counters": [
+        {
+          "cardId": 10045474,
+          "note": "Negate Lukias trước khi search làm mất Faimena; giữ Rahu làm đường mở thứ hai."
+        },
+        {
+          "cardId": 14558127,
+          "note": "Chặn hiệu ứng dùng Deck; giữ extender để không phụ thuộc một lần search."
+        }
+      ],
+      "combos": [
+        {
+          "id": "dracotail-basic",
+          "title": "Line cơ bản: Dracotail Lukias",
+          "turn": "going-first",
+          "difficulty": "intermediate",
+          "illustrative": true,
+          "summary": "Ưu tiên Lukias để lấy Faimena; Rahu dựng Arthalion với một nguyên liệu trên tay. Giữ Faimena và một nguyên liệu khác để Fusion trong Main Phase đối thủ. Bài úp do nguyên liệu tạo ra là nguồn tương tác và tài nguyên lượt sau.",
+          "starterCardIds": [
+            75003700,
+            32548318
+          ],
+          "extraHandCardsNeeded": 1,
+          "deckCardIds": [
+            1498449,
+            6153210,
+            7375867,
+            44482554,
+            69932023
+          ],
+          "extraDeckCardIds": [
+            33760966,
+            42125140,
+            79755671
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "text": "Normal Summon Lukias, search Faimena.",
+              "cardIds": [
+                75003700,
+                1498449
+              ],
+              "action": "search"
+            },
+            {
+              "order": 2,
+              "text": "Rahu dùng Lukias trên sân và Pan trên tay làm nguyên liệu Fusion Arthalion.",
+              "cardIds": [
+                32548318,
+                75003700,
+                44482554,
+                33760966
+              ],
+              "action": "fusion-summon"
+            },
+            {
+              "order": 3,
+              "text": "Lukias và Pan khi làm nguyên liệu úp các Spell/Trap Dracotail khác tên; giữ Faimena trên tay.",
+              "cardIds": [
+                75003700,
+                44482554,
+                69932023,
+                1498449
+              ],
+              "action": "set"
+            }
+          ],
+          "endBoard": {
+            "cardIds": [
+              33760966,
+              69932023
+            ],
+            "graveyardCardIds": [],
+            "text": "Arthalion và bài úp Dracotail; Faimena trên tay để Fusion lượt sau nếu còn nguyên liệu.",
+            "interruptions": [
+              "Arthalion và bài úp Dracotail; Faimena trên tay để Fusion lượt sau nếu còn nguyên liệu."
+            ]
+          },
+          "chokePoints": [
+            {
+              "atStep": 1,
+              "cardIds": [
+                10045474
+              ],
+              "text": "Negate Lukias trước khi search làm mất Faimena; giữ Rahu làm đường mở thứ hai."
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": "MD Guide",
+        "role": "Biên soạn tiếng Việt"
+      },
+      "reviewers": []
+    },
+    {
+      "deckId": "elfnote",
+      "reviewStatus": "ai_draft",
+      "summary": "Elfnote xoay quanh Main Monster Zone ở chính giữa. Lucina tìm quái, Tinia đặt Continuous Spell và Regina gọi thêm quái từ Deck. Đổi vị trí các Elfnote trong lượt đối thủ tạo trả bài hoặc banish tay; Power Patron mở hướng Synchro.",
+      "playstyle": {
+        "overview": "Elfnote xoay quanh Main Monster Zone ở chính giữa. Lucina tìm quái, Tinia đặt Continuous Spell và Regina gọi thêm quái từ Deck. Đổi vị trí các Elfnote trong lượt đối thủ tạo trả bài hoặc banish tay; Power Patron mở hướng Synchro.",
+        "goingFirst": "Special Summon Lucina vào ô giữa để lấy Tinia, chuyển Lucina bằng Aristeia rồi gọi Tinia vào ô giữa. Dựng ba Elfnote nếu muốn Aristeia negate Spell/Trap; luôn để một quái khác ở ô giữa làm điểm đổi vị trí.",
+        "goingSecond": "Lucina trả quái Level 6 trở xuống; Fortuna xử lý Spell/Trap face-up. Chọn vị trí trước khi mở hiệu ứng, dùng Strelitzia kéo lại tài nguyên và chỉ tiếp tục Synchro sau khi khóa Extra Deck.",
+        "tips": [
+          "Aristeia chỉ negate khi có ít nhất ba Elfnote.",
+          "Không gọi quái mới vào ô giữa đang có quái.",
+          "Power Patron khóa Extra Deck thành Synchro khi ở sân.",
+          "Danh sách mẫu 40 Main / 15 Extra. Điều chỉnh tech theo ladder và kiểm tra banlist đang áp dụng trong game."
+        ]
+      },
+      "strengths": [
+        "Không cần tiêu Normal Summon để mở engine.",
+        "Các quái tạo tài nguyên và tương tác từ vị trí."
+      ],
+      "weaknesses": [
+        "Ô giữa bị chiếm sai làm mất khả năng mở engine.",
+        "Link/Xyz đối thủ không nằm trong phạm vi Level của Lucina."
+      ],
+      "counters": [
+        {
+          "cardId": 10045474,
+          "note": "Imperm vào Lucina làm mất Tinia; vẫn có thể mở bằng Regina cùng một Elfnote khác."
+        },
+        {
+          "cardId": 14558127,
+          "note": "Chặn hiệu ứng dùng Deck; giữ extender để không phụ thuộc một lần search."
+        }
+      ],
+      "combos": [
+        {
+          "id": "elfnote-basic",
+          "title": "Line cơ bản: Elfnote Lucina",
+          "turn": "going-first",
+          "difficulty": "intermediate",
+          "illustrative": true,
+          "summary": "Special Summon Lucina vào ô giữa để lấy Tinia, chuyển Lucina bằng Aristeia rồi gọi Tinia vào ô giữa. Dựng ba Elfnote nếu muốn Aristeia negate Spell/Trap; luôn để một quái khác ở ô giữa làm điểm đổi vị trí.",
+          "starterCardIds": [
+            13597785,
+            50590801
+          ],
+          "extraHandCardsNeeded": 0,
+          "deckCardIds": [
+            59581480,
+            56651978,
+            85976588,
+            12375297,
+            90880453
+          ],
+          "extraDeckCardIds": [
+            42302563,
+            5914858
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "text": "Special Summon Lucina vào ô giữa, search Tinia.",
+              "cardIds": [
+                13597785,
+                59581480
+              ],
+              "action": "search"
+            },
+            {
+              "order": 2,
+              "text": "Kích hoạt Aristeia, dùng hiệu ứng chuyển Lucina sang ô khác.",
+              "cardIds": [
+                50590801,
+                13597785
+              ],
+              "action": "activate-effect"
+            },
+            {
+              "order": 3,
+              "text": "Special Summon Tinia vào ô giữa, đặt A Plea for Help từ Deck.",
+              "cardIds": [
+                59581480,
+                90880453
+              ],
+              "action": "activate-effect"
+            }
+          ],
+          "endBoard": {
+            "cardIds": [
+              13597785,
+              59581480,
+              90880453
+            ],
+            "graveyardCardIds": [],
+            "text": "Lucina có thể đổi ô với Tinia để trả một quái Level 6 trở xuống trong lượt đối thủ; Aristeia chưa negate nếu chỉ có hai Elfnote.",
+            "interruptions": [
+              "Lucina có thể đổi ô với Tinia để trả một quái Level 6 trở xuống trong lượt đối thủ; Aristeia chưa negate nếu chỉ có hai Elfnote."
+            ]
+          },
+          "chokePoints": [
+            {
+              "atStep": 1,
+              "cardIds": [
+                10045474
+              ],
+              "text": "Imperm vào Lucina làm mất Tinia; vẫn có thể mở bằng Regina cùng một Elfnote khác."
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": "MD Guide",
+        "role": "Biên soạn tiếng Việt"
+      },
+      "reviewers": []
+    },
+    {
+      "deckId": "clown-crew",
+      "reviewStatus": "ai_draft",
+      "summary": "Clown Crew dùng quái Ritual/Fusion/Synchro/Xyz/Pendulum/Link làm Tribute cho Biancaviso. Các quái bị Tribute tạo hiệu ứng xử lý theo loại Extra Deck, trong khi Biancaviso rút bài hoặc negate. Matinee gọi nguyên liệu nhưng khóa kích hoạt hiệu ứng quái gọi từ Deck/Extra Deck đến hết lượt kế tiếp.",
+      "playstyle": {
+        "overview": "Clown Crew dùng quái Ritual/Fusion/Synchro/Xyz/Pendulum/Link làm Tribute cho Biancaviso. Các quái bị Tribute tạo hiệu ứng xử lý theo loại Extra Deck, trong khi Biancaviso rút bài hoặc negate. Matinee gọi nguyên liệu nhưng khóa kích hoạt hiệu ứng quái gọi từ Deck/Extra Deck đến hết lượt kế tiếp.",
+        "goingFirst": "Rehearsal lấy Biancaviso và Matinee. Matinee gọi Diabolo làm nguyên liệu, Tribute Summon Biancaviso rồi úp Malabarisme bằng Diabolo bị Tribute. End Phase Matinee rút theo số loại nguyên liệu Tribute.",
+        "goingSecond": "Chọn quái Tribute đúng loại board đối thủ: Meteor đối phó Synchro, Fiends đối phó Xyz, Diabolo đối phó Fusion. Biancaviso negate bài face-up theo số quái Tribute; không mặc định gọi càng nhiều càng tốt.",
+        "tips": [
+          "Biancaviso có thể Tribute một quái thuộc sáu loại được chỉ định.",
+          "Diabolo được gọi bằng Matinee không dùng hiệu ứng trên sân, nhưng có thể dùng hiệu ứng trong GY sau Tribute.",
+          "Trap vừa úp không tự kích hoạt trong lượt đó.",
+          "Danh sách mẫu 40 Main / 15 Extra. Điều chỉnh tech theo ladder và kiểm tra banlist đang áp dụng trong game."
+        ]
+      },
+      "strengths": [
+        "Tribute tạo thêm hiệu ứng từ nguyên liệu.",
+        "Có thể Tribute Summon trong Main Phase đối thủ."
+      ],
+      "weaknesses": [
+        "Khóa hiệu ứng kéo dài khiến engine phụ khó hoạt động.",
+        "Cần đủ bài trên tay để đổi tài nguyên thành Tribute Summon."
+      ],
+      "counters": [
+        {
+          "cardId": 10045474,
+          "note": "Ngắt Rehearsal làm thiếu cả boss và Matinee; cân nhắc giữ một bản Biancaviso dự phòng."
+        },
+        {
+          "cardId": 14558127,
+          "note": "Chặn hiệu ứng dùng Deck; giữ extender để không phụ thuộc một lần search."
+        }
+      ],
+      "combos": [
+        {
+          "id": "clown-crew-basic",
+          "title": "Line cơ bản: Clown Crew Rehearsal",
+          "turn": "going-first",
+          "difficulty": "intermediate",
+          "illustrative": true,
+          "summary": "Rehearsal lấy Biancaviso và Matinee. Matinee gọi Diabolo làm nguyên liệu, Tribute Summon Biancaviso rồi úp Malabarisme bằng Diabolo bị Tribute. End Phase Matinee rút theo số loại nguyên liệu Tribute.",
+          "starterCardIds": [
+            20448151
+          ],
+          "extraHandCardsNeeded": 1,
+          "deckCardIds": [
+            82159583,
+            57847269,
+            19491080,
+            6547248,
+            83232904
+          ],
+          "extraDeckCardIds": [
+            31533473,
+            93172951,
+            91237821,
+            30109445
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "text": "Rehearsal Tribute một quái trên tay, lấy Biancaviso và Matinee.",
+              "cardIds": [
+                20448151,
+                82159583,
+                57847269
+              ],
+              "action": "search"
+            },
+            {
+              "order": 2,
+              "text": "Matinee gọi Diabolo từ Extra Deck, bỏ qua điều kiện triệu hồi.",
+              "cardIds": [
+                57847269,
+                31533473
+              ],
+              "action": "special-summon"
+            },
+            {
+              "order": 3,
+              "text": "Tribute Diabolo để Tribute Summon Biancaviso; chọn rút một lá.",
+              "cardIds": [
+                31533473,
+                82159583
+              ],
+              "action": "normal-summon"
+            },
+            {
+              "order": 4,
+              "text": "Diabolo trong GY úp Malabarisme; End Phase Matinee rút theo một loại Fusion đã Tribute.",
+              "cardIds": [
+                31533473,
+                83232904,
+                57847269
+              ],
+              "action": "set"
+            }
+          ],
+          "endBoard": {
+            "cardIds": [
+              82159583,
+              57847269,
+              83232904
+            ],
+            "graveyardCardIds": [],
+            "text": "Biancaviso có Quick Effect Tribute Summon, Malabarisme chuẩn bị thêm nguyên liệu trong lượt sau.",
+            "interruptions": [
+              "Biancaviso có Quick Effect Tribute Summon, Malabarisme chuẩn bị thêm nguyên liệu trong lượt sau."
+            ]
+          },
+          "chokePoints": [
+            {
+              "atStep": 1,
+              "cardIds": [
+                10045474
+              ],
+              "text": "Ngắt Rehearsal làm thiếu cả boss và Matinee; cân nhắc giữ một bản Biancaviso dự phòng."
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": "MD Guide",
+        "role": "Biên soạn tiếng Việt"
+      },
+      "reviewers": []
+    },
+    {
+      "deckId": "vanquish-soul-k9",
+      "reviewStatus": "ai_draft",
+      "summary": "Vanquish Soul K9 kết hợp vòng đổi quái từ tay của Razen/Borger/Valius với Rank 5 K9. Giữ FIRE, DARK và EARTH trên tay để bật hiệu ứng VS, còn Jokul và Lantern tạo Ripper mà không cần dùng Normal Summon dành cho Razen.",
+      "playstyle": {
+        "overview": "Vanquish Soul K9 kết hợp vòng đổi quái từ tay của Razen/Borger/Valius với Rank 5 K9. Giữ FIRE, DARK và EARTH trên tay để bật hiệu ứng VS, còn Jokul và Lantern tạo Ripper mà không cần dùng Normal Summon dành cho Razen.",
+        "goingFirst": "Razen search đúng thuộc tính còn thiếu rồi Link thành Rock of the Vanquisher. Jokul cùng một quái Level 5 mở Rank 5; tránh dùng hết hand trap làm nguyên liệu vì VS cần reveal thuộc tính.",
+        "goingSecond": "K9 phản ứng với hiệu ứng quái trên tay/GY đối thủ. VS đổi quái để né target; Valius và Razen xử lý board theo các thuộc tính đang giữ, sau đó dồn damage bằng Borger.",
+        "tips": [
+          "Rock là Link ngoài archetype VS trong tên nhưng cần một VS làm nguyên liệu.",
+          "Ripper negate hiệu ứng ở tay/GY, không phải mọi hiệu ứng quái.",
+          "Jokul khóa nguyên liệu của nó không dùng cho Xyz LIGHT.",
+          "Danh sách mẫu 40 Main / 15 Extra. Điều chỉnh tech theo ladder và kiểm tra banlist đang áp dụng trong game."
+        ]
+      },
+      "strengths": [
+        "Tương tác trên nhiều trục: tay, GY và sân.",
+        "Có thể né target bằng đổi quái VS."
+      ],
+      "weaknesses": [
+        "Thiếu thuộc tính trên tay làm hiệu ứng VS không dùng được.",
+        "K9 và VS cạnh tranh tài nguyên nếu mở thiếu quái."
+      ],
+      "counters": [
+        {
+          "cardId": 10045474,
+          "note": "Negate Razen làm thiếu thuộc tính; K9 là line độc lập để không mất toàn bộ lượt."
+        },
+        {
+          "cardId": 14558127,
+          "note": "Chặn hiệu ứng dùng Deck; giữ extender để không phụ thuộc một lần search."
+        }
+      ],
+      "combos": [
+        {
+          "id": "vanquish-soul-k9-basic",
+          "title": "Line cơ bản: Vanquish Soul Razen",
+          "turn": "going-first",
+          "difficulty": "intermediate",
+          "illustrative": true,
+          "summary": "Razen search đúng thuộc tính còn thiếu rồi Link thành Rock of the Vanquisher. Jokul cùng một quái Level 5 mở Rank 5; tránh dùng hết hand trap làm nguyên liệu vì VS cần reveal thuộc tính.",
+          "starterCardIds": [
+            29302858,
+            28642461,
+            55031170
+          ],
+          "extraHandCardsNeeded": 0,
+          "deckCardIds": [
+            92895501,
+            91073013,
+            29280200,
+            54562327
+          ],
+          "extraDeckCardIds": [
+            28168628,
+            27420823,
+            90303227
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "text": "Normal Summon Razen, search Heavy Borger.",
+              "cardIds": [
+                29302858,
+                92895501
+              ],
+              "action": "search"
+            },
+            {
+              "order": 2,
+              "text": "Link Razen thành Rock; giữ Borger trên tay để reveal hoặc đổi quái.",
+              "cardIds": [
+                29302858,
+                28168628
+              ],
+              "action": "link-summon"
+            },
+            {
+              "order": 3,
+              "text": "Reveal Jokul và Lantern trên tay, Special Summon cả hai rồi Xyz Ripper.",
+              "cardIds": [
+                28642461,
+                55031170,
+                27420823
+              ],
+              "action": "xyz-summon"
+            },
+            {
+              "order": 4,
+              "text": "Ripper detach một nguyên liệu để search K9; Rock chuẩn bị gọi lại Razen trong Main Phase đối thủ.",
+              "cardIds": [
+                27420823,
+                28168628,
+                29302858
+              ],
+              "action": "activate-effect"
+            }
+          ],
+          "endBoard": {
+            "cardIds": [
+              28168628,
+              27420823
+            ],
+            "graveyardCardIds": [],
+            "text": "Rock gọi lại Razen từ GY; Ripper còn một nguyên liệu để negate hiệu ứng quái trên tay/GY.",
+            "interruptions": [
+              "Rock gọi lại Razen từ GY; Ripper còn một nguyên liệu để negate hiệu ứng quái trên tay/GY."
+            ]
+          },
+          "chokePoints": [
+            {
+              "atStep": 1,
+              "cardIds": [
+                10045474
+              ],
+              "text": "Negate Razen làm thiếu thuộc tính; K9 là line độc lập để không mất toàn bộ lượt."
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": "MD Guide",
+        "role": "Biên soạn tiếng Việt"
+      },
+      "reviewers": []
+    },
+    {
+      "deckId": "blue-eyes",
+      "reviewStatus": "ai_draft",
+      "summary": "Blue-Eyes hiện đại dùng các Tuner Eyes of Blue và Spell hỗ trợ để dựng Spirit Dragon, rồi đổi thành Synchro LIGHT Dragon. Blue-Eyes White Dragon là nguyên liệu, Jet Dragon bảo vệ sân và Ultimate Fusion đổi tài nguyên GY thành Fusion.",
+      "playstyle": {
+        "overview": "Blue-Eyes hiện đại dùng các Tuner Eyes of Blue và Spell hỗ trợ để dựng Spirit Dragon, rồi đổi thành Synchro LIGHT Dragon. Blue-Eyes White Dragon là nguyên liệu, Jet Dragon bảo vệ sân và Ultimate Fusion đổi tài nguyên GY thành Fusion.",
+        "goingFirst": "Sage lấy Tuner cần thiết; giữ một Blue-Eyes Level 8 cùng Tuner Level 1 để gọi Spirit Dragon. Ưu tiên True Light và Jet cho lượt sau thay vì chỉ dựng quái ATK cao.",
+        "goingSecond": "Dùng Ultimate Fusion khi có đúng nguyên liệu ở tay/sân/GY, Blue-Eyes Tyrant Dragon đánh nhiều quái và hồi Trap. Jet trở lại khi có bài bị phá, nhưng phải có Blue-Eyes ở sân hoặc GY.",
+        "tips": [
+          "Spirit Dragon cần Tuner và quái Blue-Eyes không phải Tuner.",
+          "Spirit chỉ đổi sang LIGHT Dragon Synchro không phải Tuner.",
+          "True Light rời sân do đối thủ có thể phá quái của bạn.",
+          "Danh sách mẫu 40 Main / 15 Extra. Điều chỉnh tech theo ladder và kiểm tra banlist đang áp dụng trong game."
+        ]
+      },
+      "strengths": [
+        "Có boss Synchro tương tác GY.",
+        "Jet và True Light giúp tái dựng tài nguyên."
+      ],
+      "weaknesses": [
+        "Quái Level 8 dễ làm tay kẹt.",
+        "Spirit Dragon không ngăn hiệu ứng ngoài GY."
+      ],
+      "counters": [
+        {
+          "cardId": 10045474,
+          "note": "Negate Sage làm mất search nhưng không ngăn dùng Sage làm Tuner."
+        },
+        {
+          "cardId": 14558127,
+          "note": "Chặn hiệu ứng dùng Deck; giữ extender để không phụ thuộc một lần search."
+        }
+      ],
+      "combos": [
+        {
+          "id": "blue-eyes-basic",
+          "title": "Line cơ bản: Sage with Eyes of Blue",
+          "turn": "going-first",
+          "difficulty": "intermediate",
+          "illustrative": true,
+          "summary": "Sage lấy Tuner cần thiết; giữ một Blue-Eyes Level 8 cùng Tuner Level 1 để gọi Spirit Dragon. Ưu tiên True Light và Jet cho lượt sau thay vì chỉ dựng quái ATK cao.",
+          "starterCardIds": [
+            8240199,
+            38517737,
+            89631139
+          ],
+          "extraHandCardsNeeded": 0,
+          "deckCardIds": [
+            71039903,
+            30576089,
+            62089826,
+            71143015
+          ],
+          "extraDeckCardIds": [
+            59822133,
+            89604813,
+            40908371,
+            11443677
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "text": "Reveal Blue-Eyes White Dragon để Special Summon Alternative.",
+              "cardIds": [
+                38517737,
+                89631139
+              ],
+              "action": "special-summon"
+            },
+            {
+              "order": 2,
+              "text": "Normal Summon Sage, search White Stone of Ancients.",
+              "cardIds": [
+                8240199,
+                71039903
+              ],
+              "action": "search"
+            },
+            {
+              "order": 3,
+              "text": "Dùng Sage Level 1 và Alternative Level 8 Synchro Spirit Dragon.",
+              "cardIds": [
+                8240199,
+                38517737,
+                59822133
+              ],
+              "action": "synchro-summon"
+            }
+          ],
+          "endBoard": {
+            "cardIds": [
+              59822133
+            ],
+            "graveyardCardIds": [],
+            "text": "Spirit Dragon có một lần negate hiệu ứng kích hoạt trong GY; có thể Tribute để gọi Azure-Eyes ở Defense Position.",
+            "interruptions": [
+              "Spirit Dragon có một lần negate hiệu ứng kích hoạt trong GY; có thể Tribute để gọi Azure-Eyes ở Defense Position."
+            ]
+          },
+          "chokePoints": [
+            {
+              "atStep": 1,
+              "cardIds": [
+                10045474
+              ],
+              "text": "Negate Sage làm mất search nhưng không ngăn dùng Sage làm Tuner."
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": "MD Guide",
+        "role": "Biên soạn tiếng Việt"
+      },
+      "reviewers": []
+    },
+    {
+      "deckId": "maliss",
+      "reviewStatus": "ai_draft",
+      "summary": "Maliss dùng banish để hồi sinh các Cyberse nhỏ rồi dựng Link. Dormouse banish quái từ Deck, White Rabbit úp Trap và Chessy Cat đổi tay. Underground cùng các Trap tạo thêm lần banish; quản lý LP vì mỗi lần hồi sinh đều có cost.",
+      "playstyle": {
+        "overview": "Maliss dùng banish để hồi sinh các Cyberse nhỏ rồi dựng Link. Dormouse banish quái từ Deck, White Rabbit úp Trap và Chessy Cat đổi tay. Underground cùng các Trap tạo thêm lần banish; quản lý LP vì mỗi lần hồi sinh đều có cost.",
+        "goingFirst": "Dormouse banish White Rabbit để gọi lại Rabbit; Rabbit úp Trap. Chuyển các quái thành Link, dùng Underground hoặc Trap mở rộng sau khi đã có tài nguyên banish.",
+        "goingSecond": "White Binder tác động GY, Hearts Crypter xử lý bài không cần destroy. Giữ một lượt banish dự phòng để hồi sinh sau khi board bị ngắt.",
+        "tips": [
+          "Đọc khóa Extra Deck của từng hiệu ứng trước khi gọi quái phụ.",
+          "Trap Maliss vừa úp chỉ được dùng ngay khi đúng điều kiện riêng.",
+          "Mỗi quái có giới hạn hồi sinh một lần mỗi lượt.",
+          "Danh sách mẫu 40 Main / 15 Extra. Điều chỉnh tech theo ladder và kiểm tra banlist đang áp dụng trong game."
+        ]
+      },
+      "strengths": [
+        "Banish là tài nguyên thay vì mất bài.",
+        "Các quái nhỏ tự hồi sinh để kéo Link."
+      ],
+      "weaknesses": [
+        "Cost LP tích lũy khiến OTK ngược nguy hiểm.",
+        "Nibiru và negate starter có thể chặn chuỗi Link."
+      ],
+      "counters": [
+        {
+          "cardId": 10045474,
+          "note": "Imperm vào Dormouse trước khi banish làm mất Rabbit; Underground là phương án mở khác."
+        },
+        {
+          "cardId": 14558127,
+          "note": "Chặn hiệu ứng dùng Deck; giữ extender để không phụ thuộc một lần search."
+        }
+      ],
+      "combos": [
+        {
+          "id": "maliss-basic",
+          "title": "Line cơ bản: Maliss <P> Dormouse",
+          "turn": "going-first",
+          "difficulty": "intermediate",
+          "illustrative": true,
+          "summary": "Dormouse mở Rabbit/TB-11, nối Splash Mage và White Binder, rồi GWC-06 hồi hai Maliss Link để giữ Hearts Crypter tương tác.",
+          "starterCardIds": [
+            32061192
+          ],
+          "extraHandCardsNeeded": 0,
+          "deckCardIds": [
+            69272449,
+            96676583,
+            20938824,
+            68337209,
+            57111661,
+            20726052
+          ],
+          "extraDeckCardIds": [
+            95454996,
+            21848500,
+            59859086,
+            86066372
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "text": "Normal Summon Dormouse, banish White Rabbit từ Deck.",
+              "cardIds": [
+                32061192,
+                69272449
+              ],
+              "action": "activate-effect"
+            },
+            {
+              "order": 2,
+              "text": "White Rabbit bị banish: trả 300 LP để Special Summon.",
+              "cardIds": [
+                69272449
+              ],
+              "action": "special-summon"
+            },
+            {
+              "order": 3,
+              "text": "Rabbit úp TB-11 từ Deck. Kích hoạt TB-11 trong lượt úp bằng banish Dormouse, gọi Chessy Cat từ Deck; Chessy chưa dùng được hiệu ứng sau khi được TB-11 gọi.",
+              "cardIds": [
+                69272449,
+                57111661,
+                32061192,
+                96676583
+              ],
+              "action": "set"
+            },
+            {
+              "order": 4,
+              "text": "Dormouse bị banish: trả 300 LP gọi lại. Dùng Rabbit và Chessy Link Splash Mage; Splash hồi Rabbit ở Defense với hiệu ứng bị negate.",
+              "cardIds": [
+                32061192,
+                69272449,
+                96676583,
+                59859086
+              ],
+              "action": "link-summon"
+            },
+            {
+              "order": 5,
+              "text": "Splash Mage (Link-2) và Rabbit (Link-1) thành White Binder (Link-3). Binder banish Rabbit và Chessy từ GY; trả 300 LP gọi Chessy lại. Hiệu ứng hạn chế của TB-11 đã hết khi Chessy rời sân.",
+              "cardIds": [
+                59859086,
+                69272449,
+                95454996,
+                96676583
+              ],
+              "action": "link-summon"
+            },
+            {
+              "order": 6,
+              "text": "Binder úp GWC-06. Link Binder (tính là một nguyên liệu), Dormouse và Chessy thành Hearts Crypter; đủ ba quái theo yêu cầu nguyên liệu.",
+              "cardIds": [
+                95454996,
+                20726052,
+                32061192,
+                96676583,
+                21848500
+              ],
+              "action": "link-summon"
+            },
+            {
+              "order": 7,
+              "text": "Kích hoạt GWC-06 mới úp bằng banish Hearts Crypter, hồi Binder từ GY. Hearts bị banish: trả 900 LP gọi lại và nhân đôi ATK. Giữ Rabbit đang banish làm mục tiêu shuffle cho Quick Effect của Hearts.",
+              "cardIds": [
+                20726052,
+                21848500,
+                95454996,
+                69272449
+              ],
+              "action": "special-summon"
+            }
+          ],
+          "endBoard": {
+            "cardIds": [
+              21848500,
+              95454996
+            ],
+            "graveyardCardIds": [
+              32061192,
+              96676583
+            ],
+            "text": "Hearts Crypter và White Binder, Rabbit đang banish; Hearts có một lần shuffle Maliss đã banish để banish một bài trên sân. Line cần đủ LP (các lần hồi trả tổng cộng 1800 LP).",
+            "interruptions": [
+              "Hearts Crypter banish một bài trên sân bằng cách shuffle Rabbit đang banish."
+            ]
+          },
+          "chokePoints": [
+            {
+              "atStep": 1,
+              "cardIds": [
+                10045474
+              ],
+              "text": "Imperm vào Dormouse trước khi banish làm mất Rabbit; Underground là phương án mở khác."
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": "MD Guide",
+        "role": "Biên soạn tiếng Việt"
+      },
+      "reviewers": []
+    },
+    {
+      "deckId": "resonators",
+      "reviewStatus": "ai_draft",
+      "summary": "Resonators dùng Soul Resonator và Bone Archfiend để lên Red Rising Dragon, hồi Tuner rồi dựng DARK Dragon Synchro. Vision Resonator và Crimson Gaia tìm Spell/Trap, Scarred Dragon tạo Red Dragon Archfiend khi làm Synchro Material.",
+      "playstyle": {
+        "overview": "Resonators dùng Soul Resonator và Bone Archfiend để lên Red Rising Dragon, hồi Tuner rồi dựng DARK Dragon Synchro. Vision Resonator và Crimson Gaia tìm Spell/Trap, Scarred Dragon tạo Red Dragon Archfiend khi làm Synchro Material.",
+        "goingFirst": "Soul search Bone, Bone tự gọi và chỉnh Level bằng gửi Resonator. Red Rising hồi Soul để lên Scarred Dragon; giữ Vision hoặc Trap để có tương tác lượt đối thủ.",
+        "goingSecond": "Scarred Dragon khi làm nguyên liệu có thể phá các quái Attack Position đối thủ. Đọc điều kiện Crimson Resonator trước khi gọi thêm Tuner, tránh đưa quái không phải DARK Dragon Synchro lên sân quá sớm.",
+        "tips": [
+          "Bone cần gửi một bài khác từ tay/sân để tự gọi.",
+          "Soul khóa Extra Deck DARK Synchro sau search.",
+          "Giữ một Resonator trong GY cho Red Rising.",
+          "Danh sách mẫu 40 Main / 15 Extra. Điều chỉnh tech theo ladder và kiểm tra banlist đang áp dụng trong game."
+        ]
+      },
+      "strengths": [
+        "Starter dễ tìm qua Resonator Call.",
+        "Scarred tạo thêm tài nguyên khi tiếp tục Synchro."
+      ],
+      "weaknesses": [
+        "Red Rising bị negate làm mất điểm nối.",
+        "Các khóa DARK Dragon Synchro hạn chế Extra Deck."
+      ],
+      "counters": [
+        {
+          "cardId": 10045474,
+          "note": "Imperm vào Red Rising chặn hồi Soul; ưu tiên bảo vệ Red Rising nếu chỉ có một Tuner."
+        },
+        {
+          "cardId": 14558127,
+          "note": "Chặn hiệu ứng dùng Deck; giữ extender để không phụ thuộc một lần search."
+        }
+      ],
+      "combos": [
+        {
+          "id": "resonators-basic",
+          "title": "Line cơ bản: Soul Resonator",
+          "turn": "going-first",
+          "difficulty": "intermediate",
+          "illustrative": true,
+          "summary": "Soul search Bone, Bone tự gọi và chỉnh Level bằng gửi Resonator. Red Rising hồi Soul để lên Scarred Dragon; giữ Vision hoặc Trap để có tương tác lượt đối thủ.",
+          "starterCardIds": [
+            62991792
+          ],
+          "extraHandCardsNeeded": 1,
+          "deckCardIds": [
+            25784595,
+            98396890,
+            34761841,
+            23008320,
+            98173209,
+            50056656
+          ],
+          "extraDeckCardIds": [
+            66141736,
+            87451661,
+            70902743,
+            9753964
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "text": "Normal Summon Soul, search Bone Archfiend.",
+              "cardIds": [
+                62991792,
+                25784595
+              ],
+              "action": "search"
+            },
+            {
+              "order": 2,
+              "text": "Bone gửi một bài khác từ tay/sân để tự gọi; gửi Vision từ Deck vào GY để giảm Bone còn Level 3.",
+              "cardIds": [
+                25784595,
+                98396890
+              ],
+              "action": "activate-effect"
+            },
+            {
+              "order": 3,
+              "text": "Soul Level 3 và Bone Level 3 Synchro Red Rising; Red Rising gọi lại Soul.",
+              "cardIds": [
+                62991792,
+                25784595,
+                66141736
+              ],
+              "action": "synchro-summon"
+            },
+            {
+              "order": 4,
+              "text": "Red Rising Level 6 và Soul Level 3 Synchro Abyss; Vision đã gửi GY search Crimson Gaia.",
+              "cardIds": [
+                66141736,
+                62991792,
+                9753964,
+                98396890,
+                98173209
+              ],
+              "action": "synchro-summon"
+            }
+          ],
+          "endBoard": {
+            "cardIds": [
+              9753964
+            ],
+            "graveyardCardIds": [],
+            "text": "Abyss có negate bài face-up trong lượt đối thủ; Gaia tạo tài nguyên cho lượt sau.",
+            "interruptions": [
+              "Abyss có negate bài face-up trong lượt đối thủ; Gaia tạo tài nguyên cho lượt sau."
+            ]
+          },
+          "chokePoints": [
+            {
+              "atStep": 1,
+              "cardIds": [
+                10045474
+              ],
+              "text": "Imperm vào Red Rising chặn hồi Soul; ưu tiên bảo vệ Red Rising nếu chỉ có một Tuner."
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": "MD Guide",
+        "role": "Biên soạn tiếng Việt"
+      },
+      "reviewers": []
+    },
+    {
+      "deckId": "elfnote-kewl-tune",
+      "reviewStatus": "ai_draft",
+      "summary": "Elfnote Kewl Tune ghép quái tự Special Summon vào ô giữa với Synchro Tuner của Kewl Tune. Elfnote tạo tài nguyên không cần Normal Summon, Kewl Tune tận dụng Tuner để Synchro trong lượt đối thủ; phải cân bằng vị trí và giới hạn nguyên liệu.",
+      "playstyle": {
+        "overview": "Elfnote Kewl Tune ghép quái tự Special Summon vào ô giữa với Synchro Tuner của Kewl Tune. Elfnote tạo tài nguyên không cần Normal Summon, Kewl Tune tận dụng Tuner để Synchro trong lượt đối thủ; phải cân bằng vị trí và giới hạn nguyên liệu.",
+        "goingFirst": "Mở bằng Lucina/Tinia để lấy bài liên tục, dành Normal Summon cho Kewl Tune. Nếu Power Patron ở sân, chỉ gọi Synchro; không dùng line Link phụ.",
+        "goingSecond": "Elfnote trả bài theo vị trí, còn Kewl Tune chuyển nguyên liệu thành Synchro đúng thời điểm. Không để hiệu ứng tăng Level khiến cặp nguyên liệu mất tổng Level cần thiết.",
+        "tips": [
+          "Giữ ô giữa trống cho Lucina/Tinia.",
+          "Chỉ dùng Power Patron Synchro vào đúng đích được chỉ định.",
+          "Line minh họa mở Elfnote; Kewl Tune nối tiếp tùy tay.",
+          "Danh sách mẫu 40 Main / 15 Extra. Điều chỉnh tech theo ladder và kiểm tra banlist đang áp dụng trong game."
+        ]
+      },
+      "strengths": [
+        "Hai engine chia nhau nhu cầu Normal Summon.",
+        "Có tương tác vị trí và Synchro trên lượt đối thủ."
+      ],
+      "weaknesses": [
+        "Khóa Synchro khiến engine phụ kém linh hoạt.",
+        "Tay thiếu đúng Tuner hoặc sai ô giữa khó nối combo."
+      ],
+      "counters": [
+        {
+          "cardId": 10045474,
+          "note": "Negate Lucina làm mất quái nối; có thể dùng Normal Summon Kewl Tune thay vì ép line Elfnote."
+        },
+        {
+          "cardId": 14558127,
+          "note": "Chặn hiệu ứng dùng Deck; giữ extender để không phụ thuộc một lần search."
+        }
+      ],
+      "combos": [
+        {
+          "id": "elfnote-kewl-tune-basic",
+          "title": "Line cơ bản: Elfnote Lucina",
+          "turn": "going-first",
+          "difficulty": "intermediate",
+          "illustrative": true,
+          "summary": "Mở bằng Lucina/Tinia để lấy bài liên tục, dành Normal Summon cho Kewl Tune. Nếu Power Patron ở sân, chỉ gọi Synchro; không dùng line Link phụ.",
+          "starterCardIds": [
+            13597785,
+            50590801
+          ],
+          "extraHandCardsNeeded": 0,
+          "deckCardIds": [
+            59581480,
+            56651978,
+            12375297,
+            16509007,
+            43904702
+          ],
+          "extraDeckCardIds": [
+            42302563,
+            41069676,
+            88170262
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "text": "Lucina tự Special Summon vào ô giữa, search Tinia.",
+              "cardIds": [
+                13597785,
+                59581480
+              ],
+              "action": "search"
+            },
+            {
+              "order": 2,
+              "text": "Aristeia chuyển Lucina sang ô cạnh.",
+              "cardIds": [
+                50590801,
+                13597785
+              ],
+              "action": "activate-effect"
+            },
+            {
+              "order": 3,
+              "text": "Tinia tự gọi vào ô giữa, đặt Continuous Spell từ Deck; Normal Summon được giữ cho Kewl Tune trên tay.",
+              "cardIds": [
+                59581480,
+                90880453,
+                16509007
+              ],
+              "action": "activate-effect"
+            }
+          ],
+          "endBoard": {
+            "cardIds": [
+              13597785,
+              59581480
+            ],
+            "graveyardCardIds": [],
+            "text": "Lucina/Tinia tạo tương tác ô giữa; engine Kewl Tune chỉ nối tiếp khi có thêm đúng Tuner.",
+            "interruptions": [
+              "Lucina/Tinia tạo tương tác ô giữa; engine Kewl Tune chỉ nối tiếp khi có thêm đúng Tuner."
+            ]
+          },
+          "chokePoints": [
+            {
+              "atStep": 1,
+              "cardIds": [
+                10045474
+              ],
+              "text": "Negate Lucina làm mất quái nối; có thể dùng Normal Summon Kewl Tune thay vì ép line Elfnote."
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": "MD Guide",
+        "role": "Biên soạn tiếng Việt"
+      },
+      "reviewers": []
+    },
+    {
+      "deckId": "tearlaments",
+      "reviewStatus": "ai_draft",
+      "summary": "Tearlaments Fusion khi các quái được gửi GY bằng hiệu ứng, xào nguyên liệu trở lại Deck. Reinoheart đặt quái đúng vào GY, Scheiren vừa mở rộng vừa mill; Kitkallos tạo tài nguyên và Rulkallos/Kaleido-Heart là boss tương tác.",
+      "playstyle": {
+        "overview": "Tearlaments Fusion khi các quái được gửi GY bằng hiệu ứng, xào nguyên liệu trở lại Deck. Reinoheart đặt quái đúng vào GY, Scheiren vừa mở rộng vừa mill; Kitkallos tạo tài nguyên và Rulkallos/Kaleido-Heart là boss tương tác.",
+        "goingFirst": "Reinoheart gửi một Tearlaments có hiệu ứng Fusion, gọi Kitkallos rồi lấy Sulliek hoặc quái cần thiết. Không dùng quái gửi bằng cost để kỳ vọng kích hoạt Fusion.",
+        "goingSecond": "Mill có thể tạo nhiều chain nhưng không bảo đảm trúng quái. Kaleido-Heart xào bài đối thủ; giữ Sulliek để negate và tạo thêm trigger gửi GY.",
+        "tips": [
+          "Tearlaments phải được gửi GY bằng hiệu ứng.",
+          "Không tính discard cost là trigger Fusion.",
+          "Chọn chain để giữ đủ nguyên liệu cho từng Fusion.",
+          "Danh sách mẫu 40 Main / 15 Extra. Điều chỉnh tech theo ladder và kiểm tra banlist đang áp dụng trong game."
+        ]
+      },
+      "strengths": [
+        "Fusion tái sử dụng nguyên liệu thay vì tiêu hết GY.",
+        "Có thể tạo tài nguyên trong lượt đối thủ."
+      ],
+      "weaknesses": [
+        "Banish GY chặn nguyên liệu và trigger.",
+        "Mill ngẫu nhiên và số lượng engine bị banlist giới hạn."
+      ],
+      "counters": [
+        {
+          "cardId": 10045474,
+          "note": "Negate Reinoheart chặn gửi Deck; Scheiren là đường mở độc lập nếu có quái trên tay."
+        },
+        {
+          "cardId": 14558127,
+          "note": "Chặn hiệu ứng dùng Deck; giữ extender để không phụ thuộc một lần search."
+        }
+      ],
+      "combos": [
+        {
+          "id": "tearlaments-basic",
+          "title": "Line cơ bản: Tearlaments Reinoheart",
+          "turn": "going-first",
+          "difficulty": "intermediate",
+          "illustrative": true,
+          "summary": "Reinoheart gửi một Tearlaments có hiệu ứng Fusion, gọi Kitkallos rồi lấy Sulliek hoặc quái cần thiết. Không dùng quái gửi bằng cost để kỳ vọng kích hoạt Fusion.",
+          "starterCardIds": [
+            73956664
+          ],
+          "extraHandCardsNeeded": 0,
+          "deckCardIds": [
+            572850,
+            37961969,
+            60362066,
+            74920585,
+            6767771
+          ],
+          "extraDeckCardIds": [
+            92731385,
+            84330567,
+            28226490,
+            69946549
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "text": "Normal Summon Reinoheart, gửi Havnis từ Deck vào GY bằng hiệu ứng.",
+              "cardIds": [
+                73956664,
+                37961969
+              ],
+              "action": "activate-effect"
+            },
+            {
+              "order": 2,
+              "text": "Havnis kích hoạt Fusion: xào Havnis Aqua và Reinoheart Tearlaments từ sân/GY về Deck để gọi Kitkallos.",
+              "cardIds": [
+                37961969,
+                73956664,
+                92731385
+              ],
+              "action": "fusion-summon"
+            },
+            {
+              "order": 3,
+              "text": "Kitkallos search Sulliek rồi úp; giữ Kitkallos face-up để Sulliek có quái gửi GY.",
+              "cardIds": [
+                92731385,
+                74920585
+              ],
+              "action": "set"
+            }
+          ],
+          "endBoard": {
+            "cardIds": [
+              92731385,
+              74920585
+            ],
+            "graveyardCardIds": [],
+            "text": "Kitkallos và Sulliek tạo một negate quái; line phụ thuộc Havnis còn được phép dùng trong snapshot banlist.",
+            "interruptions": [
+              "Kitkallos và Sulliek tạo một negate quái; line phụ thuộc Havnis còn được phép dùng trong snapshot banlist."
+            ]
+          },
+          "chokePoints": [
+            {
+              "atStep": 1,
+              "cardIds": [
+                10045474
+              ],
+              "text": "Negate Reinoheart chặn gửi Deck; Scheiren là đường mở độc lập nếu có quái trên tay."
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": "MD Guide",
+        "role": "Biên soạn tiếng Việt"
+      },
+      "reviewers": []
+    },
+    {
+      "deckId": "magnet-warrior",
+      "reviewStatus": "ai_draft",
+      "summary": "Magnet Warrior dùng các Electromagnet Level 3 lấy thêm Rock và Tribute trong lượt đối thủ để gọi Magnet Level 4. Berserkion banish Alpha/Beta/Gamma để tự gọi, rồi banish Magnet trong GY để phá bài; các Sigma/Omega mới bổ sung Fusion và tương tác.",
+      "playstyle": {
+        "overview": "Magnet Warrior dùng các Electromagnet Level 3 lấy thêm Rock và Tribute trong lượt đối thủ để gọi Magnet Level 4. Berserkion banish Alpha/Beta/Gamma để tự gọi, rồi banish Magnet trong GY để phá bài; các Sigma/Omega mới bổ sung Fusion và tương tác.",
+        "goingFirst": "Beta lấy Alpha để chuẩn bị lượt sau, giữ Beta trên sân cho hiệu ứng Quick Tribute. Delta gửi Magnet cần thiết vào GY; dùng Sigma Minus nếu có đủ Rock trên tay/sân để Fusion.",
+        "goingSecond": "Berserkion phá từng bài bằng banish Magnet trong GY; Omega Plus úp quái đối thủ khi EARTH kích hoạt. Đừng banish hết Alpha/Beta/Gamma nếu cần hiệu ứng tái dựng khi Berserkion bị phá.",
+        "tips": [
+          "Berserkion cần đúng ba Electromagnet khác tên.",
+          "Beta chỉ Quick Tribute trong lượt đối thủ.",
+          "Imperion Magnum cần Valkyrion và Berserkion, không phải ba Magnet nhỏ.",
+          "Danh sách mẫu 40 Main / 15 Extra. Điều chỉnh tech theo ladder và kiểm tra banlist đang áp dụng trong game."
+        ]
+      },
+      "strengths": [
+        "Có thể đổi quái trong lượt đối thủ.",
+        "Berserkion xử lý nhiều bài nếu có đủ GY."
+      ],
+      "weaknesses": [
+        "Cần xây GY trước khi boss mạnh.",
+        "Banish GY và negate Beta làm chậm engine."
+      ],
+      "counters": [
+        {
+          "cardId": 10045474,
+          "note": "Imperm vào Beta chặn search Alpha; Magnet Induction là lựa chọn mở rộng khi build đủ engine."
+        },
+        {
+          "cardId": 14558127,
+          "note": "Chặn hiệu ứng dùng Deck; giữ extender để không phụ thuộc một lần search."
+        }
+      ],
+      "combos": [
+        {
+          "id": "magnet-warrior-basic",
+          "title": "Line cơ bản: Beta The Electromagnet Warrior",
+          "turn": "going-first",
+          "difficulty": "intermediate",
+          "illustrative": true,
+          "summary": "Beta lấy Alpha để chuẩn bị lượt sau, giữ Beta trên sân cho hiệu ứng Quick Tribute. Delta gửi Magnet cần thiết vào GY; dùng Sigma Minus nếu có đủ Rock trên tay/sân để Fusion.",
+          "starterCardIds": [
+            79418928
+          ],
+          "extraHandCardsNeeded": 0,
+          "deckCardIds": [
+            42023223,
+            15502037,
+            12262393,
+            42901635,
+            87814728,
+            86289475
+          ],
+          "extraDeckCardIds": [
+            4628897,
+            32530043,
+            84401683
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "text": "Normal Summon Beta, search Alpha.",
+              "cardIds": [
+                79418928,
+                42023223
+              ],
+              "action": "search"
+            },
+            {
+              "order": 2,
+              "text": "Trong lượt đối thủ, Tribute Beta để Special Summon Delta từ Deck.",
+              "cardIds": [
+                79418928,
+                12262393
+              ],
+              "action": "special-summon"
+            },
+            {
+              "order": 3,
+              "text": "Delta được gọi: gửi Gamma từ Deck vào GY để chuẩn bị Berserkion ở lượt tiếp theo.",
+              "cardIds": [
+                12262393,
+                15502037
+              ],
+              "action": "activate-effect"
+            }
+          ],
+          "endBoard": {
+            "cardIds": [
+              12262393
+            ],
+            "graveyardCardIds": [],
+            "text": "Delta ở sân, Beta và Gamma trong GY, Alpha trên tay; đây là line tích lũy tài nguyên, chưa đủ điều kiện gọi Berserkion ngay.",
+            "interruptions": [
+              "Delta ở sân, Beta và Gamma trong GY, Alpha trên tay; đây là line tích lũy tài nguyên, chưa đủ điều kiện gọi Berserkion ngay."
+            ]
+          },
+          "chokePoints": [
+            {
+              "atStep": 1,
+              "cardIds": [
+                10045474
+              ],
+              "text": "Imperm vào Beta chặn search Alpha; Magnet Induction là lựa chọn mở rộng khi build đủ engine."
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": "MD Guide",
+        "role": "Biên soạn tiếng Việt"
+      },
+      "reviewers": []
+    },
+    {
+      "deckId": "orcust",
+      "reviewStatus": "ai_draft",
+      "summary": "Orcust dùng các quái Machine DARK trong GY để gọi thêm engine và dựng Galatea/Dingirsu. Babel biến hiệu ứng GY thành Quick Effect; Galatea xào quái banish để úp Spell/Trap và Dingirsu gửi bài đối thủ vào GY không destroy.",
+      "playstyle": {
+        "overview": "Orcust dùng các quái Machine DARK trong GY để gọi thêm engine và dựng Galatea/Dingirsu. Babel biến hiệu ứng GY thành Quick Effect; Galatea xào quái banish để úp Spell/Trap và Dingirsu gửi bài đối thủ vào GY không destroy.",
+        "goingFirst": "Gửi Harp Horror bằng starter hoặc discard, banish Harp gọi Orcust từ Deck. Dựng Galatea rồi lấy Babel/Crescendo theo tài nguyên; chuẩn bị Cymbal Skeleton cho lượt đối thủ.",
+        "goingSecond": "Dingirsu xử lý bài khó phá và giữ nguyên liệu để bảo vệ sân. Babel cho phép kích hoạt GY trong lượt đối thủ nhưng không bỏ giới hạn một lần mỗi lượt.",
+        "tips": [
+          "Crescendo cần Orcust Link trên sân.",
+          "Harp không được dùng hiệu ứng trong lượt nó được gửi GY bằng điều kiện cấm riêng nào đó.",
+          "Babel chỉ đổi tốc độ của các hiệu ứng Orcust được nêu.",
+          "Danh sách mẫu 40 Main / 15 Extra. Điều chỉnh tech theo ladder và kiểm tra banlist đang áp dụng trong game."
+        ]
+      },
+      "strengths": [
+        "Vòng GY/banish có thể lặp qua nhiều lượt.",
+        "Dingirsu gửi bài không cần destroy."
+      ],
+      "weaknesses": [
+        "Banish/negate GY chặn engine.",
+        "Khóa DARK sau hiệu ứng Orcust giới hạn quái phụ."
+      ],
+      "counters": [
+        {
+          "cardId": 10045474,
+          "note": "Negate Girsu trước khi gửi Harp làm mất nguồn GY; Return cần Orcust trên tay để mở lại."
+        },
+        {
+          "cardId": 14558127,
+          "note": "Chặn hiệu ứng dùng Deck; giữ extender để không phụ thuộc một lần search."
+        }
+      ],
+      "combos": [
+        {
+          "id": "orcust-basic",
+          "title": "Line cơ bản: Girsu, the Orcust Mekk-Knight",
+          "turn": "going-first",
+          "difficulty": "intermediate",
+          "illustrative": true,
+          "summary": "Gửi Harp Horror bằng starter hoặc discard, banish Harp gọi Orcust từ Deck. Dựng Galatea rồi lấy Babel/Crescendo theo tài nguyên; chuẩn bị Cymbal Skeleton cho lượt đối thủ.",
+          "starterCardIds": [
+            69811710
+          ],
+          "extraHandCardsNeeded": 0,
+          "deckCardIds": [
+            57835716,
+            4055337,
+            21441617,
+            90351981,
+            703897,
+            26845680
+          ],
+          "extraDeckCardIds": [
+            30741503,
+            48835607,
+            93854893,
+            76145142
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "text": "Normal Summon Girsu, gửi Harp Horror.",
+              "cardIds": [
+                69811710,
+                57835716
+              ],
+              "action": "activate-effect"
+            },
+            {
+              "order": 2,
+              "text": "Banish Harp từ GY để gọi Cymbal Skeleton từ Deck.",
+              "cardIds": [
+                57835716,
+                21441617
+              ],
+              "action": "special-summon"
+            },
+            {
+              "order": 3,
+              "text": "Link Girsu và Cymbal thành Galatea; xào Harp đã banish để úp Babel rồi kích hoạt Babel.",
+              "cardIds": [
+                69811710,
+                21441617,
+                30741503,
+                90351981
+              ],
+              "action": "link-summon"
+            },
+            {
+              "order": 4,
+              "text": "Xyz Dingirsu đặt lên Galatea; có thể gắn Orcust đã banish nếu có, giữ Cymbal trong GY cho lượt đối thủ.",
+              "cardIds": [
+                30741503,
+                93854893,
+                21441617
+              ],
+              "action": "xyz-summon"
+            }
+          ],
+          "endBoard": {
+            "cardIds": [
+              93854893,
+              90351981
+            ],
+            "graveyardCardIds": [],
+            "text": "Dingirsu bảo vệ phá hủy bằng detach; Cymbal có thể hồi Galatea dưới Babel trong lượt đối thủ.",
+            "interruptions": [
+              "Dingirsu bảo vệ phá hủy bằng detach; Cymbal có thể hồi Galatea dưới Babel trong lượt đối thủ."
+            ]
+          },
+          "chokePoints": [
+            {
+              "atStep": 1,
+              "cardIds": [
+                10045474
+              ],
+              "text": "Negate Girsu trước khi gửi Harp làm mất nguồn GY; Return cần Orcust trên tay để mở lại."
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": "MD Guide",
+        "role": "Biên soạn tiếng Việt"
+      },
+      "reviewers": []
+    },
+    {
+      "deckId": "gmx",
+      "reviewStatus": "ai_draft",
+      "summary": "GMX kết hợp quái hỗ trợ và Dinosaur để Fusion. Researcher Selande gọi quái từ Deck, Noma Fusion khi đối thủ triệu hồi, còn Applied Experiment #55 đào Deck với cost LP để tìm nguyên liệu. Velox tạo phá bài trong lượt đối thủ.",
+      "playstyle": {
+        "overview": "GMX kết hợp quái hỗ trợ và Dinosaur để Fusion. Researcher Selande gọi quái từ Deck, Noma Fusion khi đối thủ triệu hồi, còn Applied Experiment #55 đào Deck với cost LP để tìm nguyên liệu. Velox tạo phá bài trong lượt đối thủ.",
+        "goingFirst": "Selande gọi Noma, giữ một Dinosaur trên tay hoặc GY để Noma Fusion khi đối thủ triệu hồi. Kimridge tìm Experiment để có đường Fusion độc lập.",
+        "goingSecond": "Velox phá bài sau khi excavate; Comprex có thể quét sân khi engine excavate. Theo dõi LP trước mỗi Experiment để tránh tự đưa mình vào tầm lethal.",
+        "tips": [
+          "Noma chỉ trigger khi đối thủ Normal/Special Summon.",
+          "Selande Normal Summon không dùng hiệu ứng search của Special Summon.",
+          "Lab #5 đặt một bài từ tay lên đầu Deck sau khi úp.",
+          "Danh sách mẫu 40 Main / 15 Extra. Điều chỉnh tech theo ladder và kiểm tra banlist đang áp dụng trong game."
+        ]
+      },
+      "strengths": [
+        "Noma Fusion bằng tài nguyên sân/GY/banish.",
+        "Fusion boss tạo tương tác và hồi tài nguyên."
+      ],
+      "weaknesses": [
+        "Excavate có cost LP không cố định.",
+        "Thiếu Dinosaur làm các hiệu ứng Fusion không đủ nguyên liệu."
+      ],
+      "counters": [
+        {
+          "cardId": 10045474,
+          "note": "Negate Selande chặn gọi Noma; Kimridge tìm Experiment làm line độc lập."
+        },
+        {
+          "cardId": 14558127,
+          "note": "Chặn hiệu ứng dùng Deck; giữ extender để không phụ thuộc một lần search."
+        }
+      ],
+      "combos": [
+        {
+          "id": "gmx-basic",
+          "title": "Selande + Applied Experiment #55",
+          "turn": "going-first",
+          "difficulty": "intermediate",
+          "illustrative": true,
+          "summary": "Selande gọi Noma; Experiment đào GMX và Dinosaur để Fusion Velox. Line phụ thuộc LP và thứ tự Deck; Dinosaur đã dùng làm nguyên liệu sẽ mở tương tác của Noma.",
+          "starterCardIds": [
+            20049870,
+            18795635
+          ],
+          "extraHandCardsNeeded": 0,
+          "deckCardIds": [
+            83528184,
+            2618725,
+            56034579,
+            18795635,
+            74378580
+          ],
+          "extraDeckCardIds": [
+            82706696,
+            56311997,
+            75191028
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "text": "Normal Summon Selande để gọi Noma non-Warrior từ Deck.",
+              "cardIds": [
+                20049870,
+                83528184
+              ],
+              "action": "special-summon"
+            },
+            {
+              "order": 2,
+              "text": "Kích hoạt Applied Experiment #55, excavate đến khi tìm đủ GMX và Dinosaur, mất 400 LP mỗi lá. Nếu đủ LP và tìm được đúng nguyên liệu, Fusion Velox; nguyên liệu được gửi GY, bài còn lại xào về Deck.",
+              "cardIds": [
+                18795635,
+                82706696
+              ],
+              "action": "fusion-summon"
+            },
+            {
+              "order": 3,
+              "text": "Lượt đối thủ: khi họ Normal/Special Summon, Noma có thể Fusion Allos bằng Noma trên sân và Dinosaur trong GY. Velox giữ Quick Effect excavate để phá một bài; cần đủ LP cho cả hai nhánh.",
+              "cardIds": [
+                83528184,
+                56311997,
+                82706696
+              ],
+              "action": "fusion-summon"
+            }
+          ],
+          "endBoard": {
+            "cardIds": [
+              20049870,
+              83528184,
+              82706696
+            ],
+            "graveyardCardIds": [],
+            "text": "Nếu Experiment giải quyết thành công: Selande, Noma và Velox. Noma dùng Dinosaur trong GY cho Fusion lượt đối thủ; Velox tạo một lần phá bài có cost LP.",
+            "interruptions": [
+              "Noma Fusion khi đối thủ triệu hồi.",
+              "Velox excavate và phá một bài trong lượt đối thủ."
+            ]
+          },
+          "chokePoints": [
+            {
+              "atStep": 1,
+              "cardIds": [
+                10045474
+              ],
+              "text": "Negate Selande chặn gọi Noma; Kimridge tìm Experiment làm line độc lập."
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": "MD Guide",
+        "role": "Biên soạn tiếng Việt"
+      },
+      "reviewers": []
+    },
+    {
+      "deckId": "rb",
+      "reviewStatus": "ai_draft",
+      "summary": "R.B. là Machine Link dùng các quái tự Special Summon khi sân trống hoặc chỉ có R.B. Driller và Cutter tạo tương tác nếu linked với R.B. Link. Booster lấy Spell, hồi quái rồi đổi vị trí để giữ mũi tên.",
+      "playstyle": {
+        "overview": "R.B. là Machine Link dùng các quái tự Special Summon khi sân trống hoặc chỉ có R.B. Driller và Cutter tạo tương tác nếu linked với R.B. Link. Booster lấy Spell, hồi quái rồi đổi vị trí để giữ mũi tên.",
+        "goingFirst": "Gọi hai R.B. làm Booster, lấy Stage Landing hoặc bài nối. Booster hồi quái và chuyển về Main Monster Zone; đặt Driller/Cutter đúng ô linked để bật Quick Effect.",
+        "goingSecond": "Driller đổi một quái của mình lấy phá quái đối thủ; Cutter negate Spell/Trap. Brute Blues tạo áp lực hai lần đánh khi trỏ vào R.B., nhưng cần đủ nguyên liệu Machine.",
+        "tips": [
+          "Driller cần linked tới R.B. Link khi kích hoạt.",
+          "Stage Landing khóa Extra Deck cả lượt.",
+          "Booster hồi quái trước rồi mới chuyển vị trí của chính nó.",
+          "Danh sách mẫu 40 Main / 15 Extra. Điều chỉnh tech theo ladder và kiểm tra banlist đang áp dụng trong game."
+        ]
+      },
+      "strengths": [
+        "Các quái nhỏ tự gọi không tốn Normal Summon.",
+        "Tương tác khác nhau theo quái linked."
+      ],
+      "weaknesses": [
+        "Sai vị trí Link làm Driller/Cutter mất hiệu ứng.",
+        "Khóa Machine ATK thấp hạn chế boss ngoài engine."
+      ],
+      "counters": [
+        {
+          "cardId": 10045474,
+          "note": "Negate Booster làm mất search/hồi; Stage Landing có sẵn trên tay là đường dự phòng."
+        },
+        {
+          "cardId": 14558127,
+          "note": "Chặn hiệu ứng dùng Deck; giữ extender để không phụ thuộc một lần search."
+        }
+      ],
+      "combos": [
+        {
+          "id": "rb-basic",
+          "title": "Line cơ bản: R.B. Ga10 Driller",
+          "turn": "going-first",
+          "difficulty": "intermediate",
+          "illustrative": true,
+          "summary": "Gọi hai R.B. làm Booster, lấy Stage Landing hoặc bài nối. Booster hồi quái và chuyển về Main Monster Zone; đặt Driller/Cutter đúng ô linked để bật Quick Effect.",
+          "starterCardIds": [
+            6043161,
+            33438265
+          ],
+          "extraHandCardsNeeded": 0,
+          "deckCardIds": [
+            44573911,
+            5109321,
+            78710386,
+            43450363
+          ],
+          "extraDeckCardIds": [
+            6821579,
+            32216688,
+            80071619
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "text": "Special Summon Driller rồi Cutter khi chỉ điều khiển R.B.",
+              "cardIds": [
+                6043161,
+                33438265
+              ],
+              "action": "special-summon"
+            },
+            {
+              "order": 2,
+              "text": "Link hai Machine thành Booster ở Extra Monster Zone, search Stage Landing.",
+              "cardIds": [
+                6821579,
+                5109321
+              ],
+              "action": "link-summon"
+            },
+            {
+              "order": 3,
+              "text": "Booster hồi Driller ở Defense, chuyển Booster sang Main Monster Zone khác; đặt Driller vào ô có mũi tên.",
+              "cardIds": [
+                6821579,
+                6043161
+              ],
+              "action": "activate-effect"
+            }
+          ],
+          "endBoard": {
+            "cardIds": [
+              6821579,
+              6043161
+            ],
+            "graveyardCardIds": [],
+            "text": "Driller linked tạo phá một quái bằng trả 500 LP và phá cả Driller; Stage Landing trên tay là tài nguyên nối.",
+            "interruptions": [
+              "Driller linked tạo phá một quái bằng trả 500 LP và phá cả Driller; Stage Landing trên tay là tài nguyên nối."
+            ]
+          },
+          "chokePoints": [
+            {
+              "atStep": 1,
+              "cardIds": [
+                10045474
+              ],
+              "text": "Negate Booster làm mất search/hồi; Stage Landing có sẵn trên tay là đường dự phòng."
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": "MD Guide",
+        "role": "Biên soạn tiếng Việt"
+      },
+      "reviewers": []
+    },
+    {
+      "deckId": "k9",
+      "reviewStatus": "ai_draft",
+      "summary": "K9 tạo Rank 5 bằng Jokul/Lantern và phản ứng với hiệu ứng quái ở tay hoặc GY. Izuna gửi engine vào GY, Ripper tìm K9 và negate đúng phạm vi, Quick-Play Spell nâng Xyz để tăng tương tác.",
+      "playstyle": {
+        "overview": "K9 tạo Rank 5 bằng Jokul/Lantern và phản ứng với hiệu ứng quái ở tay hoặc GY. Izuna gửi engine vào GY, Ripper tìm K9 và negate đúng phạm vi, Quick-Play Spell nâng Xyz để tăng tương tác.",
+        "goingFirst": "Jokul search Lantern, đặt đủ hai Level 5 để dựng Ripper. Giữ nguyên liệu cho negate; nếu đối thủ đã dùng hiệu ứng quái thì Ripper có thể úp thêm Quick-Play.",
+        "goingSecond": "Izuna tự gọi khi đối thủ dùng hiệu ứng tay/GY, giúp dựng Rank 5 trong Main Phase. Forced Release đổi Xyz để giải quyết board nhưng phải đọc đúng vật liệu.",
+        "tips": [
+          "Jokul và Lantern không làm nguyên liệu Xyz LIGHT.",
+          "Ripper search và negate mỗi hiệu ứng một lần mỗi lượt.",
+          "Izuna Normal không Tribute cần đối thủ có ít nhất hai bài trên tay.",
+          "Danh sách mẫu 40 Main / 15 Extra. Điều chỉnh tech theo ladder và kiểm tra banlist đang áp dụng trong game."
+        ]
+      },
+      "strengths": [
+        "Phản ứng tốt với hand trap và GY engine.",
+        "Rank 5 có nhiều lựa chọn tương tác."
+      ],
+      "weaknesses": [
+        "Đối thủ tránh hiệu ứng tay/GY sẽ giảm sức bật.",
+        "Negate trên sân vẫn chặn search Ripper."
+      ],
+      "counters": [
+        {
+          "cardId": 10045474,
+          "note": "Imperm vào Ripper chặn search; không tiêu hết extender trước khi Ripper resolve."
+        },
+        {
+          "cardId": 14558127,
+          "note": "Chặn hiệu ứng dùng Deck; giữ extender để không phụ thuộc một lần search."
+        }
+      ],
+      "combos": [
+        {
+          "id": "k9-basic",
+          "title": "Line cơ bản: K9-66a Jokul",
+          "turn": "going-first",
+          "difficulty": "intermediate",
+          "illustrative": true,
+          "summary": "Jokul search Lantern, đặt đủ hai Level 5 để dựng Ripper. Giữ nguyên liệu cho negate; nếu đối thủ đã dùng hiệu ứng quái thì Ripper có thể úp thêm Quick-Play.",
+          "starterCardIds": [
+            28642461,
+            92248362
+          ],
+          "extraHandCardsNeeded": 0,
+          "deckCardIds": [
+            55031170,
+            91025875,
+            53792930,
+            80181649
+          ],
+          "extraDeckCardIds": [
+            27420823,
+            90303227,
+            54919528
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "text": "Reveal Jokul và Izuna trên tay, Special Summon cả hai.",
+              "cardIds": [
+                28642461,
+                92248362
+              ],
+              "action": "special-summon"
+            },
+            {
+              "order": 2,
+              "text": "Jokul search Lantern; Izuna gửi một K9 khác vào GY cho hồi sinh lượt sau.",
+              "cardIds": [
+                28642461,
+                55031170,
+                92248362
+              ],
+              "action": "search"
+            },
+            {
+              "order": 3,
+              "text": "Xyz Jokul/Izuna thành Ripper; detach một nguyên liệu search Forced Release.",
+              "cardIds": [
+                27420823,
+                53792930
+              ],
+              "action": "xyz-summon"
+            }
+          ],
+          "endBoard": {
+            "cardIds": [
+              27420823
+            ],
+            "graveyardCardIds": [],
+            "text": "Ripper còn một nguyên liệu cho negate hiệu ứng tay/GY; Lantern và Forced Release trên tay giữ khả năng nối.",
+            "interruptions": [
+              "Ripper còn một nguyên liệu cho negate hiệu ứng tay/GY; Lantern và Forced Release trên tay giữ khả năng nối."
+            ]
+          },
+          "chokePoints": [
+            {
+              "atStep": 1,
+              "cardIds": [
+                10045474
+              ],
+              "text": "Imperm vào Ripper chặn search; không tiêu hết extender trước khi Ripper resolve."
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": "MD Guide",
+        "role": "Biên soạn tiếng Việt"
+      },
+      "reviewers": []
+    },
+    {
+      "deckId": "snake-eye-yummy",
+      "reviewStatus": "ai_draft",
+      "summary": "Snake-Eye Yummy ghép FIRE Level 1 và Yummy để tận dụng Link-1 cùng Synchro nhỏ. Snake-Eye Ash tìm Poplar, Poplar lấy Spell; Yummy có chuỗi hồi sinh riêng. Chọn engine mở trước theo hand trap và giữ không gian Extra Deck cho cả hai.",
+      "playstyle": {
+        "overview": "Snake-Eye Yummy ghép FIRE Level 1 và Yummy để tận dụng Link-1 cùng Synchro nhỏ. Snake-Eye Ash tìm Poplar, Poplar lấy Spell; Yummy có chuỗi hồi sinh riêng. Chọn engine mở trước theo hand trap và giữ không gian Extra Deck cho cả hai.",
+        "goingFirst": "Mở Snake-Eye Ash lấy Poplar rồi tạo Linkuriboh, để Poplar đặt quái FIRE vào Spell/Trap Zone. Giữ Yummy trên tay cho line phụ thay vì tiêu hết tài nguyên vào một engine.",
+        "goingSecond": "Snake-Eye chuyển quái đối thủ sang Spell/Trap Zone qua engine phù hợp; Yummy nối battle và hồi nguyên liệu. Khóa triệu hồi từ các hiệu ứng Yummy phải được giải quyết trước khi chọn Link ngoài engine.",
+        "tips": [
+          "Poplar cần được thêm tay bằng hiệu ứng mới tự gọi theo trigger đó.",
+          "Không gọi boss Link nếu đang bị khóa bởi Yummy.",
+          "Số lượng Snake-Eye trong snapshot hiện tại có giới hạn.",
+          "Danh sách mẫu 40 Main / 15 Extra. Điều chỉnh tech theo ladder và kiểm tra banlist đang áp dụng trong game."
+        ]
+      },
+      "strengths": [
+        "Hai engine có starter Level 1.",
+        "Có line dự phòng khi một search bị ngắt."
+      ],
+      "weaknesses": [
+        "Cạnh tranh Extra Deck và Normal Summon.",
+        "Nibiru punishes chuỗi kéo dài thiếu bảo vệ."
+      ],
+      "counters": [
+        {
+          "cardId": 10045474,
+          "note": "Negate Ash làm mất Poplar; dùng starter Yummy có sẵn thay vì tiếp tục một line thiếu tài nguyên."
+        },
+        {
+          "cardId": 14558127,
+          "note": "Chặn hiệu ứng dùng Deck; giữ extender để không phụ thuộc một lần search."
+        }
+      ],
+      "combos": [
+        {
+          "id": "snake-eye-yummy-basic",
+          "title": "Line cơ bản: Snake-Eye Ash",
+          "turn": "going-first",
+          "difficulty": "intermediate",
+          "illustrative": true,
+          "summary": "Ash/Poplar tạo Link-1 và Original Sinful Spoils để gọi Cupsy; nối Mignon, Cupsy Way và Snatchy để tái triệu hồi Yummy trong lượt đối thủ.",
+          "starterCardIds": [
+            9674034
+          ],
+          "extraHandCardsNeeded": 0,
+          "deckCardIds": [
+            90241276,
+            48452496,
+            89023486,
+            31425736,
+            68810435,
+            29369059,
+            66975205,
+            4215180
+          ],
+          "extraDeckCardIds": [
+            41999284,
+            30581601,
+            67098897,
+            2772337,
+            31603289
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "text": "Normal Summon Ash, search Poplar.",
+              "cardIds": [
+                9674034,
+                90241276
+              ],
+              "action": "search"
+            },
+            {
+              "order": 2,
+              "text": "Poplar tự gọi sau khi được search, lấy Original Sinful Spoils.",
+              "cardIds": [
+                90241276,
+                89023486
+              ],
+              "action": "search"
+            },
+            {
+              "order": 3,
+              "text": "Link Poplar thành Linkuriboh; Poplar trong GY đặt chính nó vào Spell/Trap Zone.",
+              "cardIds": [
+                90241276,
+                41999284
+              ],
+              "action": "link-summon"
+            },
+            {
+              "order": 4,
+              "text": "Original Sinful Spoils gửi Poplar từ Spell/Trap Zone vào GY để gọi Cupsy từ Deck; Cupsy search Yummy Surprise.",
+              "cardIds": [
+                89023486,
+                90241276,
+                31425736,
+                29369059
+              ],
+              "action": "special-summon"
+            },
+            {
+              "order": 5,
+              "text": "Link Cupsy thành Snatchy; Snatchy đặt Mignon từ Deck. Mignon hồi Cupsy từ GY vì có Link-1 trên sân.",
+              "cardIds": [
+                31425736,
+                30581601,
+                66975205
+              ],
+              "action": "link-summon"
+            },
+            {
+              "order": 6,
+              "text": "Synchro Cupsy Yummy Way bằng Snatchy được tính Level 1 Tuner và Cupsy Level 1. Cupsy Way lấy Cooky và Lollipo, discard Cooky để chuẩn bị hồi trong lượt đối thủ.",
+              "cardIds": [
+                30581601,
+                31425736,
+                31603289,
+                68810435,
+                4215180
+              ],
+              "action": "synchro-summon"
+            },
+            {
+              "order": 7,
+              "text": "Tự gọi Lollipo vì có Synchro Level 2, Link Lollipo thành Snatchy thứ hai. Snatchy không đặt Field lần nữa (once per turn). Úp Yummy Surprise, giữ Cupsy Way cho lượt đối thủ.",
+              "cardIds": [
+                4215180,
+                30581601,
+                31603289,
+                29369059
+              ],
+              "action": "link-summon"
+            }
+          ],
+          "endBoard": {
+            "cardIds": [
+              9674034,
+              41999284,
+              30581601,
+              31603289,
+              29369059
+            ],
+            "graveyardCardIds": [
+              31425736,
+              68810435,
+              4215180
+            ],
+            "text": "Cupsy Way, Snatchy, Ash, Linkuriboh và Surprise úp. Cupsy Way bounce về Extra để hồi Cupsy/Cooky khi đối thủ kích hoạt hiệu ứng; Snatchy tiếp tục Synchro trong Main/Battle Phase đối thủ.",
+            "interruptions": [
+              "Cupsy Way hồi Cooky bằng hiệu ứng Synchro để mở hiệu ứng đi sau của Cooky.",
+              "Snatchy Synchro Cooky Way cho khả năng úp tối đa hai quái face-up.",
+              "Yummy Surprise cung cấp tương tác riêng theo hiệu ứng lá bài."
+            ]
+          },
+          "chokePoints": [
+            {
+              "atStep": 1,
+              "cardIds": [
+                10045474
+              ],
+              "text": "Negate Ash làm mất Poplar; dùng starter Yummy có sẵn thay vì tiếp tục một line thiếu tài nguyên."
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": "MD Guide",
+        "role": "Biên soạn tiếng Việt"
+      },
+      "reviewers": []
+    },
+    {
+      "deckId": "mitsurugi",
+      "reviewStatus": "ai_draft",
+      "summary": "Mitsurugi Ritual dùng Reptile làm Tribute để kích hoạt search/hồi sinh của các quái. Saji tìm Ritual Spell, Murakumo quét quái khi được Special Summon và có tương tác với hiệu ứng đối thủ; giữ nguyên liệu cho Ritual tiếp theo.",
+      "playstyle": {
+        "overview": "Mitsurugi Ritual dùng Reptile làm Tribute để kích hoạt search/hồi sinh của các quái. Saji tìm Ritual Spell, Murakumo quét quái khi được Special Summon và có tương tác với hiệu ứng đối thủ; giữ nguyên liệu cho Ritual tiếp theo.",
+        "goingFirst": "Saji lấy Ritual, dùng Ritual Summon với nguyên liệu đúng Level. Kusanagi/Saji bị Tribute tạo tài nguyên; không dùng hết Ritual Spell nếu cần mở lại sau hand trap.",
+        "goingSecond": "Murakumo dọn quái khi được Special Summon; tận dụng Ritual bằng nguyên liệu Deck để không tốn cả tay. Đừng bỏ qua giới hạn một lần mỗi lượt của Ritual Spell.",
+        "tips": [
+          "Đọc phương thức Ritual của từng Spell.",
+          "Hiệu ứng khi Tribute khác với bị gửi GY thông thường.",
+          "Giữ Reptile để trả cost tương tác boss.",
+          "Danh sách mẫu 40 Main / 15 Extra. Điều chỉnh tech theo ladder và kiểm tra banlist đang áp dụng trong game."
+        ]
+      },
+      "strengths": [
+        "Tribute vừa gọi boss vừa tạo follow-up.",
+        "Boss Ritual có thể dọn nhiều quái."
+      ],
+      "weaknesses": [
+        "Droll/Ash chặn chuỗi search.",
+        "Ritual cần nguyên liệu và đúng Level."
+      ],
+      "counters": [
+        {
+          "cardId": 10045474,
+          "note": "Negate Saji làm thiếu Ritual; Prayers hoặc Habakiri có sẵn tạo line khác."
+        },
+        {
+          "cardId": 14558127,
+          "note": "Chặn hiệu ứng dùng Deck; giữ extender để không phụ thuộc một lần search."
+        }
+      ],
+      "combos": [
+        {
+          "id": "mitsurugi-basic",
+          "title": "Line cơ bản: Mitsurugi no Mikoto, Saji",
+          "turn": "going-first",
+          "difficulty": "intermediate",
+          "illustrative": true,
+          "summary": "Saji lấy Ritual, dùng Ritual Summon với nguyên liệu đúng Level. Kusanagi/Saji bị Tribute tạo tài nguyên; không dùng hết Ritual Spell nếu cần mở lại sau hand trap.",
+          "starterCardIds": [
+            18176525,
+            19899073
+          ],
+          "extraHandCardsNeeded": 0,
+          "deckCardIds": [
+            82782870,
+            40543231,
+            13332685,
+            81560239,
+            45171524
+          ],
+          "extraDeckCardIds": [
+            11398059,
+            29301450,
+            94259633
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "text": "Normal Summon Saji, search Mitsurugi Ritual.",
+              "cardIds": [
+                18176525,
+                81560239
+              ],
+              "action": "search"
+            },
+            {
+              "order": 2,
+              "text": "Dùng phương thức Ritual Summon quái trên tay của Mitsurugi Ritual: Tribute Reptile từ Deck đủ Level để gọi Murakumo từ tay.",
+              "cardIds": [
+                81560239,
+                19899073
+              ],
+              "action": "ritual-summon"
+            },
+            {
+              "order": 3,
+              "text": "Resolve hiệu ứng khi được Special Summon của Murakumo và hiệu ứng Tribute của nguyên liệu nếu có; giữ Saji làm tài nguyên.",
+              "cardIds": [
+                19899073,
+                18176525
+              ],
+              "action": "activate-effect"
+            }
+          ],
+          "endBoard": {
+            "cardIds": [
+              19899073,
+              18176525
+            ],
+            "graveyardCardIds": [],
+            "text": "Murakumo và Saji trên sân, tương tác boss cần thêm Reptile để trả cost; tài nguyên Tribute chuẩn bị lượt sau.",
+            "interruptions": [
+              "Murakumo và Saji trên sân, tương tác boss cần thêm Reptile để trả cost; tài nguyên Tribute chuẩn bị lượt sau."
+            ]
+          },
+          "chokePoints": [
+            {
+              "atStep": 1,
+              "cardIds": [
+                10045474
+              ],
+              "text": "Negate Saji làm thiếu Ritual; Prayers hoặc Habakiri có sẵn tạo line khác."
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": "MD Guide",
+        "role": "Biên soạn tiếng Việt"
+      },
+      "reviewers": []
+    },
+    {
+      "deckId": "azamina",
+      "reviewStatus": "ai_draft",
+      "summary": "Azamina biến Sinful Spoils Spell/Trap thành nguyên liệu gọi Fusion theo Level. Hallowed Azamina và Debtors gửi đúng số Sinful Spoils, Mu Rcielago search, Ilia Silvia tạo omni-negate. Diabellstar giúp tìm Sinful Spoils nhưng phải trả bài để tự gọi.",
+      "playstyle": {
+        "overview": "Azamina biến Sinful Spoils Spell/Trap thành nguyên liệu gọi Fusion theo Level. Hallowed Azamina và Debtors gửi đúng số Sinful Spoils, Mu Rcielago search, Ilia Silvia tạo omni-negate. Diabellstar giúp tìm Sinful Spoils nhưng phải trả bài để tự gọi.",
+        "goingFirst": "Lấy Hallowed Azamina bằng Deception of the Sinful Spoils, dựng Silvia và giữ engine GY để hồi ở lượt sau. Số bài Sinful Spoils cần gửi bằng phần nguyên của Level Fusion chia bốn.",
+        "goingSecond": "Mu Rcielago và Sol Erysichthon mở board/tạo tài nguyên trước khi dựng Silvia. Không gửi hết Sinful Spoils nếu còn cần Spell để gọi Fusion tiếp theo.",
+        "tips": [
+          "Không dùng quái Sinful Spoils thay thế Spell/Trap nếu hiệu ứng không cho phép.",
+          "Debtors chỉ dùng một hiệu ứng mỗi lượt.",
+          "Silvia Tribute chính nó để negate.",
+          "Danh sách mẫu 40 Main / 15 Extra. Điều chỉnh tech theo ladder và kiểm tra banlist đang áp dụng trong game."
+        ]
+      },
+      "strengths": [
+        "Omni-negate từ engine Fusion nhỏ.",
+        "Có thể hồi Fusion qua Spell trong GY."
+      ],
+      "weaknesses": [
+        "Cần đúng Sinful Spoils trên tay/sân.",
+        "Negate Spell Fusion làm mất nhịp mở."
+      ],
+      "counters": [
+        {
+          "cardId": 10045474,
+          "note": "Ash/negate vào Deception chặn Hallowed; giữ đường Diabellstar nếu có thể."
+        },
+        {
+          "cardId": 14558127,
+          "note": "Chặn hiệu ứng dùng Deck; giữ extender để không phụ thuộc một lần search."
+        }
+      ],
+      "combos": [
+        {
+          "id": "azamina-basic",
+          "title": "Line cơ bản: Deception of the Sinful Spoils",
+          "turn": "going-first",
+          "difficulty": "intermediate",
+          "illustrative": true,
+          "summary": "Lấy Hallowed Azamina bằng Deception of the Sinful Spoils, dựng Silvia và giữ engine GY để hồi ở lượt sau. Số bài Sinful Spoils cần gửi bằng phần nguyên của Level Fusion chia bốn.",
+          "starterCardIds": [
+            66328392
+          ],
+          "extraHandCardsNeeded": 1,
+          "deckCardIds": [
+            72270339,
+            80845034,
+            94845588,
+            20934683,
+            42201897
+          ],
+          "extraDeckCardIds": [
+            46396218,
+            73391962,
+            9785661,
+            46174776
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "text": "Normal Summon một quái từ tay, Tribute nó cho Deception để lấy Hallowed Azamina.",
+              "cardIds": [
+                66328392,
+                94845588
+              ],
+              "action": "search"
+            },
+            {
+              "order": 2,
+              "text": "Hallowed reveal Ilia Silvia Level 6, gửi một Sinful Spoils face-up (Deception) để Fusion Summon Silvia.",
+              "cardIds": [
+                94845588,
+                66328392,
+                46396218
+              ],
+              "action": "fusion-summon"
+            },
+            {
+              "order": 3,
+              "text": "Giữ Silvia để Tribute negate khi đối thủ kích hoạt bài/hiệu ứng; không dùng negate vào một mồi không đe dọa engine.",
+              "cardIds": [
+                46396218
+              ],
+              "action": "other"
+            }
+          ],
+          "endBoard": {
+            "cardIds": [
+              46396218
+            ],
+            "graveyardCardIds": [],
+            "text": "Silvia có một omni-negate bằng Tribute; cần follow-up riêng để không hết sân sau tương tác.",
+            "interruptions": [
+              "Silvia có một omni-negate bằng Tribute; cần follow-up riêng để không hết sân sau tương tác."
+            ]
+          },
+          "chokePoints": [
+            {
+              "atStep": 1,
+              "cardIds": [
+                10045474
+              ],
+              "text": "Ash/negate vào Deception chặn Hallowed; giữ đường Diabellstar nếu có thể."
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": "MD Guide",
+        "role": "Biên soạn tiếng Việt"
+      },
+      "reviewers": []
+    },
+    {
+      "deckId": "bystial",
+      "reviewStatus": "ai_draft",
+      "summary": "Bystial banish LIGHT/DARK trong GY để gọi Dragon Level 6. Magnamhut lấy Dragon ở End Phase, Druiswurm gửi quái đối thủ khi rời sân vào GY, Lubellion tìm Bystial và đặt Branded Spell/Trap. Engine mạnh khi meta dùng GY LIGHT/DARK.",
+      "playstyle": {
+        "overview": "Bystial banish LIGHT/DARK trong GY để gọi Dragon Level 6. Magnamhut lấy Dragon ở End Phase, Druiswurm gửi quái đối thủ khi rời sân vào GY, Lubellion tìm Bystial và đặt Branded Spell/Trap. Engine mạnh khi meta dùng GY LIGHT/DARK.",
+        "goingFirst": "Lubellion tìm Magnamhut, banish LIGHT/DARK có sẵn để gọi Magnamhut. Tribute Bystial Level 6 để hồi Lubellion rồi đặt Branded Regained/Beast.",
+        "goingSecond": "Chờ quái LIGHT/DARK đối thủ vào GY để Bystial thành hand trap. Druiswurm làm nguyên liệu Link có thể gửi quái Special Summon; đừng banish mất nguyên liệu của chính mình.",
+        "tips": [
+          "Hiệu ứng gọi Bystial chỉ là Quick Effect khi đối thủ có quái.",
+          "Magnamhut search ở End Phase.",
+          "Lubellion cần Tribute DARK Dragon Level 6 trở lên để tự gọi từ tay/GY.",
+          "Danh sách mẫu 40 Main / 15 Extra. Điều chỉnh tech theo ladder và kiểm tra banlist đang áp dụng trong game."
+        ]
+      },
+      "strengths": [
+        "Vừa mở engine vừa cắt GY đối thủ.",
+        "Regained/Beast tạo vòng tài nguyên."
+      ],
+      "weaknesses": [
+        "Thiếu mục tiêu LIGHT/DARK khiến tay kẹt.",
+        "Bystial nhỏ không có omni-negate."
+      ],
+      "counters": [
+        {
+          "cardId": 10045474,
+          "note": "Negate/disrupt mục tiêu GY của Magnamhut làm line dừng; cần một LIGHT/DARK có sẵn trong GY."
+        },
+        {
+          "cardId": 14558127,
+          "note": "Chặn hiệu ứng dùng Deck; giữ extender để không phụ thuộc một lần search."
+        }
+      ],
+      "combos": [
+        {
+          "id": "bystial-basic",
+          "title": "Line cơ bản: The Bystial Lubellion",
+          "turn": "going-first",
+          "difficulty": "intermediate",
+          "illustrative": true,
+          "summary": "Lubellion tìm Magnamhut, banish LIGHT/DARK có sẵn để gọi Magnamhut. Tribute Bystial Level 6 để hồi Lubellion rồi đặt Branded Regained/Beast.",
+          "starterCardIds": [
+            32731036
+          ],
+          "extraHandCardsNeeded": 1,
+          "deckCardIds": [
+            33854624,
+            6637331,
+            60242223,
+            72656408,
+            34090915,
+            32756828
+          ],
+          "extraDeckCardIds": [
+            27572350,
+            24361622,
+            29301450
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "text": "Discard Lubellion, search Magnamhut.",
+              "cardIds": [
+                32731036,
+                33854624
+              ],
+              "action": "search"
+            },
+            {
+              "order": 2,
+              "text": "Nếu đã có một LIGHT/DARK khác trong GY, Magnamhut banish mục tiêu đó để tự gọi; giữ Lubellion trong GY.",
+              "cardIds": [
+                33854624,
+                32731036
+              ],
+              "action": "special-summon"
+            },
+            {
+              "order": 3,
+              "text": "Tribute Magnamhut để gọi Lubellion từ GY, đặt Branded Beast; Magnamhut đã resolve sẽ search Dragon ở End Phase.",
+              "cardIds": [
+                32731036,
+                33854624,
+                32756828
+              ],
+              "action": "activate-effect"
+            }
+          ],
+          "endBoard": {
+            "cardIds": [
+              32731036,
+              32756828
+            ],
+            "graveyardCardIds": [],
+            "text": "Lubellion và Beast; Beast có thể Tribute Dragon để phá bài trong Main Phase khi điều kiện Bystial được thỏa.",
+            "interruptions": [
+              "Lubellion và Beast; Beast có thể Tribute Dragon để phá bài trong Main Phase khi điều kiện Bystial được thỏa."
+            ]
+          },
+          "chokePoints": [
+            {
+              "atStep": 1,
+              "cardIds": [
+                10045474
+              ],
+              "text": "Negate/disrupt mục tiêu GY của Magnamhut làm line dừng; cần một LIGHT/DARK có sẵn trong GY."
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": "MD Guide",
+        "role": "Biên soạn tiếng Việt"
+      },
+      "reviewers": []
+    },
+    {
+      "deckId": "kashtira",
+      "reviewStatus": "ai_draft",
+      "summary": "Kashtira tự gọi Level 7 khi sân trống, tìm quái/Spell/Trap và banish face-down tài nguyên đối thủ. Unicorn tìm Theosis, Riseheart điều chỉnh Level, Shangri-Ira khóa ô và Arise-Heart biến bài gửi GY thành banish.",
+      "playstyle": {
+        "overview": "Kashtira tự gọi Level 7 khi sân trống, tìm quái/Spell/Trap và banish face-down tài nguyên đối thủ. Unicorn tìm Theosis, Riseheart điều chỉnh Level, Shangri-Ira khóa ô và Arise-Heart biến bài gửi GY thành banish.",
+        "goingFirst": "Unicorn lấy Theosis, Theosis gọi Fenrir ở Defense, Fenrir lấy Riseheart. Dựng Shangri-Ira trước khi Riseheart banish face-down để bật điều kiện overlay Arise-Heart.",
+        "goingSecond": "Fenrir banish face-down bài face-up đối thủ sau khi đúng trigger. Dùng Birth để hồi quái đã banish; giữ Theosis vì nó khóa Xyz sau resolve.",
+        "tips": [
+          "Riseheart chỉ tự gọi nếu điều khiển Kashtira.",
+          "Arise-Heart overlay một Kashtira khi Shangri-Ira đã kích hoạt hiệu ứng lượt đó.",
+          "Theosis gọi quái khác thuộc tính và ở Defense Position.",
+          "Danh sách mẫu 40 Main / 15 Extra. Điều chỉnh tech theo ladder và kiểm tra banlist đang áp dụng trong game."
+        ]
+      },
+      "strengths": [
+        "Banish face-down khó hồi tài nguyên.",
+        "Có thể mở mà không cần Normal Summon."
+      ],
+      "weaknesses": [
+        "Board dễ bị tribute/board breaker.",
+        "Khóa Xyz và điều kiện sân trống hạn chế nối engine."
+      ],
+      "counters": [
+        {
+          "cardId": 10045474,
+          "note": "Negate Unicorn hoặc Ash Theosis làm thiếu hai Level 7; giữ Birth để hồi nguyên liệu."
+        },
+        {
+          "cardId": 14558127,
+          "note": "Chặn hiệu ứng dùng Deck; giữ extender để không phụ thuộc một lần search."
+        }
+      ],
+      "combos": [
+        {
+          "id": "kashtira-basic",
+          "title": "Line cơ bản: Kashtira Unicorn",
+          "turn": "going-first",
+          "difficulty": "intermediate",
+          "illustrative": true,
+          "summary": "Unicorn lấy Theosis, Theosis gọi Fenrir ở Defense, Fenrir lấy Riseheart. Dựng Shangri-Ira trước khi Riseheart banish face-down để bật điều kiện overlay Arise-Heart.",
+          "starterCardIds": [
+            68304193
+          ],
+          "extraHandCardsNeeded": 0,
+          "deckCardIds": [
+            32909498,
+            31149212,
+            34447918,
+            69540484,
+            33925864
+          ],
+          "extraDeckCardIds": [
+            73542331,
+            48626373,
+            80117527,
+            90448279
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "text": "Tự gọi Unicorn, search Theosis; Theosis gọi Fenrir khác thuộc tính.",
+              "cardIds": [
+                68304193,
+                34447918,
+                32909498
+              ],
+              "action": "search"
+            },
+            {
+              "order": 2,
+              "text": "Fenrir search Riseheart; tự gọi Riseheart rồi Xyz Unicorn/Fenrir thành Shangri-Ira.",
+              "cardIds": [
+                32909498,
+                31149212,
+                73542331
+              ],
+              "action": "xyz-summon"
+            },
+            {
+              "order": 3,
+              "text": "Riseheart banish Kashtira từ Deck để banish ba bài đỉnh Deck đối thủ face-down, Shangri-Ira kích hoạt khóa ô.",
+              "cardIds": [
+                31149212,
+                73542331
+              ],
+              "action": "activate-effect"
+            },
+            {
+              "order": 4,
+              "text": "Sau khi Shangri-Ira đã kích hoạt, overlay Arise-Heart lên Riseheart.",
+              "cardIds": [
+                31149212,
+                48626373
+              ],
+              "action": "xyz-summon"
+            }
+          ],
+          "endBoard": {
+            "cardIds": [
+              73542331,
+              48626373
+            ],
+            "graveyardCardIds": [],
+            "text": "Shangri-Ira và Arise-Heart tạo áp lực banish; Arise-Heart chưa chắc đủ ba nguyên liệu để dùng Quick Effect ngay.",
+            "interruptions": [
+              "Shangri-Ira và Arise-Heart tạo áp lực banish; Arise-Heart chưa chắc đủ ba nguyên liệu để dùng Quick Effect ngay."
+            ]
+          },
+          "chokePoints": [
+            {
+              "atStep": 1,
+              "cardIds": [
+                10045474
+              ],
+              "text": "Negate Unicorn hoặc Ash Theosis làm thiếu hai Level 7; giữ Birth để hồi nguyên liệu."
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": "MD Guide",
+        "role": "Biên soạn tiếng Việt"
+      },
+      "reviewers": []
+    },
+    {
+      "deckId": "fur-hire",
+      "reviewStatus": "ai_draft",
+      "summary": "Fur Hire gọi quái từ tay bằng hiệu ứng các thành viên nhỏ, mỗi lần có Fur Hire khác được gọi sẽ tạo thêm search/phá bài. Rex lấy Spell/Trap và Donner đổi quái thành hai Fur Hire để lên Folgo; Folgo rút mạnh khi bài đối thủ bị phá.",
+      "playstyle": {
+        "overview": "Fur Hire gọi quái từ tay bằng hiệu ứng các thành viên nhỏ, mỗi lần có Fur Hire khác được gọi sẽ tạo thêm search/phá bài. Rex lấy Spell/Trap và Donner đổi quái thành hai Fur Hire để lên Folgo; Folgo rút mạnh khi bài đối thủ bị phá.",
+        "goingFirst": "Rex tìm Rookie, Beat gọi quái từ tay rồi search, dựng ba quái khác Type cho Folgo. Giữ Donpa hoặc Recon để trigger phá bài trong lượt đối thủ.",
+        "goingSecond": "Donpa phá face-up, Recon phá bài úp; gọi thêm Fur Hire để kích hoạt. Folgo rút ba lá khi đủ ba Fur Hire khác tên và bài đối thủ bị phá.",
+        "tips": [
+          "Folgo cần ba quái khác Type.",
+          "Donner chỉ gọi hai khi đủ điều kiện tên khác nhau.",
+          "Hiệu ứng gọi từ tay cần có quái Fur Hire trên tay.",
+          "Danh sách mẫu 40 Main / 15 Extra. Điều chỉnh tech theo ladder và kiểm tra banlist đang áp dụng trong game."
+        ]
+      },
+      "strengths": [
+        "Nhiều trigger từ một lần gọi quái.",
+        "Folgo tạo lợi thế tay lớn."
+      ],
+      "weaknesses": [
+        "Normal Summon đầu dễ bị negate.",
+        "Cần nhiều tên/Type khác nhau cho Folgo."
+      ],
+      "counters": [
+        {
+          "cardId": 10045474,
+          "note": "Negate Beat trước khi gọi Rex làm line mất extender; Rex Normal là đường mở khác."
+        },
+        {
+          "cardId": 14558127,
+          "note": "Chặn hiệu ứng dùng Deck; giữ extender để không phụ thuộc một lần search."
+        }
+      ],
+      "combos": [
+        {
+          "id": "fur-hire-basic",
+          "title": "Line cơ bản: Beat, Bladesman Fur Hire",
+          "turn": "going-first",
+          "difficulty": "intermediate",
+          "illustrative": true,
+          "summary": "Rex tìm Rookie, Beat gọi quái từ tay rồi search, dựng ba quái khác Type cho Folgo. Giữ Donpa hoặc Recon để trigger phá bài trong lượt đối thủ.",
+          "starterCardIds": [
+            93850652,
+            28004531,
+            94073244
+          ],
+          "extraHandCardsNeeded": 0,
+          "deckCardIds": [
+            31467949,
+            20345391,
+            48214588,
+            91405870
+          ],
+          "extraDeckCardIds": [
+            8728498,
+            66023650,
+            29301450
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "text": "Normal Summon Beat, dùng hiệu ứng gọi Rex từ tay.",
+              "cardIds": [
+                93850652,
+                28004531
+              ],
+              "action": "special-summon"
+            },
+            {
+              "order": 2,
+              "text": "Rex search Rookie; Beat search Seal khi Rex được gọi.",
+              "cardIds": [
+                28004531,
+                48214588,
+                93850652,
+                20345391
+              ],
+              "action": "search"
+            },
+            {
+              "order": 3,
+              "text": "Rex gọi Donpa từ tay; ba quái Warrior/Dinosaur/Beast khác Type Link thành Folgo.",
+              "cardIds": [
+                28004531,
+                94073244,
+                93850652,
+                66023650
+              ],
+              "action": "link-summon"
+            },
+            {
+              "order": 4,
+              "text": "Folgo gọi một Fur Hire có Type khác các nguyên liệu đã dùng từ Deck ở Defense Position.",
+              "cardIds": [
+                66023650,
+                20345391
+              ],
+              "action": "special-summon"
+            }
+          ],
+          "endBoard": {
+            "cardIds": [
+              66023650,
+              20345391
+            ],
+            "graveyardCardIds": [],
+            "text": "Folgo và Seal chuẩn bị hồi tài nguyên; cần thêm summon/phá bài để bật hiệu ứng rút của Folgo.",
+            "interruptions": [
+              "Folgo và Seal chuẩn bị hồi tài nguyên; cần thêm summon/phá bài để bật hiệu ứng rút của Folgo."
+            ]
+          },
+          "chokePoints": [
+            {
+              "atStep": 1,
+              "cardIds": [
+                10045474
+              ],
+              "text": "Negate Beat trước khi gọi Rex làm line mất extender; Rex Normal là đường mở khác."
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": "MD Guide",
+        "role": "Biên soạn tiếng Việt"
+      },
+      "reviewers": []
+    },
+    {
+      "deckId": "ddd",
+      "reviewStatus": "ai_draft",
+      "summary": "D/D/D phối hợp Fusion, Synchro, Xyz và Pendulum. Kepler tìm Gate, Gate lấy engine, Gilgamesh đặt scale từ Deck và khóa D/D. Gryphon nối search, Machinex thu quái đối thủ làm nguyên liệu bằng tài nguyên Dark Contract.",
+      "playstyle": {
+        "overview": "D/D/D phối hợp Fusion, Synchro, Xyz và Pendulum. Kepler tìm Gate, Gate lấy engine, Gilgamesh đặt scale từ Deck và khóa D/D. Gryphon nối search, Machinex thu quái đối thủ làm nguyên liệu bằng tài nguyên Dark Contract.",
+        "goingFirst": "Mở Kepler/Gate để lấy Gryphon hoặc Slime; dựng Gilgamesh, đặt scale rồi Pendulum đúng ô. Giữ Dark Contract cho cost Machinex và để ý damage Standby Phase.",
+        "goingSecond": "Dùng nhiều kiểu summon để vượt một negate, nhưng khóa D/D của Gilgamesh khiến Extra Deck ngoài engine không dùng được. Machinex xử lý quái đang kích hoạt bằng absorb.",
+        "tips": [
+          "Gilgamesh đặt scale trả 1000 LP.",
+          "Pendulum từ Extra Deck face-up cần ô Link trỏ tới.",
+          "Gryphon search khi được gọi từ GY, không phải mọi summon.",
+          "Danh sách mẫu 40 Main / 15 Extra. Điều chỉnh tech theo ladder và kiểm tra banlist đang áp dụng trong game."
+        ]
+      },
+      "strengths": [
+        "Engine search nhiều lớp.",
+        "Machinex có tương tác hút quái."
+      ],
+      "weaknesses": [
+        "Combo dài và dễ sai khóa triệu hồi.",
+        "Dark Contract gây damage nếu kéo trận."
+      ],
+      "counters": [
+        {
+          "cardId": 10045474,
+          "note": "Negate Kepler/Gate chặn Gryphon; Slime trên tay là hướng Fusion độc lập."
+        },
+        {
+          "cardId": 14558127,
+          "note": "Chặn hiệu ứng dùng Deck; giữ extender để không phụ thuộc một lần search."
+        }
+      ],
+      "combos": [
+        {
+          "id": "ddd-basic",
+          "title": "Line cơ bản: D/D Savant Kepler",
+          "turn": "going-first",
+          "difficulty": "advanced",
+          "illustrative": true,
+          "summary": "Mở Kepler/Gate để lấy Gryphon hoặc Slime; dựng Gilgamesh, đặt scale rồi Pendulum đúng ô. Giữ Dark Contract cho cost Machinex và để ý damage Standby Phase.",
+          "starterCardIds": [
+            11609969
+          ],
+          "extraHandCardsNeeded": 0,
+          "deckCardIds": [
+            28406301,
+            45206713,
+            72291412,
+            19580308,
+            46372010,
+            46796664
+          ],
+          "extraDeckCardIds": [
+            9024198,
+            74583607,
+            46593546,
+            3758046
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "text": "Normal Summon Kepler, search Gate; Gate search Gryphon.",
+              "cardIds": [
+                11609969,
+                46372010,
+                28406301
+              ],
+              "action": "search"
+            },
+            {
+              "order": 2,
+              "text": "Gryphon tự gọi khi có Kepler, Link hai D/D thành Gilgamesh.",
+              "cardIds": [
+                28406301,
+                11609969,
+                9024198
+              ],
+              "action": "link-summon"
+            },
+            {
+              "order": 3,
+              "text": "Gilgamesh trả 1000 LP đặt hai scale D/D khác tên từ Deck; có thể overlay Machinex lên Gilgamesh nếu chọn board tối giản.",
+              "cardIds": [
+                9024198,
+                46593546
+              ],
+              "action": "xyz-summon"
+            }
+          ],
+          "endBoard": {
+            "cardIds": [
+              46593546,
+              46372010
+            ],
+            "graveyardCardIds": [],
+            "text": "Machinex và Gate tạo một lượt absorb bằng phá Dark Contract, sau đó cần thêm tài nguyên để duy trì.",
+            "interruptions": [
+              "Machinex và Gate tạo một lượt absorb bằng phá Dark Contract, sau đó cần thêm tài nguyên để duy trì."
+            ]
+          },
+          "chokePoints": [
+            {
+              "atStep": 1,
+              "cardIds": [
+                10045474
+              ],
+              "text": "Negate Kepler/Gate chặn Gryphon; Slime trên tay là hướng Fusion độc lập."
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": "MD Guide",
+        "role": "Biên soạn tiếng Việt"
+      },
+      "reviewers": []
+    },
+    {
+      "deckId": "magical-musket",
+      "reviewStatus": "ai_draft",
+      "summary": "Magical Musket kích hoạt Spell/Trap từ tay trong cả hai lượt khi có Musketeer. Spell/Trap trong cùng cột với Caspar/Starfire tạo search hoặc gọi quái; Max biến board đối thủ đông thành lợi thế bài.",
+      "playstyle": {
+        "overview": "Magical Musket kích hoạt Spell/Trap từ tay trong cả hai lượt khi có Musketeer. Spell/Trap trong cùng cột với Caspar/Starfire tạo search hoặc gọi quái; Max biến board đối thủ đông thành lợi thế bài.",
+        "goingFirst": "Giữ Caspar với Cross-Domination/Desperado trên tay, kích hoạt cùng cột để vừa tương tác vừa search. Không úp tất cả bài nếu muốn giữ tốc độ phản ứng từ tay.",
+        "goingSecond": "Link Musketeer thành Max; tùy số quái hoặc Spell/Trap đối thủ, gọi thêm Musketeer hoặc lấy nhiều Musket. Chọn cột để không tự bỏ trigger Caspar.",
+        "tips": [
+          "Caspar không lấy lá trùng tên lá vừa kích hoạt.",
+          "Max bị Ash/Imperm có thể mất cả lượt mở board.",
+          "Dancing Needle tác động cả hai GY.",
+          "Danh sách mẫu 40 Main / 15 Extra. Điều chỉnh tech theo ladder và kiểm tra banlist đang áp dụng trong game."
+        ]
+      },
+      "strengths": [
+        "Spell/Trap từ tay khó bị quét trước khi dùng.",
+        "Max rất mạnh khi đối thủ có nhiều bài."
+      ],
+      "weaknesses": [
+        "Cần Musketeer trên sân để bật bài trên tay.",
+        "Quái bị negate làm engine phản ứng suy yếu."
+      ],
+      "counters": [
+        {
+          "cardId": 10045474,
+          "note": "Negate hoặc loại Caspar trước khi bài từ tay kích hoạt làm engine mất điều kiện."
+        },
+        {
+          "cardId": 14558127,
+          "note": "Chặn hiệu ứng dùng Deck; giữ extender để không phụ thuộc một lần search."
+        }
+      ],
+      "combos": [
+        {
+          "id": "magical-musket-basic",
+          "title": "Line cơ bản: Magical Musketeer Caspar",
+          "turn": "going-first",
+          "difficulty": "intermediate",
+          "illustrative": true,
+          "summary": "Giữ Caspar với Cross-Domination/Desperado trên tay, kích hoạt cùng cột để vừa tương tác vừa search. Không úp tất cả bài nếu muốn giữ tốc độ phản ứng từ tay.",
+          "starterCardIds": [
+            32841045,
+            93356623
+          ],
+          "extraHandCardsNeeded": 0,
+          "deckCardIds": [
+            31629407,
+            68246154,
+            20745268,
+            29628180,
+            66149377
+          ],
+          "extraDeckCardIds": [
+            71791814,
+            29301450,
+            2463794
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "text": "Normal Summon Caspar, giữ Cross-Domination trên tay.",
+              "cardIds": [
+                32841045,
+                93356623
+              ],
+              "action": "normal-summon"
+            },
+            {
+              "order": 2,
+              "text": "Trong lượt đối thủ khi có quái face-up hợp lệ, kích hoạt Cross-Domination từ tay ở cột Caspar để negate và giảm ATK/DEF về 0.",
+              "cardIds": [
+                93356623,
+                32841045
+              ],
+              "action": "activate-effect"
+            },
+            {
+              "order": 3,
+              "text": "Caspar search Desperado khác tên lá vừa kích hoạt, giữ để xử lý bài tiếp theo.",
+              "cardIds": [
+                32841045,
+                20745268
+              ],
+              "action": "search"
+            }
+          ],
+          "endBoard": {
+            "cardIds": [
+              32841045
+            ],
+            "graveyardCardIds": [],
+            "text": "Caspar trên sân, Cross-Domination đã dùng và Desperado trên tay tạo tương tác kế tiếp.",
+            "interruptions": [
+              "Caspar trên sân, Cross-Domination đã dùng và Desperado trên tay tạo tương tác kế tiếp."
+            ]
+          },
+          "chokePoints": [
+            {
+              "atStep": 1,
+              "cardIds": [
+                10045474
+              ],
+              "text": "Negate hoặc loại Caspar trước khi bài từ tay kích hoạt làm engine mất điều kiện."
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": "MD Guide",
+        "role": "Biên soạn tiếng Việt"
+      },
+      "reviewers": []
+    },
+    {
+      "deckId": "synchrons",
+      "reviewStatus": "ai_draft",
+      "summary": "Synchrons dùng Junk Synchron hồi Level 2 để lên Junk Speeder, rồi Speeder gọi nhiều Synchron Tuner khác Level. Deck cần tính tổng Level và khóa Synchro để nối boss, thay vì triệu hồi mọi Tuner mà không có non-Tuner.",
+      "playstyle": {
+        "overview": "Synchrons dùng Junk Synchron hồi Level 2 để lên Junk Speeder, rồi Speeder gọi nhiều Synchron Tuner khác Level. Deck cần tính tổng Level và khóa Synchro để nối boss, thay vì triệu hồi mọi Tuner mà không có non-Tuner.",
+        "goingFirst": "Chuẩn bị quái Level 2 trong GY, Junk Synchron hồi nó rồi dựng Speeder. Gọi Synchron có Level khác nhau, giữ non-Tuner trên sân để tiếp tục Synchro.",
+        "goingSecond": "Dùng Synchro Overtake và các extender để chơi qua negate; Speeder bị chặn thì chuyển sang Accel Synchro nếu đủ Level. Không đánh đổi toàn bộ tài nguyên vào một hiệu ứng.",
+        "tips": [
+          "Speeder khóa Extra Deck Synchro cả lượt dùng hiệu ứng.",
+          "Synchron gọi từ Deck phải khác Level.",
+          "Junk Synchron hồi quái ở Defense và negate hiệu ứng quái đó.",
+          "Danh sách mẫu 40 Main / 15 Extra. Điều chỉnh tech theo ladder và kiểm tra banlist đang áp dụng trong game."
+        ]
+      },
+      "strengths": [
+        "Speeder tạo nhiều Tuner từ một summon.",
+        "Có thể linh hoạt tổng Level và boss."
+      ],
+      "weaknesses": [
+        "Speeder là choke point rất rõ.",
+        "Combo dài dễ bị Nibiru khi chưa có bảo vệ."
+      ],
+      "counters": [
+        {
+          "cardId": 10045474,
+          "note": "Imperm/Ash vào Speeder làm mất Tuner Deck; bảo vệ hiệu ứng này hoặc giữ extender."
+        },
+        {
+          "cardId": 14558127,
+          "note": "Chặn hiệu ứng dùng Deck; giữ extender để không phụ thuộc một lần search."
+        }
+      ],
+      "combos": [
+        {
+          "id": "synchrons-basic",
+          "title": "Line cơ bản: Junk Synchron",
+          "turn": "going-first",
+          "difficulty": "advanced",
+          "illustrative": true,
+          "summary": "Chuẩn bị quái Level 2 trong GY, Junk Synchron hồi nó rồi dựng Speeder. Gọi Synchron có Level khác nhau, giữ non-Tuner trên sân để tiếp tục Synchro.",
+          "starterCardIds": [
+            63977008
+          ],
+          "extraHandCardsNeeded": 1,
+          "deckCardIds": [
+            53855409,
+            9742784,
+            37799519,
+            60283232,
+            96363153,
+            99243014
+          ],
+          "extraDeckCardIds": [
+            77075360,
+            37675907,
+            30983281,
+            44508094,
+            35952884
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "text": "Điều kiện: có một non-Tuner Level 2 trong GY. Normal Summon Junk Synchron, hồi quái đó ở Defense.",
+              "cardIds": [
+                63977008,
+                53855409
+              ],
+              "action": "special-summon"
+            },
+            {
+              "order": 2,
+              "text": "Junk Level 3 và quái hồi Level 2 Synchro Junk Speeder.",
+              "cardIds": [
+                63977008,
+                77075360
+              ],
+              "action": "synchro-summon"
+            },
+            {
+              "order": 3,
+              "text": "Speeder gọi Jet Level 1 và Stardust Synchron Level 4 từ Deck ở Defense; tiếp tục chỉ khi có non-Tuner phù hợp.",
+              "cardIds": [
+                77075360,
+                9742784,
+                37799519
+              ],
+              "action": "special-summon"
+            }
+          ],
+          "endBoard": {
+            "cardIds": [
+              77075360,
+              9742784,
+              37799519
+            ],
+            "graveyardCardIds": [],
+            "text": "Speeder cùng hai Tuner là điểm nối Synchro, chưa phải Quasar; cần thêm non-Tuner và extender cho full board.",
+            "interruptions": [
+              "Speeder cùng hai Tuner là điểm nối Synchro, chưa phải Quasar; cần thêm non-Tuner và extender cho full board."
+            ]
+          },
+          "chokePoints": [
+            {
+              "atStep": 1,
+              "cardIds": [
+                10045474
+              ],
+              "text": "Imperm/Ash vào Speeder làm mất Tuner Deck; bảo vệ hiệu ứng này hoặc giữ extender."
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": "MD Guide",
+        "role": "Biên soạn tiếng Việt"
+      },
+      "reviewers": []
+    },
+    {
+      "deckId": "lunalight",
+      "reviewStatus": "ai_draft",
+      "summary": "Lunalight dùng Kaleido Chick gửi Fusion từ Extra Deck để thay tên nguyên liệu, Tiger hồi quái và Wolf Fusion bằng banish. Leo Dancer đánh hai lần, bảo vệ khỏi target/destruction; support mới tăng khả năng hồi và nối Fusion.",
+      "playstyle": {
+        "overview": "Lunalight dùng Kaleido Chick gửi Fusion từ Extra Deck để thay tên nguyên liệu, Tiger hồi quái và Wolf Fusion bằng banish. Leo Dancer đánh hai lần, bảo vệ khỏi target/destruction; support mới tăng khả năng hồi và nối Fusion.",
+        "goingFirst": "Xây GY bằng Chick, Tiger hồi nguyên liệu, giữ Wolf trong Pendulum Zone cho Fusion. Đi trước ưu tiên tài nguyên và tương tác phụ thay vì chỉ dựng quái để đánh.",
+        "goingSecond": "Chick thay tên Panther Dancer trong lượt đó, Wolf banish Chick và hai Lunalight khác để gọi Leo Dancer. Mở board trước Battle Phase để Leo dọn quái Special Summon sau một lần đánh.",
+        "tips": [
+          "Chick gửi Extra Deck làm cost, không Fusion ngay.",
+          "Wolf yêu cầu đúng nguyên liệu và banish từ sân/GY.",
+          "Tiger hồi quái nhưng negate hiệu ứng và có điều kiện phá ở End Phase.",
+          "Danh sách mẫu 40 Main / 15 Extra. Điều chỉnh tech theo ladder và kiểm tra banlist đang áp dụng trong game."
+        ]
+      },
+      "strengths": [
+        "Boss Fusion mạnh về battle.",
+        "Tiger và Perfume tái sử dụng GY."
+      ],
+      "weaknesses": [
+        "Chick bị negate làm mất tên nguyên liệu.",
+        "Banish GY cắt line Wolf."
+      ],
+      "counters": [
+        {
+          "cardId": 10045474,
+          "note": "Negate Chick trước khi dùng hiệu ứng làm mất tên Panther; giữ Fusion Spell hoặc nguyên liệu thật."
+        },
+        {
+          "cardId": 14558127,
+          "note": "Chặn hiệu ứng dùng Deck; giữ extender để không phụ thuộc một lần search."
+        }
+      ],
+      "combos": [
+        {
+          "id": "lunalight-basic",
+          "title": "Line cơ bản: Lunalight Kaleido Chick",
+          "turn": "going-second",
+          "difficulty": "intermediate",
+          "illustrative": true,
+          "summary": "Chick thay tên Panther Dancer trong lượt đó, Wolf banish Chick và hai Lunalight khác để gọi Leo Dancer. Mở board trước Battle Phase để Leo dọn quái Special Summon sau một lần đánh.",
+          "starterCardIds": [
+            35618217,
+            47705572
+          ],
+          "extraHandCardsNeeded": 2,
+          "deckCardIds": [
+            83190280,
+            50546208,
+            11317977,
+            48444114,
+            87931906
+          ],
+          "extraDeckCardIds": [
+            97165977,
+            24550676,
+            88753594,
+            54701958
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "text": "Normal Summon Chick; gửi Panther Dancer từ Extra Deck vào GY, Chick mang tên Panther Dancer khi dùng Fusion Material lượt này.",
+              "cardIds": [
+                35618217,
+                97165977
+              ],
+              "action": "activate-effect"
+            },
+            {
+              "order": 2,
+              "text": "Đặt Wolf vào Pendulum Zone. Điều kiện thêm: có hai Lunalight khác ở sân/GY.",
+              "cardIds": [
+                47705572,
+                50546208,
+                11317977
+              ],
+              "action": "other"
+            },
+            {
+              "order": 3,
+              "text": "Wolf Fusion Leo Dancer bằng banish Chick đang mang tên Panther và hai Lunalight khác.",
+              "cardIds": [
+                47705572,
+                35618217,
+                24550676
+              ],
+              "action": "fusion-summon"
+            },
+            {
+              "order": 4,
+              "text": "Leo Dancer vào Battle Phase, đánh quái; sau damage của lần đánh quái đầu tiên có thể phá tất cả quái Special Summon đối thủ.",
+              "cardIds": [
+                24550676
+              ],
+              "action": "activate-effect"
+            }
+          ],
+          "endBoard": {
+            "cardIds": [
+              24550676
+            ],
+            "graveyardCardIds": [],
+            "text": "Leo Dancer có hai lần tấn công; OTK còn phụ thuộc ATK/LP và board đối thủ, không bảo đảm chỉ từ hai lá starter.",
+            "interruptions": [
+              "Leo Dancer có hai lần tấn công; OTK còn phụ thuộc ATK/LP và board đối thủ, không bảo đảm chỉ từ hai lá starter."
+            ]
+          },
+          "chokePoints": [
+            {
+              "atStep": 1,
+              "cardIds": [
+                10045474
+              ],
+              "text": "Negate Chick trước khi dùng hiệu ứng làm mất tên Panther; giữ Fusion Spell hoặc nguyên liệu thật."
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": "MD Guide",
+        "role": "Biên soạn tiếng Việt"
+      },
+      "reviewers": []
+    },
+    {
+      "deckId": "cyber-dragon",
+      "reviewStatus": "ai_draft",
+      "summary": "Cyber Dragon đi sau dùng Core tìm Spell, Machine Duplication gọi hai Cyber Dragon và contact Fusion để dọn Machine hoặc quái ở Extra Monster Zone. Rampage Dragon phá Spell/Trap và có thể đánh ba lần sau gửi LIGHT Machine từ Deck.",
+      "playstyle": {
+        "overview": "Cyber Dragon đi sau dùng Core tìm Spell, Machine Duplication gọi hai Cyber Dragon và contact Fusion để dọn Machine hoặc quái ở Extra Monster Zone. Rampage Dragon phá Spell/Trap và có thể đánh ba lần sau gửi LIGHT Machine từ Deck.",
+        "goingFirst": "Đi trước ưu tiên Infinity để negate và giữ tài nguyên. Core tìm Cyber Emergency/Repair Plant, nhưng không coi contact Fusion là tương tác trong lượt đối thủ.",
+        "goingSecond": "Core hoặc Cyber Dragon dùng với Overload/Cyberload để gọi Rampage. Megafleet xử lý quái Extra Monster Zone; Fortress cần quái Machine face-up và Cyber Dragon phù hợp.",
+        "tips": [
+          "Core chỉ đổi tên thành Cyber Dragon ở sân/GY.",
+          "Duplication cần target Machine ATK 500 trở xuống.",
+          "Rampage gửi tối đa hai LIGHT Machine để tăng số lần đánh.",
+          "Danh sách mẫu 40 Main / 15 Extra. Điều chỉnh tech theo ladder và kiểm tra banlist đang áp dụng trong game."
+        ]
+      },
+      "strengths": [
+        "Contact Fusion vượt nhiều dạng bảo vệ.",
+        "Rampage tạo áp lực OTK."
+      ],
+      "weaknesses": [
+        "Nhiều starter phụ thuộc Normal Summon.",
+        "OTK yếu nếu Rampage bị negate hoặc Battle Phase bị chặn."
+      ],
+      "counters": [
+        {
+          "cardId": 10045474,
+          "note": "Negate Core không tự làm mất tên nhưng Ash vào Duplication chặn hai nguyên liệu Rank 5."
+        },
+        {
+          "cardId": 14558127,
+          "note": "Chặn hiệu ứng dùng Deck; giữ extender để không phụ thuộc một lần search."
+        }
+      ],
+      "combos": [
+        {
+          "id": "cyber-dragon-basic",
+          "title": "Line cơ bản: Cyber Dragon Core",
+          "turn": "going-first",
+          "difficulty": "intermediate",
+          "illustrative": true,
+          "summary": "Đi trước ưu tiên Infinity để negate và giữ tài nguyên. Core tìm Cyber Emergency/Repair Plant, nhưng không coi contact Fusion là tương tác trong lượt đối thủ.",
+          "starterCardIds": [
+            23893227,
+            63995093
+          ],
+          "extraHandCardsNeeded": 0,
+          "deckCardIds": [
+            70095154,
+            56364287,
+            1142880,
+            60600126,
+            3659803
+          ],
+          "extraDeckCardIds": [
+            58069384,
+            10443957,
+            84058253,
+            87116928,
+            79229522
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "text": "Normal Summon Core, search Cyber Emergency.",
+              "cardIds": [
+                23893227,
+                60600126
+              ],
+              "action": "search"
+            },
+            {
+              "order": 2,
+              "text": "Machine Duplication target Core đang tên Cyber Dragon, gọi hai Cyber Dragon từ Deck.",
+              "cardIds": [
+                63995093,
+                23893227,
+                70095154
+              ],
+              "action": "special-summon"
+            },
+            {
+              "order": 3,
+              "text": "Xyz hai Cyber Dragon Level 5 thành Nova, overlay Infinity lên Nova.",
+              "cardIds": [
+                70095154,
+                58069384,
+                10443957
+              ],
+              "action": "xyz-summon"
+            }
+          ],
+          "endBoard": {
+            "cardIds": [
+              23893227,
+              10443957
+            ],
+            "graveyardCardIds": [],
+            "text": "Infinity có nguyên liệu để negate một bài/hiệu ứng; Core và Spell search chuẩn bị lượt sau.",
+            "interruptions": [
+              "Infinity có nguyên liệu để negate một bài/hiệu ứng; Core và Spell search chuẩn bị lượt sau."
+            ]
+          },
+          "chokePoints": [
+            {
+              "atStep": 1,
+              "cardIds": [
+                10045474
+              ],
+              "text": "Negate Core không tự làm mất tên nhưng Ash vào Duplication chặn hai nguyên liệu Rank 5."
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": "MD Guide",
+        "role": "Biên soạn tiếng Việt"
+      },
+      "reviewers": []
+    },
+    {
+      "deckId": "heroes",
+      "reviewStatus": "ai_draft",
+      "summary": "HERO dùng Faris/Increase/Vyon mở Fusion, Stratos tìm quái và Malicious hồi tài nguyên. Dark Law banish bài đối thủ thay GY; Destroyer Phoenix Enforcer tạo phá bài mỗi lượt. Nhiều khóa chỉ HERO khiến thứ tự summon rất quan trọng.",
+      "playstyle": {
+        "overview": "HERO dùng Faris/Increase/Vyon mở Fusion, Stratos tìm quái và Malicious hồi tài nguyên. Dark Law banish bài đối thủ thay GY; Destroyer Phoenix Enforcer tạo phá bài mỗi lượt. Nhiều khóa chỉ HERO khiến thứ tự summon rất quan trọng.",
+        "goingFirst": "Faris đưa Increase vào Spell/Trap Zone, Increase Tribute Faris để gọi Vyon, Vyon gửi Malicious và lấy Polymerization. Giữ Mask Change cho Dark Law thay vì dùng hết Spell.",
+        "goingSecond": "Trinity tăng damage và đánh nhiều quái, Sunrise tìm Miracle Fusion. DPE phá tài nguyên đối thủ, nhưng phải có đúng Destiny HERO Material và tuân khóa Fusion Destiny.",
+        "tips": [
+          "Faris cần discard HERO khác.",
+          "Increase phải Tribute HERO để tự gọi và gọi Vyon.",
+          "Fusion Destiny khóa DARK HERO sau resolve.",
+          "Danh sách mẫu 40 Main / 15 Extra. Điều chỉnh tech theo ladder và kiểm tra banlist đang áp dụng trong game."
+        ]
+      },
+      "strengths": [
+        "Engine có nhiều search và hồi quái.",
+        "Dark Law tạo áp lực GY rất lớn."
+      ],
+      "weaknesses": [
+        "Combo dùng nhiều summon, dễ ăn Nibiru.",
+        "Negate Vyon/Increase có thể mất đường Fusion."
+      ],
+      "counters": [
+        {
+          "cardId": 10045474,
+          "note": "Negate Increase trước khi gọi Vyon cắt Polymerization; Stratos là starter dự phòng."
+        },
+        {
+          "cardId": 14558127,
+          "note": "Chặn hiệu ứng dùng Deck; giữ extender để không phụ thuộc một lần search."
+        }
+      ],
+      "combos": [
+        {
+          "id": "heroes-basic",
+          "title": "Line cơ bản: Vision HERO Faris",
+          "turn": "going-first",
+          "difficulty": "intermediate",
+          "illustrative": true,
+          "summary": "Faris + Malicious nối Increase/Vyon, gửi Denier và lấy Polymerization để kết thúc bằng Destroyer Phoenix Enforcer.",
+          "starterCardIds": [
+            18094166,
+            9411399
+          ],
+          "extraHandCardsNeeded": 0,
+          "deckCardIds": [
+            22865492,
+            27780618,
+            40044918,
+            21143940,
+            24094653,
+            52947044,
+            16605586
+          ],
+          "extraDeckCardIds": [
+            58481572,
+            60461804,
+            22908820,
+            46759931,
+            58004362
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "text": "Discard Malicious để Special Summon Faris; Faris đặt Increase từ Deck vào Spell/Trap Zone.",
+              "cardIds": [
+                18094166,
+                9411399,
+                22865492
+              ],
+              "action": "activate-effect"
+            },
+            {
+              "order": 2,
+              "text": "Increase Tribute Faris để tự gọi, sau đó gọi Vyon từ Deck.",
+              "cardIds": [
+                22865492,
+                18094166,
+                27780618
+              ],
+              "action": "special-summon"
+            },
+            {
+              "order": 3,
+              "text": "Vyon gửi Denier từ Deck vào GY, banish Faris để search Polymerization. Banish Malicious đã discard để gọi Malicious thứ hai từ Deck.",
+              "cardIds": [
+                27780618,
+                18094166,
+                24094653,
+                9411399,
+                16605586
+              ],
+              "action": "search"
+            },
+            {
+              "order": 4,
+              "text": "Denier tự gọi từ GY vì có Destiny HERO khác ở sân/GY; hiệu ứng triệu hồi này chỉ một lần mỗi Duel. Có thể đặt Malicious đang banish lên đỉnh Deck.",
+              "cardIds": [
+                16605586,
+                9411399
+              ],
+              "action": "special-summon"
+            },
+            {
+              "order": 5,
+              "text": "Polymerization dùng Malicious Level 6 và Denier Destiny HERO trên sân để Fusion Destroyer Phoenix Enforcer. Giữ Vyon/Increase làm tài nguyên lượt sau.",
+              "cardIds": [
+                24094653,
+                9411399,
+                16605586,
+                60461804
+              ],
+              "action": "fusion-summon"
+            }
+          ],
+          "endBoard": {
+            "cardIds": [
+              27780618,
+              22865492,
+              60461804
+            ],
+            "graveyardCardIds": [
+              9411399,
+              16605586
+            ],
+            "text": "Vyon, Increase và Destroyer Phoenix Enforcer. DPE phá một bài bạn điều khiển cùng một bài trên sân bằng Quick Effect; nếu phá chính nó, kích hoạt hồi Destiny HERO ở Standby Phase tiếp theo.",
+            "interruptions": [
+              "Destroyer Phoenix Enforcer phá bài bằng Quick Effect, rồi chuẩn bị hồi nếu bị phá."
+            ]
+          },
+          "chokePoints": [
+            {
+              "atStep": 1,
+              "cardIds": [
+                10045474
+              ],
+              "text": "Negate Increase trước khi gọi Vyon cắt Polymerization; Stratos là starter dự phòng."
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": "MD Guide",
+        "role": "Biên soạn tiếng Việt"
+      },
+      "reviewers": []
+    },
+    {
+      "deckId": "magistus-fairy-tail",
+      "reviewStatus": "ai_draft",
+      "summary": "Magistus Fairy Tail kết hợp Spellcaster Level 4 với cơ chế equip quái Extra Deck. Rilliona lấy Spell, Zoroa equip Artemis rồi gọi Spellcaster Level 4; Fairy Tail - Luna search quái ATK 1850 và Snow dùng GY để mở rộng nếu đủ bảy bài banish.",
+      "playstyle": {
+        "overview": "Magistus Fairy Tail kết hợp Spellcaster Level 4 với cơ chế equip quái Extra Deck. Rilliona lấy Spell, Zoroa equip Artemis rồi gọi Spellcaster Level 4; Fairy Tail - Luna search quái ATK 1850 và Snow dùng GY để mở rộng nếu đủ bảy bài banish.",
+        "goingFirst": "Zoroa equip Artemis, Artemis search Rilliona, Zoroa gọi Rilliona từ tay. Chọn Rank 4 hoặc Zoroa Synchro theo board và giữ bài equip đúng loại để có tương tác.",
+        "goingSecond": "Luna ép đối thủ gửi bản cùng tên nếu muốn ngăn bounce. Snow là extender/úp quái khi có đủ GY; không tiêu tài nguyên Magistus cần hồi chỉ để thêm một body.",
+        "tips": [
+          "Artemis ở Equip Zone mới dùng hiệu ứng search.",
+          "Zoroa chỉ gọi Level 4 Spellcaster không phải Zoroa.",
+          "Snow bị giới hạn số bản theo banlist.",
+          "Danh sách mẫu 40 Main / 15 Extra. Điều chỉnh tech theo ladder và kiểm tra banlist đang áp dụng trong game."
+        ]
+      },
+      "strengths": [
+        "Zoroa tạo hai body và search.",
+        "Có cả Rank 4, Synchro và tương tác GY."
+      ],
+      "weaknesses": [
+        "Zoroa bị negate mất điểm nối.",
+        "Snow cần bảy bài banish và không phải line miễn phí."
+      ],
+      "counters": [
+        {
+          "cardId": 10045474,
+          "note": "Imperm vào Zoroa chặn equip và gọi Rilliona; Luna Normal là line thay thế."
+        },
+        {
+          "cardId": 14558127,
+          "note": "Chặn hiệu ứng dùng Deck; giữ extender để không phụ thuộc một lần search."
+        }
+      ],
+      "combos": [
+        {
+          "id": "magistus-fairy-tail-basic",
+          "title": "Line cơ bản: Zoroa, the Magistus of Flame",
+          "turn": "going-first",
+          "difficulty": "intermediate",
+          "illustrative": true,
+          "summary": "Zoroa equip Artemis, Artemis search Rilliona, Zoroa gọi Rilliona từ tay. Chọn Rank 4 hoặc Zoroa Synchro theo board và giữ bài equip đúng loại để có tương tác.",
+          "starterCardIds": [
+            36099130
+          ],
+          "extraHandCardsNeeded": 0,
+          "deckCardIds": [
+            72498838,
+            86937530,
+            55623480,
+            327051,
+            34933456
+          ],
+          "extraDeckCardIds": [
+            34755994,
+            95911373,
+            74689476,
+            8660395
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "text": "Normal Summon Zoroa, equip Artemis từ Extra Deck.",
+              "cardIds": [
+                36099130,
+                34755994
+              ],
+              "action": "activate-effect"
+            },
+            {
+              "order": 2,
+              "text": "Artemis đang equip search Rilliona, Zoroa được equip Magistus gọi Rilliona từ tay ở Defense.",
+              "cardIds": [
+                34755994,
+                72498838,
+                36099130
+              ],
+              "action": "special-summon"
+            },
+            {
+              "order": 3,
+              "text": "Rilliona search Vritra; Zoroa Tuner Level 4 và Rilliona Level 4 Synchro Calamity rồi equip Magistus theo hiệu ứng boss.",
+              "cardIds": [
+                72498838,
+                327051,
+                95911373
+              ],
+              "action": "synchro-summon"
+            }
+          ],
+          "endBoard": {
+            "cardIds": [
+              95911373
+            ],
+            "graveyardCardIds": [],
+            "text": "Calamity chỉ khóa hiệu ứng quái Extra Deck đối thủ theo loại Magistus đang equip; không phải omni-negate.",
+            "interruptions": [
+              "Calamity chỉ khóa hiệu ứng quái Extra Deck đối thủ theo loại Magistus đang equip; không phải omni-negate."
+            ]
+          },
+          "chokePoints": [
+            {
+              "atStep": 1,
+              "cardIds": [
+                10045474
+              ],
+              "text": "Imperm vào Zoroa chặn equip và gọi Rilliona; Luna Normal là line thay thế."
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": "MD Guide",
+        "role": "Biên soạn tiếng Việt"
+      },
+      "reviewers": []
+    },
+    {
+      "deckId": "ryzeal-mitsurugi",
+      "reviewStatus": "ai_draft",
+      "summary": "Ryzeal Mitsurugi ghép Rank 4 FIRE/LIGHT với Ritual Reptile. Ryzeal tạo Duo Drive/Detonator, Mitsurugi tạo search và boss Ritual. Điểm khó là các khóa Extra Deck Rank 4 của Ryzeal: phải hoàn thành Extra Deck ngoài Rank 4 trước, còn Ritual từ tay/Deck vẫn là Main Deck.",
+      "playstyle": {
+        "overview": "Ryzeal Mitsurugi ghép Rank 4 FIRE/LIGHT với Ritual Reptile. Ryzeal tạo Duo Drive/Detonator, Mitsurugi tạo search và boss Ritual. Điểm khó là các khóa Extra Deck Rank 4 của Ryzeal: phải hoàn thành Extra Deck ngoài Rank 4 trước, còn Ritual từ tay/Deck vẫn là Main Deck.",
+        "goingFirst": "Mở Ice Ryzeal gọi Sword, lấy Ext rồi dựng Duo Drive để search. Dành tài nguyên Mitsurugi trên tay cho Ritual sau khi board Rank 4 ổn định.",
+        "goingSecond": "Detonator phá bài khi đối thủ kích hoạt; Murakumo dọn quái khi được gọi. Không dùng Ext gửi Fusion chỉ để tưởng nó đã Fusion Summon.",
+        "tips": [
+          "Ice Normal có thể gọi Ryzeal Deck.",
+          "Duo Drive cần detach đúng số nguyên liệu để search.",
+          "Ritual không bị khóa Extra Deck Rank 4.",
+          "Danh sách mẫu 40 Main / 15 Extra. Điều chỉnh tech theo ladder và kiểm tra banlist đang áp dụng trong game."
+        ]
+      },
+      "strengths": [
+        "Hai engine tương tác trên sân và bằng Ritual.",
+        "Rank 4 có search và bảo vệ."
+      ],
+      "weaknesses": [
+        "Tay lẫn nhiều engine dễ thiếu cặp starter.",
+        "Khóa Rank 4 hạn chế Link/Synchro."
+      ],
+      "counters": [
+        {
+          "cardId": 10045474,
+          "note": "Negate Ice ngăn Sword; Ext cùng một Ryzeal khác trên tay có thể mở Rank 4 thay thế."
+        },
+        {
+          "cardId": 14558127,
+          "note": "Chặn hiệu ứng dùng Deck; giữ extender để không phụ thuộc một lần search."
+        }
+      ],
+      "combos": [
+        {
+          "id": "ryzeal-mitsurugi-basic",
+          "title": "Line cơ bản: Ice Ryzeal",
+          "turn": "going-first",
+          "difficulty": "intermediate",
+          "illustrative": true,
+          "summary": "Mở Ice Ryzeal gọi Sword, lấy Ext rồi dựng Duo Drive để search. Dành tài nguyên Mitsurugi trên tay cho Ritual sau khi board Rank 4 ổn định.",
+          "starterCardIds": [
+            8633261
+          ],
+          "extraHandCardsNeeded": 0,
+          "deckCardIds": [
+            35844557,
+            34022970,
+            72238166,
+            60394026,
+            18176525,
+            81560239,
+            19899073
+          ],
+          "extraDeckCardIds": [
+            7511613,
+            34909328,
+            11398059,
+            6983839
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "text": "Normal Summon Ice, gọi Sword từ Deck; Sword search Ext.",
+              "cardIds": [
+                8633261,
+                35844557,
+                34022970
+              ],
+              "action": "search"
+            },
+            {
+              "order": 2,
+              "text": "Xyz Ice/Sword thành Duo Drive; khi được Special Summon gắn một Ryzeal từ GY nếu có.",
+              "cardIds": [
+                8633261,
+                35844557,
+                7511613
+              ],
+              "action": "xyz-summon"
+            },
+            {
+              "order": 3,
+              "text": "Duo Drive detach hai nguyên liệu để lấy hai Ryzeal khác tên, chẳng hạn Node và Plugin; Ext trên tay mở thêm Rank 4 nếu có nguyên liệu nối.",
+              "cardIds": [
+                7511613,
+                72238166,
+                60394026,
+                34022970
+              ],
+              "action": "search"
+            }
+          ],
+          "endBoard": {
+            "cardIds": [
+              7511613
+            ],
+            "graveyardCardIds": [],
+            "text": "Duo Drive và tài nguyên Ryzeal trên tay; Ritual Mitsurugi cần Saji/Ritual cùng boss riêng, không được coi là đã dựng từ Ice một lá.",
+            "interruptions": [
+              "Duo Drive và tài nguyên Ryzeal trên tay; Ritual Mitsurugi cần Saji/Ritual cùng boss riêng, không được coi là đã dựng từ Ice một lá."
+            ]
+          },
+          "chokePoints": [
+            {
+              "atStep": 1,
+              "cardIds": [
+                10045474
+              ],
+              "text": "Negate Ice ngăn Sword; Ext cùng một Ryzeal khác trên tay có thể mở Rank 4 thay thế."
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": "MD Guide",
+        "role": "Biên soạn tiếng Việt"
+      },
+      "reviewers": []
+    },
+    {
+      "deckId": "odion",
+      "reviewStatus": "ai_draft",
+      "summary": "Odion là tên deck control xoay quanh Temple of the Kings và Trap Monster Apophis. Serpent tự gọi và úp thêm Trap dùng được ngay, Swamp Deity negate bài face-up theo số Continuous Trap khác, Divine Serpent hồi nhiều Apophis và phá bài khi Trap kích hoạt.",
+      "playstyle": {
+        "overview": "Odion là tên deck control xoay quanh Temple of the Kings và Trap Monster Apophis. Serpent tự gọi và úp thêm Trap dùng được ngay, Swamp Deity negate bài face-up theo số Continuous Trap khác, Divine Serpent hồi nhiều Apophis và phá bài khi Trap kích hoạt.",
+        "goingFirst": "Temple cho dùng một Trap trong lượt úp, mở Serpent để lấy Swamp Deity. Giữ Continuous Trap ở Spell/Trap Zone để Swamp có số lượng negate.",
+        "goingSecond": "Apophis tạo body để contact gọi Divine Serpent bằng Tribute hai Apophis. Boss úp lại Trap GY nhưng các Trap đó không tự được dùng ngay nếu không có hiệu ứng cho phép.",
+        "tips": [
+          "Temple chỉ cho kích hoạt một Trap trong lượt úp mỗi lượt.",
+          "Serpent cho Trap nó úp được kích hoạt lượt đó.",
+          "Swamp đếm Continuous Trap khác khi resolve.",
+          "Danh sách mẫu 40 Main / 15 Extra. Điều chỉnh tech theo ladder và kiểm tra banlist đang áp dụng trong game."
+        ]
+      },
+      "strengths": [
+        "Trap vừa tạo body vừa tương tác.",
+        "Boss tái sử dụng nhiều Apophis GY."
+      ],
+      "weaknesses": [
+        "Quét backrow có thể phá toàn bộ engine.",
+        "Trap Monster chiếm cả tài nguyên sân và Spell/Trap."
+      ],
+      "counters": [
+        {
+          "cardId": 10045474,
+          "note": "Dọn Temple/Trap trước resolve Serpent làm mất chuỗi setup; tránh gom mọi backrow vào một lượt không có bảo vệ."
+        },
+        {
+          "cardId": 14558127,
+          "note": "Chặn hiệu ứng dùng Deck; giữ extender để không phụ thuộc một lần search."
+        }
+      ],
+      "combos": [
+        {
+          "id": "odion-basic",
+          "title": "Line cơ bản: Temple of the Kings",
+          "turn": "going-first",
+          "difficulty": "intermediate",
+          "illustrative": true,
+          "summary": "Temple cho dùng một Trap trong lượt úp, mở Serpent để lấy Swamp Deity. Giữ Continuous Trap ở Spell/Trap Zone để Swamp có số lượng negate.",
+          "starterCardIds": [
+            29762407,
+            95561146
+          ],
+          "extraHandCardsNeeded": 0,
+          "deckCardIds": [
+            85888377,
+            28649820,
+            34926568
+          ],
+          "extraDeckCardIds": [
+            97800311,
+            11398059,
+            29301450,
+            23804920
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "text": "Kích hoạt Temple, úp Serpent; dùng quyền một Trap mới úp của Temple để kích hoạt Serpent.",
+              "cardIds": [
+                29762407,
+                95561146
+              ],
+              "action": "activate-effect"
+            },
+            {
+              "order": 2,
+              "text": "Serpent tự gọi thành Trap Monster, úp Swamp Deity từ Deck và cho phép kích hoạt lượt này.",
+              "cardIds": [
+                95561146,
+                85888377
+              ],
+              "action": "set"
+            },
+            {
+              "order": 3,
+              "text": "Kích hoạt Swamp Deity; có Serpent là Continuous Trap khác nên có thể negate một bài face-up đối thủ nếu có mục tiêu.",
+              "cardIds": [
+                85888377,
+                95561146
+              ],
+              "action": "activate-effect"
+            },
+            {
+              "order": 4,
+              "text": "Có thể Tribute hai Apophis để Special Summon Divine Serpent; dùng hiệu ứng úp lại hai Trap từ GY.",
+              "cardIds": [
+                97800311,
+                95561146,
+                85888377
+              ],
+              "action": "special-summon"
+            }
+          ],
+          "endBoard": {
+            "cardIds": [
+              97800311,
+              95561146,
+              85888377,
+              29762407
+            ],
+            "graveyardCardIds": [],
+            "text": "Divine Serpent cùng hai Trap úp lại; lượt này Temple đã dùng quyền kích hoạt Trap mới úp, giữ hai Trap cho lượt đối thủ.",
+            "interruptions": [
+              "Divine Serpent cùng hai Trap úp lại; lượt này Temple đã dùng quyền kích hoạt Trap mới úp, giữ hai Trap cho lượt đối thủ."
+            ]
+          },
+          "chokePoints": [
+            {
+              "atStep": 1,
+              "cardIds": [
+                10045474
+              ],
+              "text": "Dọn Temple/Trap trước resolve Serpent làm mất chuỗi setup; tránh gom mọi backrow vào một lượt không có bảo vệ."
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": "MD Guide",
+        "role": "Biên soạn tiếng Việt"
+      },
+      "reviewers": []
+    },
+    {
+      "deckId": "fiendsmith",
+      "reviewStatus": "ai_draft",
+      "summary": "Fiendsmith xoay quanh LIGHT Fiend, Engraver discard lấy Spell, Tract tìm Lurrie và Lurrie tự gọi khi discard. Requiem gọi Engraver từ Deck, Sequence Fusion bằng xào nguyên liệu GY; Desirae negate theo tổng Link Rating của equip.",
+      "playstyle": {
+        "overview": "Fiendsmith xoay quanh LIGHT Fiend, Engraver discard lấy Spell, Tract tìm Lurrie và Lurrie tự gọi khi discard. Requiem gọi Engraver từ Deck, Sequence Fusion bằng xào nguyên liệu GY; Desirae negate theo tổng Link Rating của equip.",
+        "goingFirst": "Engraver lấy Tract, Tract search rồi discard Lurrie. Lurrie thành Requiem, Requiem Tribute gọi Engraver; hồi Engraver cũ bằng xào LIGHT Fiend khác để có hai body.",
+        "goingSecond": "Engraver gửi equip Fiendsmith cùng một quái đối thủ vào GY. Desirae cần equip Link để negate nhiều bài; không coi boss không equip là board hoàn chỉnh.",
+        "tips": [
+          "Lurrie phải bị discard mới trigger tự gọi.",
+          "Engraver hồi cần một LIGHT Fiend khác trong GY.",
+          "Desirae đếm Link Rating của equip Fiendsmith.",
+          "Danh sách mẫu 40 Main / 15 Extra. Điều chỉnh tech theo ladder và kiểm tra banlist đang áp dụng trong game."
+        ]
+      },
+      "strengths": [
+        "Engine không cần Normal Summon.",
+        "Xào GY tái sử dụng Link/Fusion."
+      ],
+      "weaknesses": [
+        "GY bị banish làm mất vật liệu Fusion.",
+        "Tract bị Ash làm không có Lurrie."
+      ],
+      "counters": [
+        {
+          "cardId": 14558127,
+          "note": "Ash vào Tract chặn Lurrie; giữ LIGHT Fiend khác hoặc Sanct làm đường mở."
+        },
+        {
+          "cardId": 14558127,
+          "note": "Chặn hiệu ứng dùng Deck; giữ extender để không phụ thuộc một lần search."
+        }
+      ],
+      "combos": [
+        {
+          "id": "fiendsmith-basic",
+          "title": "Line cơ bản: Fiendsmith Engraver",
+          "turn": "going-first",
+          "difficulty": "advanced",
+          "illustrative": true,
+          "summary": "Engraver lấy Tract, Tract search rồi discard Lurrie. Lurrie thành Requiem, Requiem Tribute gọi Engraver; hồi Engraver cũ bằng xào LIGHT Fiend khác để có hai body.",
+          "starterCardIds": [
+            60764609
+          ],
+          "extraHandCardsNeeded": 0,
+          "deckCardIds": [
+            98567237,
+            97651498,
+            35552985,
+            99989863
+          ],
+          "extraDeckCardIds": [
+            2463794,
+            49867899,
+            82135803,
+            46640168
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "text": "Discard Engraver để lấy Tract; Tract search Lurrie rồi discard Lurrie.",
+              "cardIds": [
+                60764609,
+                98567237,
+                97651498
+              ],
+              "action": "search"
+            },
+            {
+              "order": 2,
+              "text": "Lurrie tự gọi, Link thành Requiem; Tribute Requiem gọi Engraver thứ hai từ Deck.",
+              "cardIds": [
+                97651498,
+                2463794,
+                60764609
+              ],
+              "action": "link-summon"
+            },
+            {
+              "order": 3,
+              "text": "Engraver đầu trong GY xào Lurrie về Deck để tự gọi; Link hai Engraver thành Sequence.",
+              "cardIds": [
+                60764609,
+                97651498,
+                49867899
+              ],
+              "action": "link-summon"
+            },
+            {
+              "order": 4,
+              "text": "Sequence Fusion Desirae bằng xào hai Engraver và Requiem LIGHT Fiend trong GY về Deck/Extra Deck.",
+              "cardIds": [
+                49867899,
+                60764609,
+                2463794,
+                82135803
+              ],
+              "action": "fusion-summon"
+            },
+            {
+              "order": 5,
+              "text": "Dùng hiệu ứng Sequence trên sân để equip chính nó cho Desirae; Link Rating 2 cho phép Desirae negate tối đa hai bài face-up.",
+              "cardIds": [
+                49867899,
+                82135803
+              ],
+              "action": "other"
+            }
+          ],
+          "endBoard": {
+            "cardIds": [
+              49867899,
+              82135803
+            ],
+            "graveyardCardIds": [],
+            "text": "Desirae được equip Sequence: negate tối đa hai bài face-up và được bảo vệ khỏi hiệu ứng chỉ định của đối thủ.",
+            "interruptions": [
+              "Desirae negate tối đa hai bài face-up (Sequence có Link Rating 2)."
+            ]
+          },
+          "chokePoints": [
+            {
+              "atStep": 1,
+              "cardIds": [
+                14558127
+              ],
+              "text": "Ash vào Tract chặn Lurrie; giữ LIGHT Fiend khác hoặc Sanct làm đường mở."
+            }
+          ]
+        }
+      ],
+      "author": {
+        "name": "MD Guide",
+        "role": "Biên soạn tiếng Việt"
       },
       "reviewers": []
     }
