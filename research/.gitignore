@@ -1,0 +1,7 @@
+__pycache__/
+pages/
+*.html
+cardinfo.json
+candidates.json
+extra.json
+selected-cards.txt

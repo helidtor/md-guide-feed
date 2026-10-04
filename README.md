@@ -5,8 +5,9 @@ Thư mục này là toàn bộ feed để đưa lên repo GitHub công khai. N�
 | File | Vai trò |
 |---|---|
 | `manifest.json` | Điểm vào. Có `dataVersion` (số nguyên >= 1), `generatedAt`, `sources[]`, `files.*.{url,sha256,size}` |
-| `decks.json` | 5 deck thật + các deck stub (chỉ `id`, `name`, `archetypes`, `contentStatus:"stub"`) |
-| `guides.json` | Guide/combo của 5 deck thật (`reviewStatus:"ai_draft"`) |
+| `decks.json` | 100 deck có nội dung và decklist; không có stub (`contentStatus:"in-review"`) |
+| `guides.json` | 100 guide tiếng Việt; guide mới có line mở engine minh họa (`reviewStatus:"ai_draft"`) |
+| `SOURCES-100-DECKS.md` | 65 deck mới, link Master Duel Meta, ngày/thành tích mẫu và các điều chỉnh banlist |
 | `banlist.json` | TUỲ CHỌN. Chỉ cần cho list sắp hiệu lực / ghi đè giờ hiệu lực. Nếu không muốn dùng: xoá file và xoá khoá `files.banlist` trong manifest (rồi chạy lệnh băm) |
 | `.gitattributes` | `* -text`: bắt Git giữ nguyên byte (không đổi CRLF) để `sha256` không lệch |
 
@@ -27,3 +28,19 @@ Xem `tool/build_feed/README.md` và chạy lint:
 ```
 dart run tool/feed_lint.dart feed-dist --cards tool/build_feed/.cache/cardinfo_master_duel.json --allow-missing tool/build_feed/allow_missing_cards.txt
 ```
+
+## Bản mở rộng 100 deck — dataVersion 4
+
+Giữ nguyên nội dung 35 deck/guide ban đầu, thêm 65 deck có mẫu và kết quả trên Master Duel Meta. Mẫu được chọn có thành tích giải hoặc Master rank/Rating Duels/Win Streak/WCS DLv. Max trong tháng 06–10/2026. Các lựa chọn rogue được ghi rõ, không coi toàn bộ 100 deck là tier hiện tại. Xem bảng nguồn trong `SOURCES-100-DECKS.md`.
+
+Decklist mới được kiểm tra theo cả hai snapshot banlist MD-2026-09-03 và MD-2026-10-06 của feed; thay đổi slot được ghi trong guide và tài liệu nguồn. Combo có điều kiện/cost cụ thể, không mặc định là end board tối đa. Guide vẫn là bản biên soạn chờ duyệt.
+
+Các script Python trong repo này hỗ trợ dựng và kiểm tra bản mở rộng, không cần bộ tool Dart của dự án app:
+
+```powershell
+rtk python research/fetch_cards.py
+rtk python research/build_feed.py
+rtk python research/validate_feed.py
+```
+
+`research/selected.json` lưu decklist/thành tích nguồn; `editorial.py` và `refinements.py` chứa nội dung biên soạn. Build giữ 35 mục đầu, thay thế 65 mục bổ sung, đặt `dataVersion = 4` và tính lại manifest. Khi phát hành bản dữ liệu tiếp theo, tăng `VERSION` trong script và cập nhật kiểm tra version tương ứng. Validator so sánh nội dung 35 mục đầu với Git HEAD, kiểm tra cardId/tên/vùng bài, số lá, banlist, liên kết combo, version và hash/size.
