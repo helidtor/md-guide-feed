@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "dataVersion": 4,
+  "dataVersion": 6,
   "decks": [
     {
       "id": "sky-striker",
@@ -33,12 +33,11 @@
         "asOf": "2026-09-30",
         "source": "editorial"
       },
-      "updatedAt": "2026-09-30",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-09-30",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -112,14 +111,14 @@
           "name": "The Fallen & The Virtuous",
           "qty": 2,
           "role": "board-breaker",
-          "note": "Gửi Albion the Branded Dragon (hoặc Ecclesia and the Dark Dragon) từ Extra Deck để phá 1 lá face-up. Giữ 2 bản vì MD-2026-10-06 đưa lá này về Semi-Limited."
+          "note": "Gửi Albion the Branded Dragon (hoặc Ecclesia and the Dark Dragon) từ Extra Deck để phá 1 lá face-up. Giữ 2 bản vì MD-2026-10-06 đưa lá này về Semi-Limited. Giới hạn từ 06/10/2026: tối đa 2 bản."
         },
         {
           "cardId": 20508881,
           "name": "Radiant Typhoon Vision",
           "qty": 1,
           "role": "consistency",
-          "note": "Quick-Play rút 2 rồi bỏ 1 Quick-Play Spell (deck có rất nhiều), hoặc lấy Mystical Space Typhoon. Giữ 1 bản vì MD-2026-10-06 đưa về Limited."
+          "note": "Quick-Play rút 2 rồi bỏ 1 Quick-Play Spell (deck có rất nhiều), hoặc lấy Mystical Space Typhoon. Giữ 1 bản vì MD-2026-10-06 đưa về Limited. Giới hạn từ 06/10/2026: tối đa 1 bản."
         },
         {
           "cardId": 24299458,
@@ -275,6 +274,12 @@
           "url": "https://ygorganization.com/master-duel-fl-list-update-and-card-decoder",
           "accessed": "2026-09-30",
           "usage": "fact-check"
+        },
+        {
+          "title": "Master Duel Meta — Forbidden/Limited List: October 6th, 2026",
+          "url": "https://www.masterduelmeta.com/forbidden-limited-list",
+          "accessed": "2026-10-06",
+          "usage": "fact-check"
         }
       ]
     },
@@ -314,12 +319,11 @@
         "asOf": "2026-09-30",
         "source": "editorial"
       },
-      "updatedAt": "2026-09-30",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-09-30",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -426,7 +430,7 @@
           "name": "The Fallen & The Virtuous",
           "qty": 2,
           "role": "board-breaker",
-          "note": "Gửi 1 Fusion nhắc đến Albaz từ Extra Deck để phá 1 lá face-up (Albion vào GY sẽ lấy Branded S/T ở End Phase). Semi-Limited từ MD-2026-10-06."
+          "note": "Gửi 1 Fusion nhắc đến Albaz từ Extra Deck để phá 1 lá face-up (Albion vào GY sẽ lấy Branded S/T ở End Phase). Semi-Limited từ MD-2026-10-06. Giới hạn từ 06/10/2026: tối đa 2 bản."
         }
       ],
       "techCards": [
@@ -589,6 +593,12 @@
           "url": "https://ygorganization.com/master-duel-fl-list-update-and-card-decoder",
           "accessed": "2026-09-30",
           "usage": "fact-check"
+        },
+        {
+          "title": "Master Duel Meta — Forbidden/Limited List: October 6th, 2026",
+          "url": "https://www.masterduelmeta.com/forbidden-limited-list",
+          "accessed": "2026-10-06",
+          "usage": "fact-check"
         }
       ]
     },
@@ -623,12 +633,11 @@
         "asOf": "2026-09-30",
         "source": "editorial"
       },
-      "updatedAt": "2026-09-30",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-09-30",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -637,7 +646,7 @@
           "name": "Kewl Tune Cue",
           "qty": 1,
           "role": "starter",
-          "note": "Normal Summon: gọi 1 Tuner (trừ Cue) từ tay/Deck/GY, khoá chỉ Special Summon Tuner. Làm nguyên liệu Synchro: xem 2 lá đầu Deck đối thủ, banish 1. Limited từ MD-2026-10-06."
+          "note": "Normal Summon: gọi 1 Tuner (trừ Cue) từ tay/Deck/GY, khoá chỉ Special Summon Tuner. Làm nguyên liệu Synchro: xem 2 lá đầu Deck đối thủ, banish 1. Limited từ MD-2026-10-06. Giới hạn từ 06/10/2026: tối đa 1 bản."
         },
         {
           "cardId": 16509007,
@@ -872,6 +881,12 @@
           "url": "https://ygorganization.com/master-duel-fl-list-update-and-card-decoder",
           "accessed": "2026-09-30",
           "usage": "fact-check"
+        },
+        {
+          "title": "Master Duel Meta — Forbidden/Limited List: October 6th, 2026",
+          "url": "https://www.masterduelmeta.com/forbidden-limited-list",
+          "accessed": "2026-10-06",
+          "usage": "fact-check"
         }
       ]
     },
@@ -903,12 +918,11 @@
         "asOf": "2026-09-30",
         "source": "editorial"
       },
-      "updatedAt": "2026-09-30",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-09-30",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -1227,12 +1241,11 @@
         "asOf": "2026-09-30",
         "source": "editorial"
       },
-      "updatedAt": "2026-09-30",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-09-30",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -1241,7 +1254,7 @@
           "name": "Radiant Typhoon Eldam",
           "qty": 2,
           "role": "starter",
-          "note": "Level 3 WIND tự Special Summon (MST trong GY hoặc đối thủ không có S/T); khi được Summon thêm 1 quái Radiant Typhoon hoặc MST. Semi-Limited từ MD-2026-10-06 nên chỉ dùng 2."
+          "note": "Level 3 WIND tự Special Summon (MST trong GY hoặc đối thủ không có S/T); khi được Summon thêm 1 quái Radiant Typhoon hoặc MST. Semi-Limited từ MD-2026-10-06 nên chỉ dùng 2. Giới hạn từ 06/10/2026: tối đa 2 bản."
         },
         {
           "cardId": 80538047,
@@ -1304,7 +1317,7 @@
           "name": "Radiant Typhoon Vision",
           "qty": 1,
           "role": "consistency",
-          "note": "Quick-Play: rút 2 rồi bỏ 1 lá Radiant Typhoon/Quick-Play, hoặc lấy MST. Limited từ MD-2026-10-06."
+          "note": "Quick-Play: rút 2 rồi bỏ 1 lá Radiant Typhoon/Quick-Play, hoặc lấy MST. Limited từ MD-2026-10-06. Giới hạn từ 06/10/2026: tối đa 1 bản."
         },
         {
           "cardId": 25940932,
@@ -1369,7 +1382,7 @@
           "name": "The Fallen & The Virtuous",
           "qty": 2,
           "role": "board-breaker",
-          "note": "Quick-Play gửi Albion the Branded Dragon / Ecclesia and the Dark Dragon từ Extra Deck để phá 1 lá face-up. Semi-Limited từ MD-2026-10-06."
+          "note": "Quick-Play gửi Albion the Branded Dragon / Ecclesia and the Dark Dragon từ Extra Deck để phá 1 lá face-up. Semi-Limited từ MD-2026-10-06. Giới hạn từ 06/10/2026: tối đa 2 bản."
         },
         {
           "cardId": 10045474,
@@ -1500,6 +1513,12 @@
           "url": "https://ygorganization.com/master-duel-fl-list-update-and-card-decoder",
           "accessed": "2026-09-30",
           "usage": "fact-check"
+        },
+        {
+          "title": "Master Duel Meta — Forbidden/Limited List: October 6th, 2026",
+          "url": "https://www.masterduelmeta.com/forbidden-limited-list",
+          "accessed": "2026-10-06",
+          "usage": "fact-check"
         }
       ]
     },
@@ -1528,11 +1547,11 @@
         "source": "editorial",
         "note": "Nhóm power ngày 01/10/2026; biến thể và tỷ lệ thắng phụ thuộc decklist."
       },
-      "updatedAt": "2026-10-01",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-01"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -1778,11 +1797,11 @@
         "source": "editorial",
         "note": "Nhóm power ngày 01/10/2026; biến thể và tỷ lệ thắng phụ thuộc decklist."
       },
-      "updatedAt": "2026-10-01",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-01"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -1952,13 +1971,6 @@
           "note": "Đích Extra Deck bổ sung; chỉ gọi khi đúng nguyên liệu và không bị khóa bởi engine."
         },
         {
-          "cardId": 74586817,
-          "name": "PSY-Framelord Omega",
-          "qty": 1,
-          "role": "extender",
-          "note": "Đích Extra Deck bổ sung; chỉ gọi khi đúng nguyên liệu và không bị khóa bởi engine."
-        },
-        {
           "cardId": 60465049,
           "name": "Psychic End Punisher",
           "qty": 1,
@@ -1971,6 +1983,12 @@
           "title": "Yu-Gi-Oh! API v7: card effects",
           "url": "https://db.ygoprodeck.com/api/v7/",
           "accessed": "2026-10-01",
+          "usage": "fact-check"
+        },
+        {
+          "title": "Master Duel Meta — Forbidden/Limited List: October 6th, 2026",
+          "url": "https://www.masterduelmeta.com/forbidden-limited-list",
+          "accessed": "2026-10-06",
           "usage": "fact-check"
         }
       ]
@@ -1999,11 +2017,11 @@
         "source": "editorial",
         "note": "Nhóm power ngày 01/10/2026; biến thể và tỷ lệ thắng phụ thuộc decklist."
       },
-      "updatedAt": "2026-10-01",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-01"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -2222,11 +2240,11 @@
         "source": "editorial",
         "note": "Nhóm power ngày 01/10/2026; biến thể và tỷ lệ thắng phụ thuộc decklist."
       },
-      "updatedAt": "2026-10-01",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-01"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -2471,11 +2489,11 @@
         "source": "editorial",
         "note": "Nhóm power ngày 01/10/2026; biến thể và tỷ lệ thắng phụ thuộc decklist."
       },
-      "updatedAt": "2026-10-01",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-01"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -2720,11 +2738,11 @@
         "source": "editorial",
         "note": "Nhóm power ngày 01/10/2026; biến thể và tỷ lệ thắng phụ thuộc decklist."
       },
-      "updatedAt": "2026-10-01",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-01"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -2991,11 +3009,11 @@
         "source": "editorial",
         "note": "Nhóm power ngày 01/10/2026; biến thể và tỷ lệ thắng phụ thuộc decklist."
       },
-      "updatedAt": "2026-10-01",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-01"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -3228,11 +3246,11 @@
         "source": "editorial",
         "note": "Nhóm power ngày 01/10/2026; biến thể và tỷ lệ thắng phụ thuộc decklist."
       },
-      "updatedAt": "2026-10-01",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-01"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -3295,9 +3313,9 @@
         {
           "cardId": 16387555,
           "name": "Kewl Tune Cue",
-          "qty": 2,
+          "qty": 1,
           "role": "engine",
-          "note": "Hỗ trợ engine; đọc hiệu ứng và khóa triệu hồi trước khi nối vào line cơ bản."
+          "note": "Hỗ trợ engine; đọc hiệu ứng và khóa triệu hồi trước khi nối vào line cơ bản. Giới hạn từ 06/10/2026: tối đa 1 bản."
         },
         {
           "cardId": 89392810,
@@ -3374,7 +3392,7 @@
         {
           "cardId": 97268402,
           "name": "Effect Veiler",
-          "qty": 2,
+          "qty": 3,
           "role": "hand-trap",
           "note": "Negate quái face-up trong Main Phase đối thủ."
         }
@@ -3443,6 +3461,12 @@
           "url": "https://db.ygoprodeck.com/api/v7/",
           "accessed": "2026-10-01",
           "usage": "fact-check"
+        },
+        {
+          "title": "Master Duel Meta — Forbidden/Limited List: October 6th, 2026",
+          "url": "https://www.masterduelmeta.com/forbidden-limited-list",
+          "accessed": "2026-10-06",
+          "usage": "fact-check"
         }
       ]
     },
@@ -3471,11 +3495,11 @@
         "source": "editorial",
         "note": "Nhóm power ngày 01/10/2026; biến thể và tỷ lệ thắng phụ thuộc decklist."
       },
-      "updatedAt": "2026-10-01",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-01"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -3727,11 +3751,11 @@
         "source": "editorial",
         "note": "Nhóm power ngày 01/10/2026; biến thể và tỷ lệ thắng phụ thuộc decklist."
       },
-      "updatedAt": "2026-10-01",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-01"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -3970,11 +3994,11 @@
         "source": "editorial",
         "note": "Nhóm power ngày 01/10/2026; biến thể và tỷ lệ thắng phụ thuộc decklist."
       },
-      "updatedAt": "2026-10-01",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-01"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -4219,11 +4243,11 @@
         "source": "editorial",
         "note": "Nhóm power ngày 01/10/2026; biến thể và tỷ lệ thắng phụ thuộc decklist."
       },
-      "updatedAt": "2026-10-01",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-01"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -4447,11 +4471,11 @@
         "source": "editorial",
         "note": "Nhóm power ngày 01/10/2026; biến thể và tỷ lệ thắng phụ thuộc decklist."
       },
-      "updatedAt": "2026-10-01",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-01"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -4668,11 +4692,11 @@
         "source": "editorial",
         "note": "Nhóm power ngày 01/10/2026; biến thể và tỷ lệ thắng phụ thuộc decklist."
       },
-      "updatedAt": "2026-10-01",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-01"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -4904,11 +4928,11 @@
         "source": "editorial",
         "note": "Nhóm power ngày 01/10/2026; biến thể và tỷ lệ thắng phụ thuộc decklist."
       },
-      "updatedAt": "2026-10-01",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-01"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -5160,11 +5184,11 @@
         "source": "editorial",
         "note": "Nhóm power ngày 01/10/2026; biến thể và tỷ lệ thắng phụ thuộc decklist."
       },
-      "updatedAt": "2026-10-01",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-01"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -5389,11 +5413,11 @@
         "source": "editorial",
         "note": "Nhóm power ngày 01/10/2026; biến thể và tỷ lệ thắng phụ thuộc decklist."
       },
-      "updatedAt": "2026-10-01",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-01"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -5631,11 +5655,11 @@
         "source": "editorial",
         "note": "Nhóm power ngày 01/10/2026; biến thể và tỷ lệ thắng phụ thuộc decklist."
       },
-      "updatedAt": "2026-10-01",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-01"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -5866,11 +5890,11 @@
         "source": "editorial",
         "note": "Nhóm power ngày 01/10/2026; biến thể và tỷ lệ thắng phụ thuộc decklist."
       },
-      "updatedAt": "2026-10-01",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-01"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -6115,11 +6139,11 @@
         "source": "editorial",
         "note": "Nhóm power ngày 01/10/2026; biến thể và tỷ lệ thắng phụ thuộc decklist."
       },
-      "updatedAt": "2026-10-01",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-01"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -6344,11 +6368,11 @@
         "source": "editorial",
         "note": "Nhóm power ngày 01/10/2026; biến thể và tỷ lệ thắng phụ thuộc decklist."
       },
-      "updatedAt": "2026-10-01",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-01"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -6586,11 +6610,11 @@
         "source": "editorial",
         "note": "Nhóm power ngày 01/10/2026; biến thể và tỷ lệ thắng phụ thuộc decklist."
       },
-      "updatedAt": "2026-10-01",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-01"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -6821,11 +6845,11 @@
         "source": "editorial",
         "note": "Nhóm power ngày 01/10/2026; biến thể và tỷ lệ thắng phụ thuộc decklist."
       },
-      "updatedAt": "2026-10-01",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-01"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -6872,13 +6896,6 @@
           "note": "Search Synchron và mill một lá."
         },
         {
-          "cardId": 99243014,
-          "name": "Synchro Overtake",
-          "qty": 1,
-          "role": "starter",
-          "note": "Gọi nguyên liệu có tên trên Synchro."
-        },
-        {
           "cardId": 62125438,
           "name": "Synchron Carrier",
           "qty": 2,
@@ -6888,9 +6905,9 @@
         {
           "cardId": 11069680,
           "name": "Junk Converter",
-          "qty": 2,
+          "qty": 3,
           "role": "engine",
-          "note": "Hỗ trợ engine; đọc hiệu ứng và khóa triệu hồi trước khi nối vào line cơ bản."
+          "note": "Gửi chính nó và một Tuner từ tay vào GY để tìm Synchron; chuẩn bị non-Tuner Level 2 trong GY cho Junk Synchron. Khi dùng làm Synchro Material, có thể hồi Tuner theo điều kiện."
         },
         {
           "cardId": 97682931,
@@ -7050,6 +7067,12 @@
           "url": "https://db.ygoprodeck.com/api/v7/",
           "accessed": "2026-10-01",
           "usage": "fact-check"
+        },
+        {
+          "title": "Master Duel Meta — Forbidden/Limited List: October 6th, 2026",
+          "url": "https://www.masterduelmeta.com/forbidden-limited-list",
+          "accessed": "2026-10-06",
+          "usage": "fact-check"
         }
       ]
     },
@@ -7078,11 +7101,11 @@
         "source": "editorial",
         "note": "Nhóm power ngày 01/10/2026; biến thể và tỷ lệ thắng phụ thuộc decklist."
       },
-      "updatedAt": "2026-10-01",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-01"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -7321,11 +7344,11 @@
         "source": "editorial",
         "note": "Nhóm power ngày 01/10/2026; biến thể và tỷ lệ thắng phụ thuộc decklist."
       },
-      "updatedAt": "2026-10-01",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-01"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -7580,11 +7603,11 @@
         "source": "editorial",
         "note": "Nhóm power ngày 01/10/2026; biến thể và tỷ lệ thắng phụ thuộc decklist."
       },
-      "updatedAt": "2026-10-01",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-01"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -7830,11 +7853,11 @@
         "source": "editorial",
         "note": "Có mặt trong danh sách độ phổ biến hoặc giải đấu; không có power đủ để gán tier cạnh tranh."
       },
-      "updatedAt": "2026-10-01",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-01"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -8080,11 +8103,11 @@
         "source": "editorial",
         "note": "Có mặt trong danh sách độ phổ biến hoặc giải đấu; không có power đủ để gán tier cạnh tranh."
       },
-      "updatedAt": "2026-10-01",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-01"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -8350,11 +8373,11 @@
         "source": "editorial",
         "note": "Có mặt trong danh sách độ phổ biến hoặc giải đấu; không có power đủ để gán tier cạnh tranh."
       },
-      "updatedAt": "2026-10-01",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-01"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -8586,11 +8609,11 @@
         "source": "editorial",
         "note": "Có mặt trong danh sách độ phổ biến hoặc giải đấu; không có power đủ để gán tier cạnh tranh."
       },
-      "updatedAt": "2026-10-01",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-01"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -8836,12 +8859,11 @@
         "source": "editorial",
         "note": "MDM: Oct 2026 Master I, 2026-10-01. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -9103,12 +9125,11 @@
         "source": "editorial",
         "note": "MDM: Sep 2026 Master I, 2026-09-30. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -9436,12 +9457,11 @@
         "source": "editorial",
         "note": "MDM: Oct 2026 Master V, 2026-10-04. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -9708,12 +9728,11 @@
         "source": "editorial",
         "note": "MDM: Top 16 — Aug 2026 Meta Weekly, 2026-08-10. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -9844,7 +9863,8 @@
           "cardId": 30271097,
           "name": "The Fallen & The Virtuous",
           "qty": 2,
-          "role": "engine"
+          "role": "engine",
+          "note": " Giới hạn từ 06/10/2026: tối đa 2 bản."
         },
         {
           "cardId": 62995268,
@@ -10003,6 +10023,12 @@
           "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
           "accessed": "2026-10-04",
           "usage": "fact-check"
+        },
+        {
+          "title": "Master Duel Meta — Forbidden/Limited List: October 6th, 2026",
+          "url": "https://www.masterduelmeta.com/forbidden-limited-list",
+          "accessed": "2026-10-06",
+          "usage": "fact-check"
         }
       ]
     },
@@ -10031,12 +10057,11 @@
         "source": "editorial",
         "note": "MDM: Sep 2026 Master I, 2026-09-26. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -10347,12 +10372,11 @@
         "source": "editorial",
         "note": "MDM: Aug 2026 Master I, 2026-08-31. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -10453,7 +10477,8 @@
           "cardId": 30271097,
           "name": "The Fallen & The Virtuous",
           "qty": 2,
-          "role": "engine"
+          "role": "engine",
+          "note": " Giới hạn từ 06/10/2026: tối đa 2 bản."
         },
         {
           "cardId": 40155014,
@@ -10591,6 +10616,12 @@
           "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
           "accessed": "2026-10-04",
           "usage": "fact-check"
+        },
+        {
+          "title": "Master Duel Meta — Forbidden/Limited List: October 6th, 2026",
+          "url": "https://www.masterduelmeta.com/forbidden-limited-list",
+          "accessed": "2026-10-06",
+          "usage": "fact-check"
         }
       ]
     },
@@ -10618,12 +10649,11 @@
         "source": "editorial",
         "note": "MDM: Sep 2026 Master V, 2026-09-15. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -10717,7 +10747,8 @@
           "cardId": 30271097,
           "name": "The Fallen & The Virtuous",
           "qty": 2,
-          "role": "engine"
+          "role": "engine",
+          "note": " Giới hạn từ 06/10/2026: tối đa 2 bản."
         }
       ],
       "techCards": [
@@ -10870,6 +10901,12 @@
           "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
           "accessed": "2026-10-04",
           "usage": "fact-check"
+        },
+        {
+          "title": "Master Duel Meta — Forbidden/Limited List: October 6th, 2026",
+          "url": "https://www.masterduelmeta.com/forbidden-limited-list",
+          "accessed": "2026-10-06",
+          "usage": "fact-check"
         }
       ]
     },
@@ -10898,12 +10935,11 @@
         "source": "editorial",
         "note": "MDM: Sep 2026 Master I, 2026-09-20. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -11171,12 +11207,11 @@
         "source": "editorial",
         "note": "MDM: Sep 2026 Master I, 2026-09-26. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -11478,12 +11513,11 @@
         "source": "editorial",
         "note": "MDM: Sep 2026 Master I, 2026-09-07. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -11739,12 +11773,11 @@
         "source": "editorial",
         "note": "MDM: Oct 2026 Master I, 2026-10-03. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -12039,12 +12072,11 @@
         "source": "editorial",
         "note": "MDM: Sep 2026 Master V, 2026-09-29. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -12128,7 +12160,8 @@
           "cardId": 30271097,
           "name": "The Fallen & The Virtuous",
           "qty": 2,
-          "role": "engine"
+          "role": "engine",
+          "note": " Giới hạn từ 06/10/2026: tối đa 2 bản."
         }
       ],
       "techCards": [
@@ -12260,6 +12293,12 @@
           "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
           "accessed": "2026-10-04",
           "usage": "fact-check"
+        },
+        {
+          "title": "Master Duel Meta — Forbidden/Limited List: October 6th, 2026",
+          "url": "https://www.masterduelmeta.com/forbidden-limited-list",
+          "accessed": "2026-10-06",
+          "usage": "fact-check"
         }
       ]
     },
@@ -12288,12 +12327,11 @@
         "source": "editorial",
         "note": "MDM: Top 8 — Sep 2026 Meta Weekly, 2026-09-04. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -12605,12 +12643,11 @@
         "source": "editorial",
         "note": "MDM: Sep 2026 Master V, 2026-09-22. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -12708,7 +12745,8 @@
           "cardId": 30271097,
           "name": "The Fallen & The Virtuous",
           "qty": 2,
-          "role": "engine"
+          "role": "engine",
+          "note": " Giới hạn từ 06/10/2026: tối đa 2 bản."
         },
         {
           "cardId": 62777823,
@@ -12885,6 +12923,12 @@
           "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
           "accessed": "2026-10-04",
           "usage": "fact-check"
+        },
+        {
+          "title": "Master Duel Meta — Forbidden/Limited List: October 6th, 2026",
+          "url": "https://www.masterduelmeta.com/forbidden-limited-list",
+          "accessed": "2026-10-06",
+          "usage": "fact-check"
         }
       ]
     },
@@ -12913,12 +12957,11 @@
         "source": "editorial",
         "note": "MDM: Jul 2026 Master I, 2026-07-18. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -13155,12 +13198,11 @@
         "source": "editorial",
         "note": "MDM: Sep 2026 Rating Duels, 2026-09-29. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -13420,12 +13462,11 @@
         "source": "editorial",
         "note": "MDM: Jul 2026 Master I, 2026-07-15. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -13698,12 +13739,11 @@
         "source": "editorial",
         "note": "MDM: Sep 2026 Master V, 2026-09-24. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -13792,7 +13832,8 @@
           "cardId": 20508881,
           "name": "Radiant Typhoon Vision",
           "qty": 1,
-          "role": "engine"
+          "role": "engine",
+          "note": " Giới hạn từ 06/10/2026: tối đa 1 bản."
         },
         {
           "cardId": 83232904,
@@ -13924,6 +13965,12 @@
           "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
           "accessed": "2026-10-04",
           "usage": "fact-check"
+        },
+        {
+          "title": "Master Duel Meta — Forbidden/Limited List: October 6th, 2026",
+          "url": "https://www.masterduelmeta.com/forbidden-limited-list",
+          "accessed": "2026-10-06",
+          "usage": "fact-check"
         }
       ]
     },
@@ -13952,12 +13999,11 @@
         "source": "editorial",
         "note": "MDM: Jul 2026 Master I, 2026-07-25. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -14072,7 +14118,8 @@
           "cardId": 30271097,
           "name": "The Fallen & The Virtuous",
           "qty": 2,
-          "role": "engine"
+          "role": "engine",
+          "note": " Giới hạn từ 06/10/2026: tối đa 2 bản."
         }
       ],
       "techCards": [
@@ -14195,6 +14242,12 @@
           "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
           "accessed": "2026-10-04",
           "usage": "fact-check"
+        },
+        {
+          "title": "Master Duel Meta — Forbidden/Limited List: October 6th, 2026",
+          "url": "https://www.masterduelmeta.com/forbidden-limited-list",
+          "accessed": "2026-10-06",
+          "usage": "fact-check"
         }
       ]
     },
@@ -14223,12 +14276,11 @@
         "source": "editorial",
         "note": "MDM: Sep 2026 Master I, 2026-09-19. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -14564,12 +14616,11 @@
         "source": "editorial",
         "note": "MDM: Sep 2026 Master I, 2026-09-25. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -14700,7 +14751,8 @@
           "cardId": 30271097,
           "name": "The Fallen & The Virtuous",
           "qty": 2,
-          "role": "engine"
+          "role": "engine",
+          "note": " Giới hạn từ 06/10/2026: tối đa 2 bản."
         }
       ],
       "techCards": [
@@ -14833,6 +14885,12 @@
           "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
           "accessed": "2026-10-04",
           "usage": "fact-check"
+        },
+        {
+          "title": "Master Duel Meta — Forbidden/Limited List: October 6th, 2026",
+          "url": "https://www.masterduelmeta.com/forbidden-limited-list",
+          "accessed": "2026-10-06",
+          "usage": "fact-check"
         }
       ]
     },
@@ -14861,12 +14919,11 @@
         "source": "editorial",
         "note": "MDM: Sep 2026 Master V, 2026-09-24. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -14985,7 +15042,8 @@
           "cardId": 30271097,
           "name": "The Fallen & The Virtuous",
           "qty": 2,
-          "role": "engine"
+          "role": "engine",
+          "note": " Giới hạn từ 06/10/2026: tối đa 2 bản."
         },
         {
           "cardId": 57416183,
@@ -15124,6 +15182,12 @@
           "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
           "accessed": "2026-10-04",
           "usage": "fact-check"
+        },
+        {
+          "title": "Master Duel Meta — Forbidden/Limited List: October 6th, 2026",
+          "url": "https://www.masterduelmeta.com/forbidden-limited-list",
+          "accessed": "2026-10-06",
+          "usage": "fact-check"
         }
       ]
     },
@@ -15152,12 +15216,11 @@
         "source": "editorial",
         "note": "MDM: Sep 2026 Master I, 2026-09-07. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -15414,12 +15477,11 @@
         "source": "editorial",
         "note": "MDM: Sep 2026 Master I, 2026-09-30. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -15667,12 +15729,11 @@
         "source": "editorial",
         "note": "MDM: Sep 2026 Master V, 2026-09-25. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -15921,12 +15982,11 @@
         "source": "editorial",
         "note": "MDM: Aug 2026 Master I, 2026-08-24. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -16194,12 +16254,11 @@
         "source": "editorial",
         "note": "MDM: Sep 2026 Master I, 2026-09-24. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -16494,12 +16553,11 @@
         "source": "editorial",
         "note": "MDM: Sep 2026 Win Streak, 2026-09-05. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -16893,12 +16951,11 @@
         "source": "editorial",
         "note": "MDM: Aug 2026 Master I, 2026-08-28. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -17211,12 +17268,11 @@
         "source": "editorial",
         "note": "MDM: Sep 2026 Master I, 2026-09-29. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -17582,12 +17638,11 @@
         "source": "editorial",
         "note": "MDM: Sep 2026 Master V, 2026-09-29. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -17683,13 +17738,15 @@
           "cardId": 20508881,
           "name": "Radiant Typhoon Vision",
           "qty": 1,
-          "role": "engine"
+          "role": "engine",
+          "note": " Giới hạn từ 06/10/2026: tối đa 1 bản."
         },
         {
           "cardId": 30271097,
           "name": "The Fallen & The Virtuous",
           "qty": 2,
-          "role": "engine"
+          "role": "engine",
+          "note": " Giới hạn từ 06/10/2026: tối đa 2 bản."
         }
       ],
       "techCards": [
@@ -17820,6 +17877,12 @@
           "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
           "accessed": "2026-10-04",
           "usage": "fact-check"
+        },
+        {
+          "title": "Master Duel Meta — Forbidden/Limited List: October 6th, 2026",
+          "url": "https://www.masterduelmeta.com/forbidden-limited-list",
+          "accessed": "2026-10-06",
+          "usage": "fact-check"
         }
       ]
     },
@@ -17847,12 +17910,11 @@
         "source": "editorial",
         "note": "MDM: Sep 2026 Win Streak, 2026-09-30. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -18128,12 +18190,11 @@
         "source": "editorial",
         "note": "MDM: Jul 2026 Master V, 2026-07-31. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -18192,7 +18253,8 @@
           "cardId": 54143349,
           "name": "Radiant Typhoon Eldam",
           "qty": 2,
-          "role": "engine"
+          "role": "engine",
+          "note": " Giới hạn từ 06/10/2026: tối đa 2 bản."
         },
         {
           "cardId": 80538047,
@@ -18481,6 +18543,12 @@
           "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
           "accessed": "2026-10-04",
           "usage": "fact-check"
+        },
+        {
+          "title": "Master Duel Meta — Forbidden/Limited List: October 6th, 2026",
+          "url": "https://www.masterduelmeta.com/forbidden-limited-list",
+          "accessed": "2026-10-06",
+          "usage": "fact-check"
         }
       ]
     },
@@ -18508,12 +18576,11 @@
         "source": "editorial",
         "note": "MDM: Jun 2026 WCS 2026 DLv. Max, 2026-06-21. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -18828,12 +18895,11 @@
         "source": "editorial",
         "note": "MDM: Sep 2026 Master V, 2026-09-30. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -19101,12 +19167,11 @@
         "source": "editorial",
         "note": "MDM: Jul 2026 Master I, 2026-07-31. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -19461,12 +19526,11 @@
         "source": "editorial",
         "note": "MDM: Sep 2026 Master I, 2026-09-25. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -19739,12 +19803,11 @@
         "source": "editorial",
         "note": "MDM: Top 8 — Sep 2026 Meta Weekly, 2026-09-04. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -20006,12 +20069,11 @@
         "source": "editorial",
         "note": "MDM: Sep 2026 Master I, 2026-09-29. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -20020,7 +20082,7 @@
           "name": "Radiant Typhoon Eldam",
           "qty": 2,
           "role": "starter",
-          "note": "Normal Summon Eldam, tìm Swen."
+          "note": "Normal Summon Eldam, tìm Swen. Giới hạn từ 06/10/2026: tối đa 2 bản."
         },
         {
           "cardId": 27755794,
@@ -20101,13 +20163,15 @@
           "cardId": 20508881,
           "name": "Radiant Typhoon Vision",
           "qty": 1,
-          "role": "engine"
+          "role": "engine",
+          "note": " Giới hạn từ 06/10/2026: tối đa 1 bản."
         },
         {
           "cardId": 30271097,
           "name": "The Fallen & The Virtuous",
           "qty": 2,
-          "role": "engine"
+          "role": "engine",
+          "note": " Giới hạn từ 06/10/2026: tối đa 2 bản."
         },
         {
           "cardId": 53813120,
@@ -20234,6 +20298,12 @@
           "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
           "accessed": "2026-10-04",
           "usage": "fact-check"
+        },
+        {
+          "title": "Master Duel Meta — Forbidden/Limited List: October 6th, 2026",
+          "url": "https://www.masterduelmeta.com/forbidden-limited-list",
+          "accessed": "2026-10-06",
+          "usage": "fact-check"
         }
       ]
     },
@@ -20262,12 +20332,11 @@
         "source": "editorial",
         "note": "MDM: Sep 2026 Win Streak, 2026-09-24. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -20535,12 +20604,11 @@
         "source": "editorial",
         "note": "MDM: Sep 2026 Master I, 2026-09-24. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -20825,12 +20893,11 @@
         "source": "editorial",
         "note": "MDM: Aug 2026 Master V, 2026-08-25. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -21153,12 +21220,11 @@
         "source": "editorial",
         "note": "MDM: Top 16 — Aug 2026 Meta Weekly, 2026-08-17. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -21432,12 +21498,11 @@
         "source": "editorial",
         "note": "MDM: Sep 2026 Master V, 2026-09-28. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -21718,12 +21783,11 @@
         "source": "editorial",
         "note": "MDM: Aug 2026 Master V, 2026-08-28. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -22070,12 +22134,11 @@
         "source": "editorial",
         "note": "MDM: Top 16 — Sep 2026 Meta Weekly, 2026-09-07. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -22339,12 +22402,11 @@
         "source": "editorial",
         "note": "MDM: Sep 2026 Master I, 2026-09-24. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -22409,7 +22471,8 @@
           "cardId": 54143349,
           "name": "Radiant Typhoon Eldam",
           "qty": 2,
-          "role": "engine"
+          "role": "engine",
+          "note": " Giới hạn từ 06/10/2026: tối đa 2 bản."
         },
         {
           "cardId": 80538047,
@@ -22505,7 +22568,8 @@
           "cardId": 20508881,
           "name": "Radiant Typhoon Vision",
           "qty": 1,
-          "role": "engine"
+          "role": "engine",
+          "note": " Giới hạn từ 06/10/2026: tối đa 1 bản."
         },
         {
           "cardId": 17954937,
@@ -22683,6 +22747,12 @@
           "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
           "accessed": "2026-10-04",
           "usage": "fact-check"
+        },
+        {
+          "title": "Master Duel Meta — Forbidden/Limited List: October 6th, 2026",
+          "url": "https://www.masterduelmeta.com/forbidden-limited-list",
+          "accessed": "2026-10-06",
+          "usage": "fact-check"
         }
       ]
     },
@@ -22711,12 +22781,11 @@
         "source": "editorial",
         "note": "MDM: Jul 2026 Master I, 2026-07-19. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -23083,12 +23152,11 @@
         "source": "editorial",
         "note": "MDM: Aug 2026 Master I, 2026-08-25. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -23388,12 +23456,11 @@
         "source": "editorial",
         "note": "MDM: Jul 2026 Master I, 2026-07-31. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -23674,12 +23741,11 @@
         "source": "editorial",
         "note": "MDM: Sep 2026 Master V, 2026-09-03. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -23809,7 +23875,8 @@
           "cardId": 30271097,
           "name": "The Fallen & The Virtuous",
           "qty": 2,
-          "role": "engine"
+          "role": "engine",
+          "note": " Giới hạn từ 06/10/2026: tối đa 2 bản."
         },
         {
           "cardId": 17954937,
@@ -23972,6 +24039,12 @@
           "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
           "accessed": "2026-10-04",
           "usage": "fact-check"
+        },
+        {
+          "title": "Master Duel Meta — Forbidden/Limited List: October 6th, 2026",
+          "url": "https://www.masterduelmeta.com/forbidden-limited-list",
+          "accessed": "2026-10-06",
+          "usage": "fact-check"
         }
       ]
     },
@@ -24000,12 +24073,11 @@
         "source": "editorial",
         "note": "MDM: Sep 2026 Win Streak, 2026-09-23. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -24355,12 +24427,11 @@
         "source": "editorial",
         "note": "MDM: Sep 2026 Master V, 2026-09-16. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -24407,7 +24478,8 @@
           "cardId": 54143349,
           "name": "Radiant Typhoon Eldam",
           "qty": 2,
-          "role": "engine"
+          "role": "engine",
+          "note": " Giới hạn từ 06/10/2026: tối đa 2 bản."
         },
         {
           "cardId": 27755794,
@@ -24473,7 +24545,8 @@
           "cardId": 20508881,
           "name": "Radiant Typhoon Vision",
           "qty": 1,
-          "role": "engine"
+          "role": "engine",
+          "note": " Giới hạn từ 06/10/2026: tối đa 1 bản."
         },
         {
           "cardId": 53813120,
@@ -24645,6 +24718,12 @@
           "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
           "accessed": "2026-10-04",
           "usage": "fact-check"
+        },
+        {
+          "title": "Master Duel Meta — Forbidden/Limited List: October 6th, 2026",
+          "url": "https://www.masterduelmeta.com/forbidden-limited-list",
+          "accessed": "2026-10-06",
+          "usage": "fact-check"
         }
       ]
     },
@@ -24672,12 +24751,11 @@
         "source": "editorial",
         "note": "MDM: Sep 2026 Master I, 2026-09-30. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -24979,12 +25057,11 @@
         "source": "editorial",
         "note": "MDM: Oct 2026 Master V, 2026-10-02. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -25285,12 +25362,11 @@
         "source": "editorial",
         "note": "MDM: Aug 2026 Master V, 2026-08-20. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -25636,12 +25712,11 @@
         "source": "editorial",
         "note": "MDM: Jul 2026 Master I, 2026-07-12. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -25675,7 +25750,8 @@
           "cardId": 54143349,
           "name": "Radiant Typhoon Eldam",
           "qty": 1,
-          "role": "engine"
+          "role": "engine",
+          "note": " Giới hạn từ 06/10/2026: tối đa 2 bản."
         },
         {
           "cardId": 80538047,
@@ -25748,7 +25824,8 @@
           "cardId": 20508881,
           "name": "Radiant Typhoon Vision",
           "qty": 1,
-          "role": "engine"
+          "role": "engine",
+          "note": " Giới hạn từ 06/10/2026: tối đa 1 bản."
         },
         {
           "cardId": 11556339,
@@ -25921,6 +25998,12 @@
           "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
           "accessed": "2026-10-04",
           "usage": "fact-check"
+        },
+        {
+          "title": "Master Duel Meta — Forbidden/Limited List: October 6th, 2026",
+          "url": "https://www.masterduelmeta.com/forbidden-limited-list",
+          "accessed": "2026-10-06",
+          "usage": "fact-check"
         }
       ]
     },
@@ -25949,12 +26032,11 @@
         "source": "editorial",
         "note": "MDM: Sep 2026 Master V, 2026-09-29. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -26240,12 +26322,11 @@
         "source": "editorial",
         "note": "MDM: Jun 2026 WCS 2026 DLv. Max, 2026-06-18. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -26585,12 +26666,11 @@
         "source": "editorial",
         "note": "MDM: Jul 2026 Master V, 2026-07-30. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -26679,13 +26759,15 @@
           "cardId": 20508881,
           "name": "Radiant Typhoon Vision",
           "qty": 1,
-          "role": "engine"
+          "role": "engine",
+          "note": " Giới hạn từ 06/10/2026: tối đa 1 bản."
         },
         {
           "cardId": 30271097,
           "name": "The Fallen & The Virtuous",
           "qty": 2,
-          "role": "engine"
+          "role": "engine",
+          "note": " Giới hạn từ 06/10/2026: tối đa 2 bản."
         },
         {
           "cardId": 3734202,
@@ -26817,6 +26899,12 @@
           "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
           "accessed": "2026-10-04",
           "usage": "fact-check"
+        },
+        {
+          "title": "Master Duel Meta — Forbidden/Limited List: October 6th, 2026",
+          "url": "https://www.masterduelmeta.com/forbidden-limited-list",
+          "accessed": "2026-10-06",
+          "usage": "fact-check"
         }
       ]
     },
@@ -26844,12 +26932,11 @@
         "source": "editorial",
         "note": "MDM: Sep 2026 Master I, 2026-09-06. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -26950,7 +27037,8 @@
           "cardId": 30271097,
           "name": "The Fallen & The Virtuous",
           "qty": 2,
-          "role": "engine"
+          "role": "engine",
+          "note": " Giới hạn từ 06/10/2026: tối đa 2 bản."
         },
         {
           "cardId": 44536921,
@@ -27108,6 +27196,12 @@
           "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
           "accessed": "2026-10-04",
           "usage": "fact-check"
+        },
+        {
+          "title": "Master Duel Meta — Forbidden/Limited List: October 6th, 2026",
+          "url": "https://www.masterduelmeta.com/forbidden-limited-list",
+          "accessed": "2026-10-06",
+          "usage": "fact-check"
         }
       ]
     },
@@ -27136,12 +27230,11 @@
         "source": "editorial",
         "note": "MDM: Aug 2026 Master V, 2026-08-26. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -27413,12 +27506,11 @@
         "source": "editorial",
         "note": "MDM: Sep 2026 Master I, 2026-09-26. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -27685,12 +27777,11 @@
         "source": "editorial",
         "note": "MDM: Jun 2026 WCS 2026 DLv. Max, 2026-06-20. Có kết quả ladder/giải; không mặc định thuộc Tier List hiện tại."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [
@@ -27826,7 +27917,8 @@
           "cardId": 30271097,
           "name": "The Fallen & The Virtuous",
           "qty": 2,
-          "role": "engine"
+          "role": "engine",
+          "note": " Giới hạn từ 06/10/2026: tối đa 2 bản."
         },
         {
           "cardId": 82956214,
@@ -27972,6 +28064,12 @@
           "url": "https://db.ygoprodeck.com/api/v7/cardinfo.php",
           "accessed": "2026-10-04",
           "usage": "fact-check"
+        },
+        {
+          "title": "Master Duel Meta — Forbidden/Limited List: October 6th, 2026",
+          "url": "https://www.masterduelmeta.com/forbidden-limited-list",
+          "accessed": "2026-10-06",
+          "usage": "fact-check"
         }
       ]
     },
@@ -28000,12 +28098,11 @@
         "source": "editorial",
         "note": "MDM: 2nd Place — Elite CS October 2026#1, 2026-10-03; có trong nhóm power 1.0 lúc đối chiếu Tier List. Không quy đổi thành tier 1."
       },
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-06",
       "banlist": {
-        "version": "MD-2026-09-03",
-        "effectiveDate": "2026-09-03",
-        "verifiedOn": "2026-10-04",
-        "pendingVersionReviewed": "MD-2026-10-06"
+        "version": "MD-2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "verifiedOn": "2026-10-06"
       },
       "contentStatus": "in-review",
       "coreCards": [

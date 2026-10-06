@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "dataVersion": 4,
+  "dataVersion": 6,
   "lists": [
     {
       "version": "MD-2026-09-03",
@@ -1056,10 +1056,11 @@
       "effectiveTimeConfirmed": false,
       "announcedDate": "2026-09-24",
       "sourceUrls": [
-        "https://ygorganization.com/master-duel-fl-list-update-and-card-decoder"
+        "https://ygorganization.com/master-duel-fl-list-update-and-card-decoder",
+        "https://www.masterduelmeta.com/forbidden-limited-list"
       ],
-      "note": "Gio hieu luc tam dat 11:00 +07:00 (= 13:00 JST theo YGOrganization, nguon thu cap); chua co thong bao chinh thuc cua Konami.",
-      "fetchedAt": "2026-10-01T00:45:13+07:00",
+      "note": "Đối chiếu 7 thay đổi theo ảnh người dùng cung cấp ngày 06/10/2026 và trang Forbidden/Limited List của Master Duel Meta. Giữ các giới hạn khác từ snapshot trước. Ngày hiệu lực 06/10/2026; mốc 11:00 +07:00 được kế thừa, chưa xác nhận giờ chính thức.",
+      "fetchedAt": "2026-10-06T13:18:23Z",
       "entries": [
         {
           "cardId": 572850,

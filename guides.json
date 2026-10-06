@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "dataVersion": 4,
+  "dataVersion": 6,
   "guides": [
     {
       "deckId": "sky-striker",
@@ -1662,7 +1662,8 @@
           "Aristeia chỉ negate khi có ít nhất ba Elfnote.",
           "Không gọi quái mới vào ô giữa đang có quái.",
           "Power Patron khóa Extra Deck thành Synchro khi ở sân.",
-          "Danh sách mẫu 40 Main / 15 Extra. Điều chỉnh tech theo ladder và kiểm tra banlist đang áp dụng trong game."
+          "Danh sách mẫu 40 Main / 14 Extra. Điều chỉnh tech theo ladder và kiểm tra banlist đang áp dụng trong game.",
+          "Banlist 06/10/2026: Omega bị cấm và đã bỏ khỏi Extra Deck; line ô giữa Elfnote vẫn dùng được."
         ]
       },
       "strengths": [
@@ -2439,7 +2440,8 @@
           "Giữ ô giữa trống cho Lucina/Tinia.",
           "Chỉ dùng Power Patron Synchro vào đúng đích được chỉ định.",
           "Line minh họa mở Elfnote; Kewl Tune nối tiếp tùy tay.",
-          "Danh sách mẫu 40 Main / 15 Extra. Điều chỉnh tech theo ladder và kiểm tra banlist đang áp dụng trong game."
+          "Danh sách mẫu 40 Main / 15 Extra. Điều chỉnh tech theo ladder và kiểm tra banlist đang áp dụng trong game.",
+          "Banlist 06/10/2026: Cue chỉ còn 1 bản; tăng Effect Veiler lên 3 để bù slot, giữ Mix ở 2 bản theo giới hạn hiện hành. Line minh họa mở Elfnote giữ nguyên."
         ]
       },
       "strengths": [
@@ -4257,12 +4259,13 @@
       "playstyle": {
         "overview": "Synchrons dùng Junk Synchron hồi Level 2 để lên Junk Speeder, rồi Speeder gọi nhiều Synchron Tuner khác Level. Deck cần tính tổng Level và khóa Synchro để nối boss, thay vì triệu hồi mọi Tuner mà không có non-Tuner.",
         "goingFirst": "Chuẩn bị quái Level 2 trong GY, Junk Synchron hồi nó rồi dựng Speeder. Gọi Synchron có Level khác nhau, giữ non-Tuner trên sân để tiếp tục Synchro.",
-        "goingSecond": "Dùng Synchro Overtake và các extender để chơi qua negate; Speeder bị chặn thì chuyển sang Accel Synchro nếu đủ Level. Không đánh đổi toàn bộ tài nguyên vào một hiệu ứng.",
+        "goingSecond": "Dùng Junk Converter cùng một Tuner trên tay để chuẩn bị quái Level 2 trong GY và tìm Synchron; giữ extender cho trường hợp Junk Synchron hoặc Speeder bị negate. Synchro Overtake đã bị cấm từ 06/10/2026 nên không dùng nó để mở hay vượt negate.",
         "tips": [
           "Speeder khóa Extra Deck Synchro cả lượt dùng hiệu ứng.",
           "Synchron gọi từ Deck phải khác Level.",
           "Junk Synchron hồi quái ở Defense và negate hiệu ứng quái đó.",
-          "Danh sách mẫu 40 Main / 15 Extra. Điều chỉnh tech theo ladder và kiểm tra banlist đang áp dụng trong game."
+          "Danh sách mẫu 40 Main / 15 Extra. Điều chỉnh tech theo ladder và kiểm tra banlist đang áp dụng trong game.",
+          "Banlist 06/10/2026: bỏ Synchro Overtake, tăng Junk Converter lên 3; Converter cần chính nó và một Tuner khác trên tay để search."
         ]
       },
       "strengths": [
@@ -4301,7 +4304,7 @@
             37799519,
             60283232,
             96363153,
-            99243014
+            11069680
           ],
           "extraDeckCardIds": [
             77075360,
@@ -9339,12 +9342,12 @@
         "Có thể phá sân và tiếp tục từ GY."
       ],
       "weaknesses": [
-        "Mill không đúng bài hoặc bị Dimension Shifter khiến thiếu nhiên liệu."
+        "Mill không đúng bài hoặc bị khóa hoặc banish GY khiến thiếu nhiên liệu."
       ],
       "counters": [
         {
           "cardId": 14558127,
-          "note": "Mill không đúng bài hoặc bị Dimension Shifter khiến thiếu nhiên liệu. Ash chỉ áp dụng khi hiệu ứng được kích hoạt có thao tác Deck thuộc điều kiện của nó."
+          "note": "Mill không đúng bài hoặc bị khóa hoặc banish GY khiến thiếu nhiên liệu. Ash chỉ áp dụng khi hiệu ứng được kích hoạt có thao tác Deck thuộc điều kiện của nó."
         }
       ],
       "combos": [
@@ -9403,7 +9406,7 @@
             {
               "atStep": 1,
               "cardIds": [],
-              "text": "Mill không đúng bài hoặc bị Dimension Shifter khiến thiếu nhiên liệu."
+              "text": "Mill không đúng bài hoặc bị khóa hoặc banish GY khiến thiếu nhiên liệu."
             }
           ]
         }

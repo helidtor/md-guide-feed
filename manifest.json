@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0.0",
-  "dataVersion": 4,
-  "generatedAt": "2026-10-04T15:44:09Z",
+  "dataVersion": 6,
+  "generatedAt": "2026-10-06T14:58:08Z",
   "sources": [
     {
       "name": "YGOPRODeck API v7",
@@ -12,23 +12,28 @@
       "name": "Master Duel Meta",
       "url": "https://www.masterduelmeta.com/tier-list",
       "note": "65 added decklists and ladder/tournament results checked on 2026-10-04, with per-deck URLs. Vietnamese guidance authored independently; editorial banlist adaptations disclosed."
+    },
+    {
+      "name": "Master Duel Meta — banlist 2026-10-06",
+      "url": "https://www.masterduelmeta.com/forbidden-limited-list",
+      "note": "Seven changes cross-checked against the user-provided image dated 2026-10-06. All 100 decklists checked against the active snapshot; Vietnamese guidance revised where affected."
     }
   ],
   "files": {
     "decks": {
       "url": "decks.json",
-      "sha256": "bd76876ea2bce7de2862856cd28469ebc45ff9142cfe82acbf7b02ff8c109398",
-      "size": 828168
+      "sha256": "37b45544aeea8ca65ca9259f5fdea78ca40db375a3e8037bd5d115821cd6f159",
+      "size": 832897
     },
     "guides": {
       "url": "guides.json",
-      "sha256": "4499ebedc34f2281eb574bff7227332b38cd70955996e68fbaa38544133166cd",
-      "size": 473237
+      "sha256": "5f02ac3d128856900cdd151f8cdb185bf95323f1567b84eb3db8367a166a8a28",
+      "size": 473818
     },
     "banlist": {
       "url": "banlist.json",
-      "sha256": "409d6b772357ec5e377b22d4fb983b2b0d714e3759937202e6fd29aed4f56c5c",
-      "size": 52566
+      "sha256": "903d45afca3f27e738609af753b9b98ad7b63b953fb9008d269e7c8eb17dd28e",
+      "size": 52806
     }
   }
 }

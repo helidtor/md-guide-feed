@@ -26,6 +26,8 @@ def slug(s):
 selected=read(R/'selected.json')
 assert len(selected)==65 and set(x['name'] for x in selected)==set(PROFILES)
 decks=read(ROOT/'decks.json');guides=read(ROOT/'guides.json');ban=read(ROOT/'banlist.json');manifest=read(ROOT/'manifest.json')
+if manifest['dataVersion']>VERSION:
+    raise SystemExit('Historical version 4 builder: refusing to overwrite a newer release. Use the current banlist migration instead.')
 original_decks=decks['decks'][:35];original_ids={d['id'] for d in original_decks}
 original_guides=[g for g in guides['guides'] if g['deckId'] in original_ids]
 assert len(original_decks)==len(original_guides)==35
